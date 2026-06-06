@@ -8,6 +8,15 @@ CareBridge is an intelligent healthcare coordination platform designed to improv
 
 The platform provides real-time monitoring, AI-powered insights, predictive analytics, and healthcare reporting to support better decision-making.
 
+## Dataset Notice
+
+The datasets included in this repository are synthetic (dummy) datasets created for educational and demonstration purposes only.
+
+No real patient records, hospital records, or personal healthcare information are included.
+
+The synthetic data was generated with AI assistance and used for testing, analytics, machine learning, and visualization within the CareBridge project.
+
+
 ## Key Features
 
 ### 📊 Dashboard
