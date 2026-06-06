@@ -1,0 +1,2001 @@
+doctor_id,doctor_name,specialization,experience_years,facility_id,availability_status
+DOC0001,Dr. Pawan Kulkarni,Pulmonology,11,FAC0006,On Leave
+DOC0002,Dr. Nisha Tiwari,Emergency Medicine,11,FAC0133,Available
+DOC0003,Dr. Vishal Raut,Anesthesiology,2,FAC0061,Busy
+DOC0004,Dr. Sachin Jadhav,Pulmonology,5,FAC0135,Available
+DOC0005,Dr. Amit Deshpande,Emergency Medicine,11,FAC0291,Available
+DOC0006,Dr. Yogesh Shah,Gastroenterology,15,FAC0060,Available
+DOC0007,Dr. Ajay Desai,Surgery,24,FAC0242,On Leave
+DOC0008,Dr. Madhuri Kamble,ENT,27,FAC0019,Available
+DOC0009,Dr. Dinesh Singh,Orthopedics,18,FAC0164,Busy
+DOC0010,Dr. Sachin Gupta,ENT,12,FAC0027,Busy
+DOC0011,Dr. Ganesh Jadhav,Radiology,19,FAC0239,Available
+DOC0012,Dr. Swati Patil,Radiology,13,FAC0189,Busy
+DOC0013,Dr. Vishal Sharma,Emergency Medicine,30,FAC0125,Busy
+DOC0014,Dr. Abhijit Mishra,ENT,35,FAC0101,Available
+DOC0015,Dr. Rahul Gaikwad,Geriatrics,23,FAC0278,Busy
+DOC0016,Dr. Prakash Patil,Pediatrics,20,FAC0193,Available
+DOC0017,Dr. Archana Deshpande,Ophthalmology,10,FAC0031,Available
+DOC0018,Dr. Ujwala Kamble,Emergency Medicine,27,FAC0267,Available
+DOC0019,Dr. Akash Shinde,Geriatrics,9,FAC0259,Busy
+DOC0020,Dr. Akash Shah,Community Medicine,28,FAC0032,On Leave
+DOC0021,Dr. Lata Salve,Anesthesiology,26,FAC0162,Available
+DOC0022,Dr. Ajay Jadhav,Oncology,9,FAC0104,Available
+DOC0023,Dr. Ravi Waghmare,Urology,21,FAC0239,Available
+DOC0024,Dr. Abhijit Pawar,Nephrology,20,FAC0232,Available
+DOC0025,Dr. Vijay More,Dermatology,3,FAC0156,Busy
+DOC0026,Dr. Manoj Jadhav,Surgery,23,FAC0128,Available
+DOC0027,Dr. Anil Chavan,Surgery,2,FAC0090,Busy
+DOC0028,Dr. Deepa Nair,Nephrology,7,FAC0128,Available
+DOC0029,Dr. Anita Patil,Gynecology,15,FAC0032,Available
+DOC0030,Dr. Rajesh Gupta,Orthopedics,17,FAC0044,Available
+DOC0031,Dr. Sanjay Raut,Orthopedics,9,FAC0228,On Leave
+DOC0032,Dr. Suresh Desai,Neurology,4,FAC0237,On Leave
+DOC0033,Dr. Omkar Singh,General Medicine,32,FAC0203,Available
+DOC0034,Dr. Ravi Mane,Ophthalmology,12,FAC0110,Available
+DOC0035,Dr. Sunita Sharma,Pulmonology,19,FAC0126,Available
+DOC0036,Dr. Gauri Desai,Surgery,18,FAC0045,Available
+DOC0037,Dr. Vaishali Raut,Geriatrics,16,FAC0270,On Leave
+DOC0038,Dr. Savita Patil,Pulmonology,23,FAC0196,Available
+DOC0039,Dr. Rajesh Surve,Anesthesiology,33,FAC0290,Available
+DOC0040,Dr. Priya Sawant,Ophthalmology,2,FAC0113,Available
+DOC0041,Dr. Sachin Mane,Neurology,15,FAC0300,Available
+DOC0042,Dr. Meena Nair,Oncology,15,FAC0029,Busy
+DOC0043,Dr. Rajesh Surve,ENT,12,FAC0089,Busy
+DOC0044,Dr. Dinesh Shah,Oncology,23,FAC0015,Busy
+DOC0045,Dr. Neha Chavan,Radiology,35,FAC0253,Available
+DOC0046,Dr. Vijay Desai,General Medicine,15,FAC0120,Available
+DOC0047,Dr. Prakash Surve,Anesthesiology,9,FAC0104,Busy
+DOC0048,Dr. Amit Patil,Pediatrics,10,FAC0076,Busy
+DOC0049,Dr. Vijay Mane,Anesthesiology,7,FAC0203,Available
+DOC0050,Dr. Pooja Singh,Geriatrics,32,FAC0224,Available
+DOC0051,Dr. Manisha Raut,Community Medicine,15,FAC0183,Busy
+DOC0052,Dr. Sneha Bhosale,Neurology,9,FAC0151,Busy
+DOC0053,Dr. Sneha Kamble,Neurology,3,FAC0291,Busy
+DOC0054,Dr. Sonal Yadav,Pulmonology,7,FAC0290,Available
+DOC0055,Dr. Ajay Mane,Geriatrics,11,FAC0164,Busy
+DOC0056,Dr. Omkar Kumar,General Medicine,29,FAC0172,Available
+DOC0057,Dr. Manisha Jadhav,Pediatrics,17,FAC0180,Busy
+DOC0058,Dr. Ganesh Waghmare,Urology,11,FAC0215,Available
+DOC0059,Dr. Rajesh Nair,Pulmonology,7,FAC0193,Busy
+DOC0060,Dr. Vaishali Mishra,Nephrology,11,FAC0116,Available
+DOC0061,Dr. Deepak Patil,Pediatrics,17,FAC0164,Available
+DOC0062,Dr. Ujwala Kadam,Psychiatry,5,FAC0083,On Leave
+DOC0063,Dr. Prakash Sharma,Urology,2,FAC0248,On Leave
+DOC0064,Dr. Smita Raut,Cardiology,11,FAC0223,Available
+DOC0065,Dr. Neha Lokhande,Ophthalmology,35,FAC0284,Busy
+DOC0066,Dr. Ajay Shinde,Oncology,26,FAC0026,Available
+DOC0067,Dr. Manoj Desai,Urology,1,FAC0185,Available
+DOC0068,Dr. Gauri Pawar,Dermatology,2,FAC0050,Available
+DOC0069,Dr. Vijay Deshpande,Surgery,20,FAC0060,Available
+DOC0070,Dr. Vijay Yadav,Neurology,25,FAC0279,Available
+DOC0071,Dr. Rajesh More,Ophthalmology,3,FAC0229,Available
+DOC0072,Dr. Ajay Chavan,Gynecology,4,FAC0138,Busy
+DOC0073,Dr. Vijay Gupta,Urology,35,FAC0177,On Leave
+DOC0074,Dr. Sonal Nair,Gastroenterology,25,FAC0032,Available
+DOC0075,Dr. Aarti Kamble,Pulmonology,16,FAC0244,Available
+DOC0076,Dr. Yogesh Kamble,Oncology,33,FAC0018,On Leave
+DOC0077,Dr. Aarti Sharma,Nephrology,8,FAC0076,Available
+DOC0078,Dr. Neha Tiwari,Cardiology,9,FAC0099,Available
+DOC0079,Dr. Sanjay Chavan,Anesthesiology,17,FAC0076,On Leave
+DOC0080,Dr. Vijay Kadam,Psychiatry,26,FAC0285,Available
+DOC0081,Dr. Sachin Waghmare,Urology,34,FAC0007,Available
+DOC0082,Dr. Rekha Shah,Pediatrics,7,FAC0299,Busy
+DOC0083,Dr. Tushar Bhosale,Urology,23,FAC0275,Available
+DOC0084,Dr. Akash Sharma,Neurology,3,FAC0243,Available
+DOC0085,Dr. Smita Sharma,Surgery,3,FAC0206,Busy
+DOC0086,Dr. Pawan Gaikwad,Ophthalmology,31,FAC0026,Busy
+DOC0087,Dr. Prakash Chavan,Ophthalmology,20,FAC0156,Busy
+DOC0088,Dr. Swapnil Gaikwad,Nephrology,20,FAC0069,Busy
+DOC0089,Dr. Anil Singh,Dermatology,6,FAC0214,Available
+DOC0090,Dr. Vishal Deshpande,Cardiology,24,FAC0265,Available
+DOC0091,Dr. Kavita Bhosale,Gynecology,26,FAC0260,Busy
+DOC0092,Dr. Ujwala Shah,Dermatology,12,FAC0015,Busy
+DOC0093,Dr. Mamta Desai,Nephrology,3,FAC0128,Available
+DOC0094,Dr. Pawan Pawar,Nephrology,24,FAC0141,Available
+DOC0095,Dr. Nitin Patil,Pulmonology,24,FAC0124,Busy
+DOC0096,Dr. Shweta Deshpande,Emergency Medicine,23,FAC0283,Available
+DOC0097,Dr. Vishal Chavan,General Medicine,19,FAC0047,Available
+DOC0098,Dr. Shweta Shah,Geriatrics,15,FAC0110,Available
+DOC0099,Dr. Meena Yadav,General Medicine,33,FAC0210,Busy
+DOC0100,Dr. Nilesh Surve,Endocrinology,12,FAC0068,Busy
+DOC0101,Dr. Meena Sharma,Urology,18,FAC0157,Busy
+DOC0102,Dr. Vikram Salve,Radiology,30,FAC0112,Busy
+DOC0103,Dr. Sneha Shah,Gastroenterology,1,FAC0053,On Leave
+DOC0104,Dr. Rohit Yadav,Community Medicine,20,FAC0145,Available
+DOC0105,Dr. Prakash Salve,Ophthalmology,18,FAC0167,Busy
+DOC0106,Dr. Sanjay Kulkarni,Cardiology,16,FAC0265,Busy
+DOC0107,Dr. Sneha Gupta,General Medicine,9,FAC0164,Busy
+DOC0108,Dr. Anil Surve,Surgery,26,FAC0215,Busy
+DOC0109,Dr. Manisha Shah,ENT,22,FAC0098,Busy
+DOC0110,Dr. Dinesh Gupta,Radiology,33,FAC0184,Busy
+DOC0111,Dr. Pooja Bhosale,Gynecology,31,FAC0050,Busy
+DOC0112,Dr. Reshma Surve,Geriatrics,22,FAC0094,Available
+DOC0113,Dr. Ajay Singh,Anesthesiology,27,FAC0158,Available
+DOC0114,Dr. Lata Waghmare,Cardiology,31,FAC0061,Busy
+DOC0115,Dr. Rupali Sharma,Dermatology,31,FAC0037,Available
+DOC0116,Dr. Sachin Bhosale,Gynecology,4,FAC0212,Available
+DOC0117,Dr. Ashwini Lokhande,Gynecology,30,FAC0292,Available
+DOC0118,Dr. Reshma Jadhav,Geriatrics,22,FAC0250,On Leave
+DOC0119,Dr. Kiran Desai,Ophthalmology,29,FAC0003,Available
+DOC0120,Dr. Rupali Mishra,Orthopedics,32,FAC0082,Available
+DOC0121,Dr. Kiran Lokhande,Pulmonology,28,FAC0207,Available
+DOC0122,Dr. Rohit Pawar,Anesthesiology,1,FAC0192,Busy
+DOC0123,Dr. Neha Patil,ENT,16,FAC0003,Busy
+DOC0124,Dr. Deepak Kulkarni,Gastroenterology,25,FAC0053,Busy
+DOC0125,Dr. Kavita Chavan,Radiology,20,FAC0024,Available
+DOC0126,Dr. Smita Joshi,Community Medicine,28,FAC0173,On Leave
+DOC0127,Dr. Yogesh Deshpande,Neurology,13,FAC0184,On Leave
+DOC0128,Dr. Rahul Gaikwad,Dermatology,9,FAC0115,Busy
+DOC0129,Dr. Nisha More,Geriatrics,24,FAC0064,Busy
+DOC0130,Dr. Yogesh Yadav,Endocrinology,35,FAC0131,Available
+DOC0131,Dr. Nitin Shinde,Pediatrics,4,FAC0011,Available
+DOC0132,Dr. Suresh Nair,Gynecology,31,FAC0130,Available
+DOC0133,Dr. Deepak Lokhande,Ophthalmology,34,FAC0052,Busy
+DOC0134,Dr. Archana Chavan,Endocrinology,33,FAC0054,Available
+DOC0135,Dr. Tushar Shinde,Endocrinology,13,FAC0255,Available
+DOC0136,Dr. Omkar Joshi,Urology,23,FAC0104,Available
+DOC0137,Dr. Rohit Deshpande,Anesthesiology,31,FAC0107,Available
+DOC0138,Dr. Nitin Jadhav,Gynecology,32,FAC0057,On Leave
+DOC0139,Dr. Kavita Singh,Geriatrics,17,FAC0052,Available
+DOC0140,Dr. Anil Waghmare,Neurology,7,FAC0026,Busy
+DOC0141,Dr. Rajesh Tiwari,Pediatrics,28,FAC0161,Available
+DOC0142,Dr. Rahul Kamble,Anesthesiology,11,FAC0071,Available
+DOC0143,Dr. Varun Salve,Anesthesiology,24,FAC0048,Available
+DOC0144,Dr. Ganesh Waghmare,Pulmonology,25,FAC0140,Busy
+DOC0145,Dr. Anita Kulkarni,Pediatrics,11,FAC0031,Available
+DOC0146,Dr. Gauri Tiwari,Neurology,29,FAC0292,Busy
+DOC0147,Dr. Varun Patil,Pulmonology,31,FAC0067,Available
+DOC0148,Dr. Vikram Desai,Geriatrics,17,FAC0033,Available
+DOC0149,Dr. Reshma Singh,Community Medicine,15,FAC0296,Busy
+DOC0150,Dr. Nisha Kumar,Community Medicine,28,FAC0049,Busy
+DOC0151,Dr. Rajesh Gupta,Psychiatry,10,FAC0198,Busy
+DOC0152,Dr. Sunita Patil,Pulmonology,33,FAC0081,Busy
+DOC0153,Dr. Kavita Mishra,ENT,21,FAC0252,Available
+DOC0154,Dr. Amit Joshi,Surgery,25,FAC0115,Busy
+DOC0155,Dr. Vikram Waghmare,Orthopedics,29,FAC0294,Busy
+DOC0156,Dr. Prakash Shinde,Pediatrics,2,FAC0255,Available
+DOC0157,Dr. Rohit Nair,Endocrinology,6,FAC0001,On Leave
+DOC0158,Dr. Yogesh Joshi,Geriatrics,14,FAC0288,Busy
+DOC0159,Dr. Rajesh Chavan,Nephrology,15,FAC0028,Available
+DOC0160,Dr. Smita Deshpande,Pediatrics,29,FAC0187,Available
+DOC0161,Dr. Priya Sawant,Psychiatry,19,FAC0182,Available
+DOC0162,Dr. Amit Raut,Gynecology,32,FAC0085,Busy
+DOC0163,Dr. Suresh Salve,Pediatrics,13,FAC0101,On Leave
+DOC0164,Dr. Sanjay Waghmare,Pediatrics,22,FAC0098,Busy
+DOC0165,Dr. Dinesh Yadav,Nephrology,29,FAC0064,Busy
+DOC0166,Dr. Rekha Deshpande,Cardiology,34,FAC0003,Busy
+DOC0167,Dr. Omkar Shah,Neurology,33,FAC0248,Busy
+DOC0168,Dr. Deepa Chavan,Surgery,7,FAC0066,Busy
+DOC0169,Dr. Ujwala Sawant,Urology,25,FAC0259,On Leave
+DOC0170,Dr. Meena Kadam,Nephrology,19,FAC0176,Busy
+DOC0171,Dr. Archana Sharma,Psychiatry,20,FAC0263,Busy
+DOC0172,Dr. Vaishali Pawar,Endocrinology,14,FAC0103,Busy
+DOC0173,Dr. Dinesh Gupta,Gastroenterology,12,FAC0068,Available
+DOC0174,Dr. Pawan Shinde,Oncology,31,FAC0181,Busy
+DOC0175,Dr. Nitin Singh,Urology,19,FAC0274,Busy
+DOC0176,Dr. Anita Patil,Cardiology,10,FAC0196,Busy
+DOC0177,Dr. Meena Mishra,Community Medicine,19,FAC0083,Available
+DOC0178,Dr. Pawan Tiwari,Psychiatry,14,FAC0152,Available
+DOC0179,Dr. Suresh Sharma,Geriatrics,15,FAC0288,Busy
+DOC0180,Dr. Nisha Tiwari,Surgery,4,FAC0148,Available
+DOC0181,Dr. Rohit Desai,Dermatology,17,FAC0007,Busy
+DOC0182,Dr. Omkar Gaikwad,Endocrinology,35,FAC0189,Available
+DOC0183,Dr. Lata Waghmare,Neurology,5,FAC0091,On Leave
+DOC0184,Dr. Anita Kadam,Ophthalmology,28,FAC0021,Busy
+DOC0185,Dr. Pooja Shah,Anesthesiology,1,FAC0131,Available
+DOC0186,Dr. Sunita Kulkarni,Geriatrics,4,FAC0166,Busy
+DOC0187,Dr. Nilesh Tiwari,Orthopedics,23,FAC0294,Busy
+DOC0188,Dr. Sachin Gaikwad,Orthopedics,34,FAC0095,Busy
+DOC0189,Dr. Archana Nair,Orthopedics,26,FAC0275,Available
+DOC0190,Dr. Aarti Sawant,Radiology,24,FAC0170,Available
+DOC0191,Dr. Nisha Deshpande,Pediatrics,1,FAC0288,Busy
+DOC0192,Dr. Ajay Raut,Community Medicine,3,FAC0125,Busy
+DOC0193,Dr. Dinesh Tiwari,Ophthalmology,25,FAC0059,Available
+DOC0194,Dr. Rahul Surve,Gastroenterology,24,FAC0265,Busy
+DOC0195,Dr. Nilesh Desai,Anesthesiology,13,FAC0152,Available
+DOC0196,Dr. Ravi Mishra,General Medicine,35,FAC0276,Busy
+DOC0197,Dr. Aarti Yadav,Pediatrics,28,FAC0110,Available
+DOC0198,Dr. Kiran Chavan,General Medicine,10,FAC0037,Available
+DOC0199,Dr. Amit Jadhav,Neurology,4,FAC0038,Busy
+DOC0200,Dr. Kavita Shah,Urology,17,FAC0117,Available
+DOC0201,Dr. Santosh Sawant,Community Medicine,25,FAC0009,Available
+DOC0202,Dr. Kiran Singh,Orthopedics,3,FAC0033,Available
+DOC0203,Dr. Anita Bhosale,Radiology,6,FAC0155,Busy
+DOC0204,Dr. Ganesh Kadam,Neurology,31,FAC0016,Available
+DOC0205,Dr. Deepa Kadam,Geriatrics,19,FAC0280,Available
+DOC0206,Dr. Rahul Nair,Pediatrics,10,FAC0285,Available
+DOC0207,Dr. Smita Kadam,Radiology,6,FAC0276,Available
+DOC0208,Dr. Sanjay Lokhande,Neurology,10,FAC0263,Available
+DOC0209,Dr. Mamta Salve,Neurology,8,FAC0100,Busy
+DOC0210,Dr. Shweta Desai,Geriatrics,30,FAC0282,Available
+DOC0211,Dr. Nitin Jadhav,Dermatology,7,FAC0129,Busy
+DOC0212,Dr. Prakash Mane,Pediatrics,16,FAC0066,Available
+DOC0213,Dr. Yogesh Pawar,Nephrology,32,FAC0163,Available
+DOC0214,Dr. Pawan Shah,Anesthesiology,24,FAC0079,On Leave
+DOC0215,Dr. Priya Sawant,Geriatrics,15,FAC0127,Available
+DOC0216,Dr. Manoj Gupta,Nephrology,31,FAC0170,Available
+DOC0217,Dr. Nilesh Nair,Geriatrics,12,FAC0056,Busy
+DOC0218,Dr. Swapnil Chavan,Dermatology,35,FAC0072,Available
+DOC0219,Dr. Vishal Jadhav,Geriatrics,33,FAC0010,Available
+DOC0220,Dr. Rupali Kadam,Psychiatry,3,FAC0109,Available
+DOC0221,Dr. Gauri Yadav,Surgery,24,FAC0077,Available
+DOC0222,Dr. Deepa Kamble,Nephrology,9,FAC0149,Available
+DOC0223,Dr. Ganesh Mane,Community Medicine,1,FAC0258,Available
+DOC0224,Dr. Aarti More,Nephrology,9,FAC0264,Available
+DOC0225,Dr. Rupali Gupta,Emergency Medicine,31,FAC0075,Available
+DOC0226,Dr. Ajay Jadhav,ENT,24,FAC0136,Available
+DOC0227,Dr. Nisha Surve,Pulmonology,25,FAC0185,On Leave
+DOC0228,Dr. Amit Yadav,Gastroenterology,7,FAC0166,Busy
+DOC0229,Dr. Omkar Singh,Oncology,35,FAC0135,Available
+DOC0230,Dr. Rajesh Shah,Ophthalmology,34,FAC0040,Available
+DOC0231,Dr. Nisha Kadam,Pulmonology,23,FAC0181,Busy
+DOC0232,Dr. Priya Joshi,Neurology,29,FAC0072,Available
+DOC0233,Dr. Vaishali Salve,Neurology,10,FAC0109,Available
+DOC0234,Dr. Manisha Chavan,Urology,15,FAC0061,Busy
+DOC0235,Dr. Nilesh Gupta,Dermatology,31,FAC0246,Busy
+DOC0236,Dr. Rahul Gaikwad,Oncology,9,FAC0023,Busy
+DOC0237,Dr. Vaishali Joshi,Cardiology,10,FAC0021,Available
+DOC0238,Dr. Nisha Kadam,Community Medicine,2,FAC0289,Busy
+DOC0239,Dr. Sanjay Waghmare,Neurology,31,FAC0242,Available
+DOC0240,Dr. Varun Kulkarni,Endocrinology,12,FAC0299,Busy
+DOC0241,Dr. Ravi Singh,Endocrinology,30,FAC0176,Busy
+DOC0242,Dr. Sneha Kadam,General Medicine,7,FAC0068,Available
+DOC0243,Dr. Aarti Lokhande,Neurology,7,FAC0077,Available
+DOC0244,Dr. Smita Desai,Pediatrics,33,FAC0273,Available
+DOC0245,Dr. Ujwala Sharma,Community Medicine,1,FAC0277,Busy
+DOC0246,Dr. Archana Mane,Urology,34,FAC0023,Available
+DOC0247,Dr. Tushar Mishra,Oncology,23,FAC0196,Busy
+DOC0248,Dr. Anita Lokhande,Pulmonology,17,FAC0069,Busy
+DOC0249,Dr. Deepak Sharma,Ophthalmology,27,FAC0279,Available
+DOC0250,Dr. Akash Joshi,General Medicine,34,FAC0061,Available
+DOC0251,Dr. Manisha Tiwari,Emergency Medicine,27,FAC0162,Available
+DOC0252,Dr. Kiran Shah,Psychiatry,17,FAC0130,Available
+DOC0253,Dr. Varun Salve,Urology,14,FAC0204,Busy
+DOC0254,Dr. Gauri More,Ophthalmology,31,FAC0190,On Leave
+DOC0255,Dr. Pallavi Mishra,Community Medicine,9,FAC0204,Available
+DOC0256,Dr. Swati Tiwari,Dermatology,7,FAC0083,Available
+DOC0257,Dr. Tushar Nair,Surgery,11,FAC0027,On Leave
+DOC0258,Dr. Tushar Jadhav,Endocrinology,31,FAC0075,Available
+DOC0259,Dr. Anil Gaikwad,Endocrinology,6,FAC0190,Available
+DOC0260,Dr. Dinesh Kadam,Endocrinology,19,FAC0267,Available
+DOC0261,Dr. Vaishali Deshpande,Dermatology,1,FAC0225,Busy
+DOC0262,Dr. Lata Pawar,Gastroenterology,33,FAC0018,Busy
+DOC0263,Dr. Pooja Gupta,ENT,24,FAC0019,Busy
+DOC0264,Dr. Kavita Salve,Community Medicine,23,FAC0205,Available
+DOC0265,Dr. Neha Joshi,Orthopedics,5,FAC0008,Available
+DOC0266,Dr. Madhuri Shah,Ophthalmology,23,FAC0179,Available
+DOC0267,Dr. Swati Surve,Ophthalmology,1,FAC0207,Available
+DOC0268,Dr. Anita Nair,Radiology,33,FAC0038,Available
+DOC0269,Dr. Tushar Joshi,Oncology,35,FAC0132,Available
+DOC0270,Dr. Ganesh Shah,Anesthesiology,16,FAC0248,On Leave
+DOC0271,Dr. Nitin Waghmare,Pediatrics,31,FAC0015,Available
+DOC0272,Dr. Kiran Tiwari,Anesthesiology,15,FAC0113,Available
+DOC0273,Dr. Sachin Nair,ENT,17,FAC0005,Available
+DOC0274,Dr. Nitin Singh,Psychiatry,5,FAC0176,On Leave
+DOC0275,Dr. Prakash Mane,Neurology,18,FAC0112,On Leave
+DOC0276,Dr. Gauri Singh,ENT,16,FAC0103,Busy
+DOC0277,Dr. Sonal Pawar,Gynecology,23,FAC0128,Busy
+DOC0278,Dr. Dinesh Jadhav,Psychiatry,1,FAC0253,On Leave
+DOC0279,Dr. Rajesh Sharma,Oncology,32,FAC0162,Busy
+DOC0280,Dr. Ravi Mishra,Surgery,18,FAC0262,Available
+DOC0281,Dr. Rekha Desai,Pulmonology,28,FAC0270,On Leave
+DOC0282,Dr. Sachin Mane,Nephrology,12,FAC0202,On Leave
+DOC0283,Dr. Swati Sawant,Community Medicine,1,FAC0005,Available
+DOC0284,Dr. Anita Sawant,Neurology,17,FAC0186,Available
+DOC0285,Dr. Meena Deshpande,Neurology,24,FAC0176,Available
+DOC0286,Dr. Archana Kumar,Surgery,24,FAC0191,Available
+DOC0287,Dr. Rupali Kulkarni,Pediatrics,15,FAC0295,Busy
+DOC0288,Dr. Komal Lokhande,Gynecology,13,FAC0196,Busy
+DOC0289,Dr. Gauri Tiwari,Urology,12,FAC0005,Available
+DOC0290,Dr. Komal Singh,Radiology,32,FAC0162,Available
+DOC0291,Dr. Sunita Kadam,Cardiology,11,FAC0051,Available
+DOC0292,Dr. Nilesh Chavan,Anesthesiology,29,FAC0050,Available
+DOC0293,Dr. Rohit Nair,General Medicine,23,FAC0132,Available
+DOC0294,Dr. Swapnil Gupta,Neurology,35,FAC0102,On Leave
+DOC0295,Dr. Rajesh Sawant,Nephrology,32,FAC0262,Busy
+DOC0296,Dr. Varun Bhosale,Neurology,10,FAC0238,Busy
+DOC0297,Dr. Santosh Yadav,Orthopedics,26,FAC0293,Available
+DOC0298,Dr. Ajay Sawant,Ophthalmology,19,FAC0163,Busy
+DOC0299,Dr. Anil Raut,Oncology,24,FAC0228,Available
+DOC0300,Dr. Santosh More,Gynecology,2,FAC0095,Busy
+DOC0301,Dr. Vishal Kumar,Neurology,14,FAC0041,Available
+DOC0302,Dr. Vijay Surve,General Medicine,4,FAC0243,Busy
+DOC0303,Dr. Reshma Jadhav,Endocrinology,17,FAC0054,Available
+DOC0304,Dr. Deepak Gaikwad,Nephrology,19,FAC0127,Busy
+DOC0305,Dr. Nisha Chavan,Cardiology,2,FAC0088,Busy
+DOC0306,Dr. Swapnil Deshpande,Ophthalmology,35,FAC0240,Available
+DOC0307,Dr. Manisha Nair,Geriatrics,30,FAC0091,Busy
+DOC0308,Dr. Archana Joshi,Emergency Medicine,20,FAC0274,Available
+DOC0309,Dr. Savita Jadhav,Emergency Medicine,20,FAC0227,Available
+DOC0310,Dr. Lata Patil,Gynecology,34,FAC0001,Available
+DOC0311,Dr. Rohit Patil,Radiology,31,FAC0252,Available
+DOC0312,Dr. Tushar Bhosale,Psychiatry,1,FAC0119,Available
+DOC0313,Dr. Yogesh Nair,ENT,26,FAC0224,Available
+DOC0314,Dr. Omkar Kadam,Orthopedics,17,FAC0113,Available
+DOC0315,Dr. Nisha Mishra,Geriatrics,19,FAC0140,Busy
+DOC0316,Dr. Santosh Pawar,Gynecology,12,FAC0036,Available
+DOC0317,Dr. Varun Waghmare,Dermatology,32,FAC0140,Available
+DOC0318,Dr. Sunita Nair,Pediatrics,12,FAC0012,Available
+DOC0319,Dr. Manisha Waghmare,Orthopedics,15,FAC0005,Available
+DOC0320,Dr. Sanjay Sawant,Pulmonology,20,FAC0216,On Leave
+DOC0321,Dr. Pawan Tiwari,Orthopedics,22,FAC0017,Busy
+DOC0322,Dr. Sunita Salve,Psychiatry,5,FAC0201,Available
+DOC0323,Dr. Ujwala Chavan,General Medicine,25,FAC0129,Available
+DOC0324,Dr. Sneha Mishra,Cardiology,16,FAC0227,Available
+DOC0325,Dr. Sachin Gupta,Surgery,31,FAC0107,Busy
+DOC0326,Dr. Dinesh Sawant,Psychiatry,3,FAC0082,Available
+DOC0327,Dr. Nilesh Yadav,Emergency Medicine,13,FAC0153,Busy
+DOC0328,Dr. Anita Gaikwad,General Medicine,21,FAC0223,Available
+DOC0329,Dr. Akash Shinde,General Medicine,16,FAC0203,On Leave
+DOC0330,Dr. Savita Kumar,Emergency Medicine,10,FAC0244,Busy
+DOC0331,Dr. Pooja Deshpande,Geriatrics,22,FAC0047,Available
+DOC0332,Dr. Kiran Kulkarni,Gynecology,7,FAC0275,Available
+DOC0333,Dr. Rohit Tiwari,Dermatology,29,FAC0178,Available
+DOC0334,Dr. Rajesh Singh,Cardiology,17,FAC0069,Available
+DOC0335,Dr. Rohit Bhosale,Dermatology,32,FAC0278,Busy
+DOC0336,Dr. Pallavi Sawant,Endocrinology,18,FAC0240,On Leave
+DOC0337,Dr. Pooja Jadhav,Nephrology,10,FAC0272,Available
+DOC0338,Dr. Rohit Mane,Geriatrics,1,FAC0233,Available
+DOC0339,Dr. Ujwala Patil,Anesthesiology,16,FAC0187,Busy
+DOC0340,Dr. Mamta Kadam,Community Medicine,34,FAC0098,Available
+DOC0341,Dr. Rekha Sharma,Urology,21,FAC0145,Busy
+DOC0342,Dr. Suresh Joshi,Gynecology,3,FAC0035,Available
+DOC0343,Dr. Sanjay Shinde,Pediatrics,13,FAC0249,Available
+DOC0344,Dr. Nitin Deshpande,Cardiology,17,FAC0270,Available
+DOC0345,Dr. Manisha Jadhav,Geriatrics,14,FAC0007,Available
+DOC0346,Dr. Vikram Tiwari,Psychiatry,24,FAC0032,Busy
+DOC0347,Dr. Omkar Mane,Gastroenterology,18,FAC0030,Available
+DOC0348,Dr. Omkar Bhosale,Gastroenterology,14,FAC0040,Available
+DOC0349,Dr. Komal Kadam,Gastroenterology,13,FAC0098,Busy
+DOC0350,Dr. Vaishali More,Pediatrics,27,FAC0286,Busy
+DOC0351,Dr. Pallavi Gupta,Pediatrics,28,FAC0235,Available
+DOC0352,Dr. Komal Kadam,Community Medicine,22,FAC0259,Available
+DOC0353,Dr. Swati Surve,Psychiatry,21,FAC0181,On Leave
+DOC0354,Dr. Swapnil Mane,Anesthesiology,28,FAC0212,Busy
+DOC0355,Dr. Komal Pawar,Emergency Medicine,17,FAC0193,On Leave
+DOC0356,Dr. Ganesh Patil,Endocrinology,19,FAC0018,Available
+DOC0357,Dr. Ujwala Bhosale,ENT,20,FAC0004,Available
+DOC0358,Dr. Rahul Mishra,Psychiatry,33,FAC0142,Busy
+DOC0359,Dr. Rekha Shinde,Emergency Medicine,30,FAC0020,Available
+DOC0360,Dr. Rajesh Raut,ENT,16,FAC0299,Available
+DOC0361,Dr. Vijay Shah,Orthopedics,14,FAC0205,Busy
+DOC0362,Dr. Ravi Deshpande,Endocrinology,7,FAC0296,Busy
+DOC0363,Dr. Vishal Tiwari,Orthopedics,25,FAC0296,Busy
+DOC0364,Dr. Rajesh Raut,Pediatrics,27,FAC0223,Busy
+DOC0365,Dr. Deepa Yadav,Cardiology,25,FAC0006,Available
+DOC0366,Dr. Prakash Nair,Anesthesiology,10,FAC0290,Available
+DOC0367,Dr. Rekha Desai,Endocrinology,29,FAC0202,Busy
+DOC0368,Dr. Ajay Lokhande,Gynecology,26,FAC0149,Available
+DOC0369,Dr. Nilesh Shah,Ophthalmology,26,FAC0026,Available
+DOC0370,Dr. Archana Mishra,Pulmonology,9,FAC0067,Busy
+DOC0371,Dr. Ganesh Yadav,Psychiatry,13,FAC0293,Busy
+DOC0372,Dr. Sonal Gaikwad,Urology,18,FAC0037,Available
+DOC0373,Dr. Kavita Shinde,Emergency Medicine,28,FAC0212,Available
+DOC0374,Dr. Rajesh Sharma,Neurology,20,FAC0013,On Leave
+DOC0375,Dr. Mamta Tiwari,Nephrology,10,FAC0227,Available
+DOC0376,Dr. Neha Gupta,Orthopedics,10,FAC0192,Available
+DOC0377,Dr. Ajay Sharma,General Medicine,19,FAC0076,Available
+DOC0378,Dr. Deepak Waghmare,Anesthesiology,2,FAC0242,Available
+DOC0379,Dr. Neha Pawar,Ophthalmology,34,FAC0280,Available
+DOC0380,Dr. Deepa Kulkarni,Oncology,25,FAC0010,On Leave
+DOC0381,Dr. Sunita Salve,Radiology,4,FAC0088,Available
+DOC0382,Dr. Meena Desai,Orthopedics,1,FAC0239,Available
+DOC0383,Dr. Nitin Kamble,General Medicine,7,FAC0185,Available
+DOC0384,Dr. Ajay Kadam,Anesthesiology,7,FAC0261,Available
+DOC0385,Dr. Komal Jadhav,Gastroenterology,13,FAC0096,On Leave
+DOC0386,Dr. Madhuri Kumar,ENT,3,FAC0012,On Leave
+DOC0387,Dr. Prakash Deshpande,General Medicine,11,FAC0202,Available
+DOC0388,Dr. Rajesh Yadav,Gastroenterology,16,FAC0155,Available
+DOC0389,Dr. Kiran Salve,Psychiatry,2,FAC0199,On Leave
+DOC0390,Dr. Rekha Sawant,Orthopedics,9,FAC0202,Busy
+DOC0391,Dr. Aarti Sharma,ENT,27,FAC0117,Busy
+DOC0392,Dr. Deepak Surve,Psychiatry,29,FAC0169,Available
+DOC0393,Dr. Rupali Nair,Radiology,9,FAC0104,Busy
+DOC0394,Dr. Madhuri Kulkarni,Geriatrics,10,FAC0221,On Leave
+DOC0395,Dr. Ashwini Jadhav,Pediatrics,35,FAC0286,Available
+DOC0396,Dr. Deepa Patil,Urology,27,FAC0164,Available
+DOC0397,Dr. Manoj Mishra,Gynecology,7,FAC0097,Available
+DOC0398,Dr. Smita Salve,Endocrinology,15,FAC0291,Available
+DOC0399,Dr. Rajesh Jadhav,Gastroenterology,9,FAC0245,Busy
+DOC0400,Dr. Pawan Yadav,Surgery,12,FAC0192,Available
+DOC0401,Dr. Pooja Pawar,Urology,3,FAC0116,Busy
+DOC0402,Dr. Dinesh Salve,Community Medicine,15,FAC0212,On Leave
+DOC0403,Dr. Kavita More,Anesthesiology,32,FAC0225,Busy
+DOC0404,Dr. Archana Kadam,Anesthesiology,25,FAC0022,Available
+DOC0405,Dr. Smita Nair,Gastroenterology,3,FAC0269,Available
+DOC0406,Dr. Omkar Raut,Gastroenterology,16,FAC0022,Available
+DOC0407,Dr. Rohit Kadam,Dermatology,4,FAC0265,Available
+DOC0408,Dr. Yogesh Bhosale,Neurology,30,FAC0147,Available
+DOC0409,Dr. Madhuri Desai,Nephrology,10,FAC0265,Busy
+DOC0410,Dr. Vijay Singh,Neurology,8,FAC0257,Busy
+DOC0411,Dr. Rekha Kadam,Nephrology,21,FAC0212,Available
+DOC0412,Dr. Akash Raut,Orthopedics,30,FAC0104,Available
+DOC0413,Dr. Manisha Singh,Pediatrics,6,FAC0064,Busy
+DOC0414,Dr. Vijay Joshi,Endocrinology,33,FAC0197,On Leave
+DOC0415,Dr. Rohit Kadam,Anesthesiology,11,FAC0023,Busy
+DOC0416,Dr. Pooja Kamble,Cardiology,12,FAC0075,Available
+DOC0417,Dr. Vishal Mishra,Geriatrics,19,FAC0229,Available
+DOC0418,Dr. Neha Patil,Nephrology,1,FAC0130,Available
+DOC0419,Dr. Rohit Tiwari,ENT,32,FAC0003,Available
+DOC0420,Dr. Vikram Lokhande,Endocrinology,6,FAC0227,Busy
+DOC0421,Dr. Ujwala Nair,Cardiology,14,FAC0143,Available
+DOC0422,Dr. Kiran Mane,Cardiology,10,FAC0019,Busy
+DOC0423,Dr. Lata Sawant,Pediatrics,4,FAC0045,Available
+DOC0424,Dr. Pooja Gupta,Nephrology,12,FAC0146,Busy
+DOC0425,Dr. Dinesh Desai,Anesthesiology,20,FAC0048,Available
+DOC0426,Dr. Omkar Jadhav,Radiology,5,FAC0219,Available
+DOC0427,Dr. Pawan Kamble,Gastroenterology,22,FAC0141,Available
+DOC0428,Dr. Manisha Pawar,Oncology,7,FAC0030,Busy
+DOC0429,Dr. Kavita Deshpande,Endocrinology,28,FAC0148,Busy
+DOC0430,Dr. Sachin Shah,Endocrinology,9,FAC0182,Busy
+DOC0431,Dr. Deepa Yadav,Neurology,32,FAC0255,Busy
+DOC0432,Dr. Manisha Bhosale,Pediatrics,1,FAC0100,Available
+DOC0433,Dr. Vishal Kamble,Urology,27,FAC0107,Available
+DOC0434,Dr. Rohit Tiwari,Geriatrics,1,FAC0109,Available
+DOC0435,Dr. Anil Tiwari,Radiology,20,FAC0035,Available
+DOC0436,Dr. Abhijit Patil,Anesthesiology,22,FAC0059,Available
+DOC0437,Dr. Smita Patil,Anesthesiology,13,FAC0090,Busy
+DOC0438,Dr. Dinesh Deshpande,Pulmonology,9,FAC0019,Available
+DOC0439,Dr. Yogesh Kamble,Nephrology,22,FAC0275,Busy
+DOC0440,Dr. Dinesh Singh,Radiology,34,FAC0029,Busy
+DOC0441,Dr. Rohit Nair,Oncology,14,FAC0010,Busy
+DOC0442,Dr. Vijay Kulkarni,Anesthesiology,2,FAC0144,On Leave
+DOC0443,Dr. Mamta More,Neurology,25,FAC0293,Busy
+DOC0444,Dr. Pawan Kamble,Ophthalmology,3,FAC0162,Available
+DOC0445,Dr. Yogesh Gaikwad,Radiology,29,FAC0191,Available
+DOC0446,Dr. Ravi Shinde,Dermatology,3,FAC0192,On Leave
+DOC0447,Dr. Sachin Patil,Gynecology,33,FAC0248,Available
+DOC0448,Dr. Vishal Kamble,Anesthesiology,20,FAC0269,Available
+DOC0449,Dr. Omkar Joshi,Cardiology,14,FAC0068,Available
+DOC0450,Dr. Anita Patil,Community Medicine,3,FAC0160,Busy
+DOC0451,Dr. Prakash Waghmare,Gastroenterology,7,FAC0024,Busy
+DOC0452,Dr. Rahul Shah,Anesthesiology,14,FAC0160,Available
+DOC0453,Dr. Anil Nair,Community Medicine,29,FAC0164,Available
+DOC0454,Dr. Pooja Salve,Endocrinology,1,FAC0059,Busy
+DOC0455,Dr. Sanjay Nair,Ophthalmology,21,FAC0180,Available
+DOC0456,Dr. Akash Gaikwad,Radiology,5,FAC0088,Busy
+DOC0457,Dr. Rohit Waghmare,General Medicine,9,FAC0026,Available
+DOC0458,Dr. Suresh Kadam,Urology,6,FAC0028,Available
+DOC0459,Dr. Ujwala Shah,Radiology,23,FAC0229,Available
+DOC0460,Dr. Manisha Mishra,Nephrology,6,FAC0274,Busy
+DOC0461,Dr. Omkar Tiwari,Nephrology,7,FAC0240,Available
+DOC0462,Dr. Nilesh Gaikwad,Endocrinology,10,FAC0115,Available
+DOC0463,Dr. Ganesh More,Nephrology,21,FAC0170,Available
+DOC0464,Dr. Nilesh Shinde,Nephrology,31,FAC0180,Busy
+DOC0465,Dr. Abhijit Mane,Gastroenterology,9,FAC0295,Available
+DOC0466,Dr. Prakash Nair,Psychiatry,20,FAC0037,Available
+DOC0467,Dr. Archana Gaikwad,Pulmonology,11,FAC0125,Available
+DOC0468,Dr. Sanjay Chavan,Oncology,28,FAC0221,Busy
+DOC0469,Dr. Manisha Gaikwad,Oncology,5,FAC0089,Busy
+DOC0470,Dr. Akash Sharma,Psychiatry,21,FAC0238,Available
+DOC0471,Dr. Ravi Bhosale,Endocrinology,5,FAC0208,Available
+DOC0472,Dr. Reshma Chavan,Pulmonology,21,FAC0195,Busy
+DOC0473,Dr. Vijay Pawar,Gynecology,1,FAC0072,Busy
+DOC0474,Dr. Rohit Bhosale,Dermatology,29,FAC0200,Available
+DOC0475,Dr. Deepak Shah,Emergency Medicine,28,FAC0156,On Leave
+DOC0476,Dr. Priya Sharma,Gynecology,26,FAC0262,Busy
+DOC0477,Dr. Rajesh Raut,General Medicine,4,FAC0282,Busy
+DOC0478,Dr. Suresh Kamble,ENT,2,FAC0145,Available
+DOC0479,Dr. Sneha Yadav,Surgery,25,FAC0163,Available
+DOC0480,Dr. Neha Gupta,Gynecology,31,FAC0089,Available
+DOC0481,Dr. Omkar Surve,Gynecology,27,FAC0185,Available
+DOC0482,Dr. Rekha Patil,Gynecology,2,FAC0037,Busy
+DOC0483,Dr. Nitin Lokhande,Gynecology,6,FAC0070,Busy
+DOC0484,Dr. Swapnil Waghmare,Nephrology,12,FAC0218,Available
+DOC0485,Dr. Mamta Waghmare,ENT,23,FAC0197,Available
+DOC0486,Dr. Priya Shah,Gastroenterology,16,FAC0256,Available
+DOC0487,Dr. Rupali Mane,Oncology,3,FAC0018,Available
+DOC0488,Dr. Suresh Shah,Gynecology,6,FAC0247,Busy
+DOC0489,Dr. Shweta Mishra,Gastroenterology,30,FAC0144,Available
+DOC0490,Dr. Kavita Gaikwad,Community Medicine,5,FAC0242,Busy
+DOC0491,Dr. Lata Sharma,Psychiatry,22,FAC0028,Busy
+DOC0492,Dr. Vikram Joshi,Urology,22,FAC0241,Available
+DOC0493,Dr. Deepak More,Oncology,20,FAC0019,Available
+DOC0494,Dr. Akash More,Community Medicine,4,FAC0294,On Leave
+DOC0495,Dr. Priya Bhosale,Gynecology,6,FAC0249,Available
+DOC0496,Dr. Anil Kulkarni,Ophthalmology,18,FAC0144,Available
+DOC0497,Dr. Varun More,Emergency Medicine,29,FAC0078,Busy
+DOC0498,Dr. Tushar Kumar,Neurology,32,FAC0121,Busy
+DOC0499,Dr. Prakash Jadhav,Pulmonology,10,FAC0075,Busy
+DOC0500,Dr. Abhijit Kadam,Geriatrics,29,FAC0122,Available
+DOC0501,Dr. Deepa Chavan,Geriatrics,4,FAC0177,Available
+DOC0502,Dr. Amit More,Pulmonology,26,FAC0238,Available
+DOC0503,Dr. Sonal Kadam,Ophthalmology,31,FAC0200,Available
+DOC0504,Dr. Rahul Bhosale,Community Medicine,25,FAC0230,Available
+DOC0505,Dr. Aarti Desai,Geriatrics,35,FAC0050,Available
+DOC0506,Dr. Varun Surve,Ophthalmology,22,FAC0140,Available
+DOC0507,Dr. Anil Yadav,Nephrology,26,FAC0300,Busy
+DOC0508,Dr. Deepa Gupta,Anesthesiology,34,FAC0100,Busy
+DOC0509,Dr. Ashwini Nair,Orthopedics,1,FAC0006,Available
+DOC0510,Dr. Sachin Shinde,ENT,23,FAC0229,Busy
+DOC0511,Dr. Sanjay Desai,Cardiology,6,FAC0013,On Leave
+DOC0512,Dr. Smita Yadav,Orthopedics,8,FAC0063,Busy
+DOC0513,Dr. Sneha Gupta,Pediatrics,12,FAC0290,Busy
+DOC0514,Dr. Deepak Waghmare,Ophthalmology,30,FAC0039,Busy
+DOC0515,Dr. Anil More,Cardiology,18,FAC0038,Available
+DOC0516,Dr. Amit Salve,Nephrology,12,FAC0136,Available
+DOC0517,Dr. Smita Kadam,Pediatrics,32,FAC0092,Available
+DOC0518,Dr. Sanjay Sharma,Ophthalmology,29,FAC0055,Available
+DOC0519,Dr. Vijay Shah,General Medicine,29,FAC0129,Busy
+DOC0520,Dr. Vaishali Yadav,Community Medicine,3,FAC0001,Available
+DOC0521,Dr. Manisha Sawant,Gastroenterology,1,FAC0201,Busy
+DOC0522,Dr. Nilesh Lokhande,Psychiatry,5,FAC0207,Available
+DOC0523,Dr. Pawan Chavan,Oncology,8,FAC0247,Available
+DOC0524,Dr. Prakash Gupta,Cardiology,26,FAC0156,Busy
+DOC0525,Dr. Rajesh Nair,Nephrology,6,FAC0175,Busy
+DOC0526,Dr. Kiran Pawar,Surgery,3,FAC0091,Busy
+DOC0527,Dr. Pawan Kadam,Pulmonology,23,FAC0055,Available
+DOC0528,Dr. Vishal Pawar,Dermatology,3,FAC0072,Available
+DOC0529,Dr. Sonal Deshpande,Psychiatry,5,FAC0200,Busy
+DOC0530,Dr. Rohit Chavan,Cardiology,2,FAC0231,Available
+DOC0531,Dr. Tushar Singh,Pediatrics,26,FAC0022,Available
+DOC0532,Dr. Swati Gupta,Oncology,10,FAC0275,Available
+DOC0533,Dr. Amit Singh,Geriatrics,32,FAC0073,Available
+DOC0534,Dr. Sunita Gaikwad,Neurology,1,FAC0067,Busy
+DOC0535,Dr. Omkar Tiwari,Endocrinology,30,FAC0050,Available
+DOC0536,Dr. Kavita Chavan,Pulmonology,8,FAC0055,Busy
+DOC0537,Dr. Sonal Jadhav,Anesthesiology,28,FAC0104,Busy
+DOC0538,Dr. Prakash Shinde,Gynecology,35,FAC0295,Available
+DOC0539,Dr. Reshma Desai,Orthopedics,22,FAC0089,Available
+DOC0540,Dr. Reshma Lokhande,Psychiatry,24,FAC0087,Available
+DOC0541,Dr. Madhuri Shah,Pediatrics,9,FAC0021,Busy
+DOC0542,Dr. Sneha Mishra,Pulmonology,2,FAC0081,Available
+DOC0543,Dr. Ravi Surve,Urology,19,FAC0046,Busy
+DOC0544,Dr. Pawan Kulkarni,Geriatrics,10,FAC0106,Available
+DOC0545,Dr. Santosh Gaikwad,Endocrinology,3,FAC0090,Available
+DOC0546,Dr. Varun Jadhav,Urology,23,FAC0155,Available
+DOC0547,Dr. Neha Shinde,Endocrinology,7,FAC0272,Available
+DOC0548,Dr. Nisha Gaikwad,Ophthalmology,14,FAC0238,Available
+DOC0549,Dr. Tushar Kulkarni,Neurology,32,FAC0243,Available
+DOC0550,Dr. Amit Yadav,Dermatology,19,FAC0187,Available
+DOC0551,Dr. Varun Tiwari,Pediatrics,3,FAC0233,Busy
+DOC0552,Dr. Pooja More,Gastroenterology,32,FAC0015,Available
+DOC0553,Dr. Deepa Waghmare,Urology,21,FAC0297,Available
+DOC0554,Dr. Ajay Mishra,ENT,21,FAC0057,Available
+DOC0555,Dr. Swapnil Pawar,Orthopedics,15,FAC0193,Available
+DOC0556,Dr. Amit Raut,Dermatology,10,FAC0224,On Leave
+DOC0557,Dr. Ravi Kadam,Nephrology,9,FAC0192,Busy
+DOC0558,Dr. Anil Pawar,Cardiology,9,FAC0172,Busy
+DOC0559,Dr. Anil Kulkarni,Nephrology,30,FAC0057,Available
+DOC0560,Dr. Ajay Raut,Geriatrics,11,FAC0152,On Leave
+DOC0561,Dr. Rupali Nair,Urology,6,FAC0118,Busy
+DOC0562,Dr. Swapnil Pawar,Ophthalmology,30,FAC0243,Available
+DOC0563,Dr. Vishal Kamble,Anesthesiology,16,FAC0127,Available
+DOC0564,Dr. Ujwala Surve,Urology,1,FAC0077,On Leave
+DOC0565,Dr. Nilesh Singh,Urology,3,FAC0259,Available
+DOC0566,Dr. Tushar Tiwari,Pulmonology,29,FAC0051,Available
+DOC0567,Dr. Reshma Patil,Gynecology,14,FAC0209,Available
+DOC0568,Dr. Vaishali Jadhav,Community Medicine,31,FAC0009,Available
+DOC0569,Dr. Swapnil Shah,Nephrology,2,FAC0299,Available
+DOC0570,Dr. Shweta Kumar,Emergency Medicine,12,FAC0208,Busy
+DOC0571,Dr. Swapnil Yadav,Anesthesiology,25,FAC0037,Available
+DOC0572,Dr. Santosh Mishra,Oncology,35,FAC0139,Busy
+DOC0573,Dr. Varun Raut,Gastroenterology,4,FAC0172,On Leave
+DOC0574,Dr. Yogesh Desai,Emergency Medicine,25,FAC0057,Available
+DOC0575,Dr. Rajesh Mane,Psychiatry,5,FAC0090,Busy
+DOC0576,Dr. Rekha Sawant,Pediatrics,35,FAC0123,Busy
+DOC0577,Dr. Shweta Kumar,Anesthesiology,15,FAC0108,Available
+DOC0578,Dr. Sachin Gupta,Cardiology,18,FAC0217,Available
+DOC0579,Dr. Vikram Deshpande,Pediatrics,34,FAC0257,Available
+DOC0580,Dr. Aarti Chavan,Nephrology,19,FAC0273,Busy
+DOC0581,Dr. Sanjay Raut,Orthopedics,6,FAC0235,Available
+DOC0582,Dr. Lata Jadhav,Ophthalmology,11,FAC0056,Available
+DOC0583,Dr. Gauri Kulkarni,Geriatrics,34,FAC0105,Available
+DOC0584,Dr. Nitin Nair,Emergency Medicine,31,FAC0068,Available
+DOC0585,Dr. Deepak Pawar,ENT,2,FAC0033,Busy
+DOC0586,Dr. Vaishali Sawant,Geriatrics,22,FAC0211,Busy
+DOC0587,Dr. Nilesh Shah,Nephrology,29,FAC0272,Available
+DOC0588,Dr. Ujwala Tiwari,Ophthalmology,11,FAC0157,Available
+DOC0589,Dr. Deepak Mishra,Emergency Medicine,10,FAC0025,Available
+DOC0590,Dr. Smita Surve,Radiology,35,FAC0083,Available
+DOC0591,Dr. Mamta Kumar,ENT,11,FAC0079,Available
+DOC0592,Dr. Akash Kulkarni,Emergency Medicine,17,FAC0226,Available
+DOC0593,Dr. Manisha Desai,Gynecology,23,FAC0163,Available
+DOC0594,Dr. Pooja Nair,General Medicine,8,FAC0155,Available
+DOC0595,Dr. Abhijit Kulkarni,Gynecology,21,FAC0235,Available
+DOC0596,Dr. Nisha Sawant,Radiology,31,FAC0152,On Leave
+DOC0597,Dr. Aarti Kulkarni,Anesthesiology,29,FAC0290,Busy
+DOC0598,Dr. Yogesh Desai,Radiology,8,FAC0072,Available
+DOC0599,Dr. Mamta Gaikwad,Orthopedics,23,FAC0229,Available
+DOC0600,Dr. Vaishali Pawar,ENT,34,FAC0299,Busy
+DOC0601,Dr. Sanjay Patil,Nephrology,35,FAC0043,Busy
+DOC0602,Dr. Sachin Kadam,Anesthesiology,32,FAC0100,Busy
+DOC0603,Dr. Sunita Surve,Gynecology,26,FAC0185,Busy
+DOC0604,Dr. Rajesh Kadam,Radiology,1,FAC0191,Available
+DOC0605,Dr. Vikram Kamble,Dermatology,6,FAC0288,Busy
+DOC0606,Dr. Vishal Lokhande,Neurology,19,FAC0227,Busy
+DOC0607,Dr. Vishal Raut,Oncology,9,FAC0213,Busy
+DOC0608,Dr. Neha Bhosale,Anesthesiology,34,FAC0244,Available
+DOC0609,Dr. Reshma Kadam,Urology,1,FAC0046,Busy
+DOC0610,Dr. Santosh More,Oncology,30,FAC0285,Busy
+DOC0611,Dr. Neha More,Psychiatry,19,FAC0196,Available
+DOC0612,Dr. Omkar Shah,Psychiatry,32,FAC0156,Busy
+DOC0613,Dr. Priya Tiwari,Ophthalmology,10,FAC0002,Available
+DOC0614,Dr. Suresh Yadav,Neurology,27,FAC0148,Available
+DOC0615,Dr. Priya Shinde,Orthopedics,32,FAC0142,Busy
+DOC0616,Dr. Akash Deshpande,Ophthalmology,28,FAC0290,Busy
+DOC0617,Dr. Pawan Chavan,Gastroenterology,24,FAC0062,Busy
+DOC0618,Dr. Swapnil Salve,Gynecology,4,FAC0084,Available
+DOC0619,Dr. Pallavi More,Emergency Medicine,18,FAC0028,Available
+DOC0620,Dr. Amit Bhosale,Geriatrics,34,FAC0150,On Leave
+DOC0621,Dr. Neha Mishra,Endocrinology,7,FAC0094,Busy
+DOC0622,Dr. Ashwini Kamble,Ophthalmology,20,FAC0162,Busy
+DOC0623,Dr. Suresh Nair,Gynecology,23,FAC0297,Available
+DOC0624,Dr. Lata Mane,Anesthesiology,27,FAC0249,On Leave
+DOC0625,Dr. Anita Pawar,ENT,33,FAC0080,Busy
+DOC0626,Dr. Smita Kumar,Psychiatry,35,FAC0270,Busy
+DOC0627,Dr. Santosh Waghmare,Gynecology,8,FAC0040,On Leave
+DOC0628,Dr. Rajesh Bhosale,Nephrology,9,FAC0186,Busy
+DOC0629,Dr. Nisha Mishra,Radiology,12,FAC0176,Available
+DOC0630,Dr. Ajay Kulkarni,Radiology,15,FAC0073,Available
+DOC0631,Dr. Kavita Lokhande,General Medicine,5,FAC0058,Busy
+DOC0632,Dr. Amit Pawar,Community Medicine,3,FAC0056,Available
+DOC0633,Dr. Nilesh Shinde,Orthopedics,3,FAC0130,Available
+DOC0634,Dr. Abhijit Shinde,Oncology,14,FAC0064,On Leave
+DOC0635,Dr. Aarti Mane,Gynecology,6,FAC0015,Busy
+DOC0636,Dr. Akash Mane,Gastroenterology,11,FAC0181,Busy
+DOC0637,Dr. Sonal Joshi,Pediatrics,5,FAC0292,Busy
+DOC0638,Dr. Sachin Pawar,Neurology,19,FAC0099,On Leave
+DOC0639,Dr. Priya Singh,Gastroenterology,14,FAC0051,Busy
+DOC0640,Dr. Rajesh Kumar,Community Medicine,29,FAC0095,On Leave
+DOC0641,Dr. Mamta Mane,Dermatology,28,FAC0195,Available
+DOC0642,Dr. Suresh Mishra,Nephrology,8,FAC0161,Available
+DOC0643,Dr. Gauri Mishra,Psychiatry,19,FAC0185,Busy
+DOC0644,Dr. Prakash Deshpande,Radiology,25,FAC0060,Available
+DOC0645,Dr. Nitin Chavan,Psychiatry,15,FAC0228,Available
+DOC0646,Dr. Sanjay Kamble,Community Medicine,31,FAC0036,Available
+DOC0647,Dr. Nitin Deshpande,Nephrology,26,FAC0054,Available
+DOC0648,Dr. Suresh Kulkarni,Oncology,26,FAC0203,On Leave
+DOC0649,Dr. Kavita Mane,Dermatology,22,FAC0102,Busy
+DOC0650,Dr. Suresh Gaikwad,Ophthalmology,32,FAC0218,Busy
+DOC0651,Dr. Rupali Salve,Pulmonology,23,FAC0205,Busy
+DOC0652,Dr. Nilesh Joshi,Nephrology,10,FAC0143,Available
+DOC0653,Dr. Nilesh Deshpande,General Medicine,9,FAC0119,Available
+DOC0654,Dr. Omkar Jadhav,Neurology,2,FAC0256,Available
+DOC0655,Dr. Manoj Bhosale,Community Medicine,5,FAC0050,Busy
+DOC0656,Dr. Tushar Waghmare,Community Medicine,19,FAC0104,Available
+DOC0657,Dr. Meena Nair,Psychiatry,35,FAC0176,Available
+DOC0658,Dr. Santosh Raut,Nephrology,25,FAC0061,Available
+DOC0659,Dr. Vikram Waghmare,Neurology,3,FAC0019,Busy
+DOC0660,Dr. Yogesh Kumar,Urology,32,FAC0085,Available
+DOC0661,Dr. Nilesh Mishra,Community Medicine,32,FAC0057,Busy
+DOC0662,Dr. Rupali Deshpande,Gastroenterology,11,FAC0244,Available
+DOC0663,Dr. Nilesh Shah,Radiology,23,FAC0194,Available
+DOC0664,Dr. Akash Desai,Emergency Medicine,24,FAC0066,Busy
+DOC0665,Dr. Priya Mishra,Pediatrics,25,FAC0175,Available
+DOC0666,Dr. Santosh Mane,ENT,16,FAC0029,Available
+DOC0667,Dr. Akash Jadhav,Pediatrics,20,FAC0034,Available
+DOC0668,Dr. Rohit Sawant,Community Medicine,30,FAC0020,Busy
+DOC0669,Dr. Nisha Raut,General Medicine,18,FAC0216,Busy
+DOC0670,Dr. Priya Sawant,Anesthesiology,25,FAC0194,Busy
+DOC0671,Dr. Suresh Kumar,Pulmonology,22,FAC0106,Available
+DOC0672,Dr. Ravi Sharma,Urology,24,FAC0154,Available
+DOC0673,Dr. Omkar Kamble,Radiology,14,FAC0275,Available
+DOC0674,Dr. Akash Kadam,Oncology,6,FAC0116,Available
+DOC0675,Dr. Anil Jadhav,Pulmonology,34,FAC0291,Available
+DOC0676,Dr. Tushar Jadhav,Radiology,33,FAC0155,Available
+DOC0677,Dr. Ashwini Pawar,Ophthalmology,26,FAC0213,Busy
+DOC0678,Dr. Nitin Mishra,General Medicine,12,FAC0281,Busy
+DOC0679,Dr. Shweta More,Dermatology,32,FAC0296,Busy
+DOC0680,Dr. Anil Surve,Oncology,28,FAC0273,Busy
+DOC0681,Dr. Sachin Pawar,Gynecology,30,FAC0187,Available
+DOC0682,Dr. Swapnil Lokhande,Orthopedics,21,FAC0211,Busy
+DOC0683,Dr. Anil Chavan,Ophthalmology,11,FAC0147,Busy
+DOC0684,Dr. Sneha Gaikwad,Dermatology,10,FAC0059,Available
+DOC0685,Dr. Vikram Deshpande,Urology,28,FAC0287,Busy
+DOC0686,Dr. Sanjay More,General Medicine,9,FAC0140,Available
+DOC0687,Dr. Nitin Nair,Pulmonology,3,FAC0091,Busy
+DOC0688,Dr. Swapnil Raut,Endocrinology,21,FAC0043,Available
+DOC0689,Dr. Yogesh Lokhande,Surgery,6,FAC0187,On Leave
+DOC0690,Dr. Sonal Shinde,Pediatrics,33,FAC0293,Available
+DOC0691,Dr. Reshma Surve,Pulmonology,17,FAC0269,Busy
+DOC0692,Dr. Smita Shinde,Oncology,22,FAC0161,Busy
+DOC0693,Dr. Madhuri Lokhande,Pediatrics,10,FAC0112,Available
+DOC0694,Dr. Vikram Lokhande,Pulmonology,4,FAC0131,Available
+DOC0695,Dr. Prakash Nair,Community Medicine,31,FAC0217,Available
+DOC0696,Dr. Yogesh Tiwari,Pulmonology,24,FAC0075,Busy
+DOC0697,Dr. Rahul Yadav,Community Medicine,4,FAC0018,Available
+DOC0698,Dr. Sneha Bhosale,Psychiatry,8,FAC0186,Busy
+DOC0699,Dr. Ganesh Patil,Radiology,17,FAC0202,Available
+DOC0700,Dr. Lata Pawar,Geriatrics,29,FAC0083,Available
+DOC0701,Dr. Tushar Desai,Pulmonology,6,FAC0141,Available
+DOC0702,Dr. Dinesh Chavan,Pediatrics,28,FAC0171,Busy
+DOC0703,Dr. Sachin Jadhav,Endocrinology,27,FAC0181,Busy
+DOC0704,Dr. Deepa Sawant,Cardiology,2,FAC0233,Busy
+DOC0705,Dr. Vaishali Waghmare,Surgery,1,FAC0070,Available
+DOC0706,Dr. Prakash Shah,Neurology,8,FAC0043,Available
+DOC0707,Dr. Shweta Sharma,Nephrology,21,FAC0211,Available
+DOC0708,Dr. Meena More,Dermatology,19,FAC0168,Available
+DOC0709,Dr. Ravi Kadam,General Medicine,15,FAC0194,On Leave
+DOC0710,Dr. Vaishali Sharma,Nephrology,6,FAC0118,Available
+DOC0711,Dr. Sunita Kadam,Gynecology,17,FAC0220,Available
+DOC0712,Dr. Ravi Shah,Gastroenterology,1,FAC0061,Available
+DOC0713,Dr. Omkar Gupta,ENT,8,FAC0254,Busy
+DOC0714,Dr. Shweta Chavan,Pulmonology,19,FAC0137,Available
+DOC0715,Dr. Swapnil Pawar,Community Medicine,19,FAC0111,Available
+DOC0716,Dr. Archana Tiwari,Radiology,2,FAC0075,On Leave
+DOC0717,Dr. Smita Waghmare,Oncology,24,FAC0128,Busy
+DOC0718,Dr. Vijay Patil,Anesthesiology,9,FAC0241,On Leave
+DOC0719,Dr. Nitin Pawar,Endocrinology,28,FAC0197,Available
+DOC0720,Dr. Rohit Desai,ENT,22,FAC0027,Available
+DOC0721,Dr. Varun Gupta,Ophthalmology,1,FAC0024,Available
+DOC0722,Dr. Deepak Kadam,Psychiatry,9,FAC0190,Available
+DOC0723,Dr. Meena More,Anesthesiology,32,FAC0258,Busy
+DOC0724,Dr. Kavita Sawant,Gynecology,28,FAC0272,Available
+DOC0725,Dr. Amit Kulkarni,Emergency Medicine,18,FAC0256,On Leave
+DOC0726,Dr. Yogesh Raut,Gastroenterology,17,FAC0135,Available
+DOC0727,Dr. Ashwini Singh,Psychiatry,10,FAC0252,Busy
+DOC0728,Dr. Amit Pawar,ENT,4,FAC0077,Available
+DOC0729,Dr. Anil More,Pediatrics,28,FAC0240,On Leave
+DOC0730,Dr. Amit Waghmare,Nephrology,32,FAC0183,Available
+DOC0731,Dr. Anita Mane,Radiology,14,FAC0048,Available
+DOC0732,Dr. Deepa Joshi,Oncology,14,FAC0140,On Leave
+DOC0733,Dr. Sachin Mishra,Urology,12,FAC0293,On Leave
+DOC0734,Dr. Reshma Deshpande,General Medicine,22,FAC0049,Available
+DOC0735,Dr. Ganesh Mane,Gynecology,21,FAC0055,Available
+DOC0736,Dr. Omkar Kumar,Geriatrics,30,FAC0246,On Leave
+DOC0737,Dr. Aarti Patil,Geriatrics,3,FAC0169,Busy
+DOC0738,Dr. Prakash Singh,Dermatology,9,FAC0292,Busy
+DOC0739,Dr. Prakash Tiwari,Psychiatry,5,FAC0029,On Leave
+DOC0740,Dr. Vijay Kadam,ENT,12,FAC0131,On Leave
+DOC0741,Dr. Vijay Patil,Surgery,11,FAC0107,Busy
+DOC0742,Dr. Kiran Mishra,Radiology,8,FAC0079,Available
+DOC0743,Dr. Vishal Tiwari,Emergency Medicine,9,FAC0159,Busy
+DOC0744,Dr. Sachin Pawar,Surgery,29,FAC0251,Available
+DOC0745,Dr. Smita Lokhande,Emergency Medicine,28,FAC0047,Busy
+DOC0746,Dr. Kiran Lokhande,Gastroenterology,3,FAC0048,Available
+DOC0747,Dr. Nitin Gaikwad,Gastroenterology,32,FAC0080,Busy
+DOC0748,Dr. Kavita Bhosale,Orthopedics,28,FAC0240,On Leave
+DOC0749,Dr. Deepak Kulkarni,ENT,20,FAC0066,Available
+DOC0750,Dr. Akash Desai,Cardiology,5,FAC0283,Available
+DOC0751,Dr. Archana Lokhande,Community Medicine,30,FAC0049,Busy
+DOC0752,Dr. Rajesh Salve,Gastroenterology,6,FAC0300,Available
+DOC0753,Dr. Ravi Tiwari,Cardiology,26,FAC0094,Available
+DOC0754,Dr. Prakash Shah,Endocrinology,29,FAC0233,Busy
+DOC0755,Dr. Dinesh Kamble,Neurology,14,FAC0096,Available
+DOC0756,Dr. Meena Kamble,Psychiatry,28,FAC0055,Available
+DOC0757,Dr. Suresh Patil,Nephrology,31,FAC0088,Busy
+DOC0758,Dr. Deepa Deshpande,Community Medicine,24,FAC0156,On Leave
+DOC0759,Dr. Tushar Bhosale,Gynecology,9,FAC0045,Available
+DOC0760,Dr. Omkar Patil,Dermatology,2,FAC0097,Available
+DOC0761,Dr. Vaishali Gaikwad,Dermatology,35,FAC0224,Available
+DOC0762,Dr. Manoj Deshpande,Pediatrics,2,FAC0217,Available
+DOC0763,Dr. Deepa Kumar,Pulmonology,32,FAC0228,Available
+DOC0764,Dr. Akash Gaikwad,Oncology,19,FAC0104,Busy
+DOC0765,Dr. Amit Sawant,Geriatrics,7,FAC0005,Busy
+DOC0766,Dr. Santosh Kamble,Cardiology,19,FAC0254,Available
+DOC0767,Dr. Sachin Shah,Cardiology,15,FAC0250,Available
+DOC0768,Dr. Akash Sawant,Ophthalmology,5,FAC0284,Busy
+DOC0769,Dr. Yogesh Deshpande,Endocrinology,32,FAC0060,On Leave
+DOC0770,Dr. Vikram Kumar,Neurology,2,FAC0224,Available
+DOC0771,Dr. Gauri Mane,Gastroenterology,15,FAC0225,Available
+DOC0772,Dr. Dinesh Sharma,Radiology,9,FAC0240,Busy
+DOC0773,Dr. Santosh Chavan,Neurology,31,FAC0185,Busy
+DOC0774,Dr. Pawan Singh,Gynecology,31,FAC0045,Available
+DOC0775,Dr. Smita Deshpande,Pulmonology,27,FAC0052,Available
+DOC0776,Dr. Komal Desai,Ophthalmology,23,FAC0010,Available
+DOC0777,Dr. Pooja Chavan,Orthopedics,3,FAC0258,Available
+DOC0778,Dr. Varun Gaikwad,Pulmonology,15,FAC0062,Available
+DOC0779,Dr. Tushar Mane,Gynecology,18,FAC0024,Busy
+DOC0780,Dr. Smita Gupta,Nephrology,4,FAC0054,Busy
+DOC0781,Dr. Suresh Tiwari,Gastroenterology,3,FAC0053,Available
+DOC0782,Dr. Swapnil Pawar,Radiology,11,FAC0186,Busy
+DOC0783,Dr. Gauri Singh,Geriatrics,10,FAC0051,Available
+DOC0784,Dr. Anita Kamble,Urology,29,FAC0104,Busy
+DOC0785,Dr. Ajay Chavan,Radiology,22,FAC0243,Available
+DOC0786,Dr. Anil Mane,Geriatrics,24,FAC0213,Busy
+DOC0787,Dr. Reshma Mishra,ENT,27,FAC0272,Available
+DOC0788,Dr. Santosh Surve,Gastroenterology,30,FAC0210,Busy
+DOC0789,Dr. Rahul Waghmare,Gastroenterology,1,FAC0075,On Leave
+DOC0790,Dr. Prakash Sawant,Urology,11,FAC0206,Available
+DOC0791,Dr. Nitin Surve,Geriatrics,4,FAC0078,On Leave
+DOC0792,Dr. Lata Lokhande,Anesthesiology,20,FAC0206,On Leave
+DOC0793,Dr. Omkar Salve,Surgery,10,FAC0271,Available
+DOC0794,Dr. Ujwala Nair,Geriatrics,23,FAC0227,Available
+DOC0795,Dr. Ujwala Bhosale,Psychiatry,3,FAC0044,Available
+DOC0796,Dr. Nisha Nair,Orthopedics,14,FAC0146,Available
+DOC0797,Dr. Sachin Sawant,General Medicine,2,FAC0082,Busy
+DOC0798,Dr. Rupali Salve,Urology,20,FAC0124,On Leave
+DOC0799,Dr. Vishal Desai,Geriatrics,17,FAC0191,Available
+DOC0800,Dr. Amit Mishra,Radiology,29,FAC0064,Busy
+DOC0801,Dr. Vikram Sawant,Endocrinology,35,FAC0121,Available
+DOC0802,Dr. Deepak Gupta,Surgery,9,FAC0294,Available
+DOC0803,Dr. Anita Sawant,Emergency Medicine,13,FAC0265,Available
+DOC0804,Dr. Manisha Lokhande,Orthopedics,6,FAC0211,Available
+DOC0805,Dr. Gauri Pawar,Emergency Medicine,5,FAC0229,Busy
+DOC0806,Dr. Akash Nair,Ophthalmology,26,FAC0266,Busy
+DOC0807,Dr. Vikram Kumar,Neurology,27,FAC0251,Available
+DOC0808,Dr. Gauri Kumar,Gastroenterology,9,FAC0235,Busy
+DOC0809,Dr. Pawan Pawar,Cardiology,31,FAC0234,Busy
+DOC0810,Dr. Pallavi Surve,Pediatrics,27,FAC0061,Available
+DOC0811,Dr. Lata Desai,Pediatrics,10,FAC0268,Available
+DOC0812,Dr. Deepak Bhosale,Gynecology,2,FAC0249,Available
+DOC0813,Dr. Archana Desai,Dermatology,19,FAC0157,Available
+DOC0814,Dr. Rahul Shinde,Orthopedics,23,FAC0281,Busy
+DOC0815,Dr. Nilesh Shah,Anesthesiology,29,FAC0159,Busy
+DOC0816,Dr. Omkar Singh,Gastroenterology,9,FAC0068,Busy
+DOC0817,Dr. Nitin Waghmare,Orthopedics,21,FAC0077,Busy
+DOC0818,Dr. Archana Kadam,Anesthesiology,26,FAC0120,Available
+DOC0819,Dr. Vishal Salve,General Medicine,11,FAC0046,Busy
+DOC0820,Dr. Rohit Yadav,Dermatology,6,FAC0064,On Leave
+DOC0821,Dr. Rupali Mishra,Dermatology,34,FAC0028,Busy
+DOC0822,Dr. Ujwala Patil,Neurology,35,FAC0062,On Leave
+DOC0823,Dr. Tushar Pawar,Orthopedics,29,FAC0126,Busy
+DOC0824,Dr. Ashwini Kadam,General Medicine,32,FAC0024,Available
+DOC0825,Dr. Archana Patil,Surgery,21,FAC0271,Available
+DOC0826,Dr. Suresh Nair,Gynecology,19,FAC0087,Available
+DOC0827,Dr. Manoj Bhosale,Cardiology,11,FAC0209,Busy
+DOC0828,Dr. Ravi Patil,Surgery,20,FAC0030,Available
+DOC0829,Dr. Archana Raut,Surgery,17,FAC0166,On Leave
+DOC0830,Dr. Amit Pawar,Pulmonology,16,FAC0123,Available
+DOC0831,Dr. Sneha Shinde,Anesthesiology,4,FAC0138,Available
+DOC0832,Dr. Vijay Deshpande,Geriatrics,27,FAC0015,Available
+DOC0833,Dr. Anil Nair,Psychiatry,16,FAC0052,Busy
+DOC0834,Dr. Lata Shah,Orthopedics,29,FAC0209,Busy
+DOC0835,Dr. Neha Tiwari,Psychiatry,24,FAC0073,On Leave
+DOC0836,Dr. Komal Lokhande,Cardiology,29,FAC0285,Available
+DOC0837,Dr. Omkar Sharma,General Medicine,11,FAC0149,Available
+DOC0838,Dr. Anil Sharma,Emergency Medicine,25,FAC0129,Busy
+DOC0839,Dr. Rupali Chavan,Cardiology,19,FAC0262,Available
+DOC0840,Dr. Rupali Jadhav,Surgery,6,FAC0154,Busy
+DOC0841,Dr. Deepa Nair,Dermatology,28,FAC0144,Busy
+DOC0842,Dr. Yogesh Gupta,Nephrology,17,FAC0176,Available
+DOC0843,Dr. Prakash Pawar,General Medicine,22,FAC0236,On Leave
+DOC0844,Dr. Vaishali Surve,General Medicine,31,FAC0002,On Leave
+DOC0845,Dr. Archana Nair,Psychiatry,26,FAC0251,Available
+DOC0846,Dr. Rohit Patil,Emergency Medicine,8,FAC0228,On Leave
+DOC0847,Dr. Omkar Sharma,Neurology,25,FAC0184,Busy
+DOC0848,Dr. Suresh Waghmare,Nephrology,13,FAC0190,Available
+DOC0849,Dr. Abhijit Salve,Orthopedics,13,FAC0184,Busy
+DOC0850,Dr. Tushar Kumar,Pulmonology,15,FAC0114,On Leave
+DOC0851,Dr. Anil Deshpande,Dermatology,1,FAC0108,On Leave
+DOC0852,Dr. Suresh Kamble,Pulmonology,33,FAC0143,Available
+DOC0853,Dr. Aarti Singh,Orthopedics,12,FAC0290,Busy
+DOC0854,Dr. Manoj Salve,Gastroenterology,15,FAC0292,Busy
+DOC0855,Dr. Sanjay Kamble,Endocrinology,35,FAC0012,Available
+DOC0856,Dr. Ujwala Waghmare,Geriatrics,28,FAC0002,Busy
+DOC0857,Dr. Swapnil Sawant,Ophthalmology,27,FAC0222,Available
+DOC0858,Dr. Swati Deshpande,Cardiology,34,FAC0186,Busy
+DOC0859,Dr. Sunita Salve,Nephrology,35,FAC0216,Available
+DOC0860,Dr. Sanjay Sawant,ENT,2,FAC0042,On Leave
+DOC0861,Dr. Vijay Surve,Neurology,13,FAC0128,Available
+DOC0862,Dr. Kiran Yadav,Pulmonology,2,FAC0050,Available
+DOC0863,Dr. Akash Tiwari,ENT,17,FAC0172,Available
+DOC0864,Dr. Ashwini Chavan,Gastroenterology,22,FAC0028,Busy
+DOC0865,Dr. Abhijit Sharma,Geriatrics,7,FAC0225,Available
+DOC0866,Dr. Vijay Desai,Anesthesiology,25,FAC0018,Busy
+DOC0867,Dr. Tushar Kulkarni,Cardiology,29,FAC0032,Available
+DOC0868,Dr. Vijay Shinde,Radiology,4,FAC0029,Busy
+DOC0869,Dr. Suresh Sharma,Endocrinology,15,FAC0211,Busy
+DOC0870,Dr. Priya Waghmare,Urology,30,FAC0197,Busy
+DOC0871,Dr. Anita Sawant,Gastroenterology,30,FAC0014,Available
+DOC0872,Dr. Anita Shinde,Oncology,5,FAC0007,Busy
+DOC0873,Dr. Ujwala Shah,Ophthalmology,33,FAC0065,Available
+DOC0874,Dr. Vishal Sharma,ENT,12,FAC0228,Available
+DOC0875,Dr. Amit Kulkarni,Gastroenterology,28,FAC0160,On Leave
+DOC0876,Dr. Deepak Shah,Gynecology,10,FAC0278,Available
+DOC0877,Dr. Ashwini Bhosale,Gastroenterology,1,FAC0189,Busy
+DOC0878,Dr. Sunita Gaikwad,Urology,4,FAC0260,Available
+DOC0879,Dr. Vaishali Surve,Anesthesiology,5,FAC0104,Available
+DOC0880,Dr. Pawan Kumar,Oncology,22,FAC0240,Busy
+DOC0881,Dr. Varun Bhosale,Neurology,22,FAC0215,Available
+DOC0882,Dr. Nilesh Gaikwad,ENT,15,FAC0002,Available
+DOC0883,Dr. Sonal Deshpande,Dermatology,25,FAC0170,Available
+DOC0884,Dr. Rajesh Patil,General Medicine,23,FAC0038,Busy
+DOC0885,Dr. Lata Waghmare,Cardiology,24,FAC0100,On Leave
+DOC0886,Dr. Neha Bhosale,Ophthalmology,15,FAC0090,Busy
+DOC0887,Dr. Swapnil Nair,Dermatology,12,FAC0126,Available
+DOC0888,Dr. Dinesh Shinde,Surgery,9,FAC0011,Busy
+DOC0889,Dr. Prakash Surve,Nephrology,20,FAC0108,Available
+DOC0890,Dr. Nitin More,Orthopedics,28,FAC0270,Available
+DOC0891,Dr. Savita Pawar,Surgery,35,FAC0099,Busy
+DOC0892,Dr. Varun Lokhande,Endocrinology,3,FAC0126,Busy
+DOC0893,Dr. Lata Tiwari,ENT,21,FAC0077,Available
+DOC0894,Dr. Swapnil Kulkarni,Dermatology,32,FAC0261,Busy
+DOC0895,Dr. Tushar Gupta,Gastroenterology,11,FAC0034,Available
+DOC0896,Dr. Pallavi Deshpande,Neurology,30,FAC0266,Available
+DOC0897,Dr. Sachin Kumar,Pulmonology,32,FAC0248,Available
+DOC0898,Dr. Kiran Surve,Dermatology,3,FAC0299,Available
+DOC0899,Dr. Swati Kamble,Dermatology,26,FAC0121,Available
+DOC0900,Dr. Akash More,Psychiatry,17,FAC0192,Available
+DOC0901,Dr. Deepak Waghmare,ENT,23,FAC0266,Busy
+DOC0902,Dr. Sachin Sharma,Nephrology,28,FAC0173,Available
+DOC0903,Dr. Rajesh Tiwari,Ophthalmology,21,FAC0255,Available
+DOC0904,Dr. Swati Gaikwad,Emergency Medicine,5,FAC0136,On Leave
+DOC0905,Dr. Omkar Joshi,Geriatrics,35,FAC0263,Available
+DOC0906,Dr. Dinesh Gaikwad,Orthopedics,8,FAC0051,Available
+DOC0907,Dr. Neha Sawant,Ophthalmology,22,FAC0101,Available
+DOC0908,Dr. Sanjay Kumar,Ophthalmology,35,FAC0071,Available
+DOC0909,Dr. Deepak Chavan,Surgery,26,FAC0178,Busy
+DOC0910,Dr. Nilesh Yadav,Surgery,10,FAC0263,Available
+DOC0911,Dr. Gauri Gaikwad,Nephrology,30,FAC0265,Available
+DOC0912,Dr. Prakash Kamble,Urology,28,FAC0097,Available
+DOC0913,Dr. Swapnil Nair,Gynecology,24,FAC0016,Busy
+DOC0914,Dr. Lata Singh,Community Medicine,32,FAC0005,Busy
+DOC0915,Dr. Ajay Lokhande,Psychiatry,26,FAC0218,Available
+DOC0916,Dr. Priya Shah,Gynecology,9,FAC0017,On Leave
+DOC0917,Dr. Akash Yadav,Surgery,26,FAC0294,Available
+DOC0918,Dr. Vijay Nair,Pulmonology,13,FAC0198,Available
+DOC0919,Dr. Swati Yadav,Neurology,6,FAC0156,Available
+DOC0920,Dr. Pooja Desai,Neurology,2,FAC0251,Available
+DOC0921,Dr. Deepak Pawar,Community Medicine,19,FAC0120,Available
+DOC0922,Dr. Amit Mane,Neurology,1,FAC0266,Available
+DOC0923,Dr. Ganesh More,Psychiatry,9,FAC0057,Available
+DOC0924,Dr. Ganesh Raut,Dermatology,9,FAC0106,Available
+DOC0925,Dr. Ravi Sharma,Oncology,20,FAC0295,Available
+DOC0926,Dr. Anil Pawar,Nephrology,10,FAC0004,Available
+DOC0927,Dr. Varun Tiwari,Anesthesiology,34,FAC0127,On Leave
+DOC0928,Dr. Vikram Waghmare,Orthopedics,3,FAC0295,Available
+DOC0929,Dr. Rajesh Kumar,Endocrinology,26,FAC0153,Busy
+DOC0930,Dr. Archana Gaikwad,Nephrology,28,FAC0092,Available
+DOC0931,Dr. Manisha Shah,Cardiology,26,FAC0049,Available
+DOC0932,Dr. Meena Raut,Community Medicine,19,FAC0276,On Leave
+DOC0933,Dr. Madhuri Deshpande,Emergency Medicine,8,FAC0211,Available
+DOC0934,Dr. Sachin Mishra,Nephrology,27,FAC0167,Available
+DOC0935,Dr. Nisha Desai,Orthopedics,2,FAC0237,Busy
+DOC0936,Dr. Ganesh Sawant,Surgery,13,FAC0205,Available
+DOC0937,Dr. Suresh Kumar,Community Medicine,21,FAC0070,Busy
+DOC0938,Dr. Vikram Jadhav,Nephrology,16,FAC0043,Available
+DOC0939,Dr. Omkar More,Endocrinology,2,FAC0088,Available
+DOC0940,Dr. Suresh Nair,Orthopedics,11,FAC0201,Busy
+DOC0941,Dr. Nitin Salve,Emergency Medicine,29,FAC0079,Available
+DOC0942,Dr. Yogesh Gupta,Nephrology,14,FAC0273,Busy
+DOC0943,Dr. Vaishali Gupta,Radiology,25,FAC0053,Available
+DOC0944,Dr. Priya Desai,ENT,13,FAC0194,Available
+DOC0945,Dr. Neha Jadhav,General Medicine,27,FAC0009,On Leave
+DOC0946,Dr. Omkar Pawar,Pediatrics,15,FAC0033,Busy
+DOC0947,Dr. Deepa More,Gastroenterology,27,FAC0023,Available
+DOC0948,Dr. Prakash Nair,Psychiatry,14,FAC0098,Available
+DOC0949,Dr. Suresh Gaikwad,Emergency Medicine,7,FAC0110,Available
+DOC0950,Dr. Ganesh Yadav,Surgery,1,FAC0162,Available
+DOC0951,Dr. Kavita Gupta,Cardiology,24,FAC0143,Available
+DOC0952,Dr. Archana Bhosale,Psychiatry,7,FAC0256,Busy
+DOC0953,Dr. Pooja Salve,Geriatrics,21,FAC0049,Busy
+DOC0954,Dr. Ashwini More,Orthopedics,31,FAC0163,Available
+DOC0955,Dr. Madhuri Shah,Gastroenterology,25,FAC0230,Busy
+DOC0956,Dr. Nisha Shah,General Medicine,15,FAC0007,Busy
+DOC0957,Dr. Deepak Gaikwad,Endocrinology,16,FAC0220,Available
+DOC0958,Dr. Pallavi Deshpande,Gynecology,13,FAC0152,Available
+DOC0959,Dr. Ajay Surve,Gynecology,22,FAC0228,Available
+DOC0960,Dr. Sachin Tiwari,General Medicine,19,FAC0213,Available
+DOC0961,Dr. Prakash Gaikwad,Cardiology,35,FAC0106,On Leave
+DOC0962,Dr. Savita Gupta,Gastroenterology,25,FAC0114,Available
+DOC0963,Dr. Kiran Patil,Orthopedics,32,FAC0034,On Leave
+DOC0964,Dr. Kiran Kulkarni,Orthopedics,9,FAC0105,Available
+DOC0965,Dr. Mamta Tiwari,Gastroenterology,16,FAC0105,Available
+DOC0966,Dr. Deepak More,Urology,16,FAC0102,Available
+DOC0967,Dr. Lata Bhosale,Geriatrics,29,FAC0296,Available
+DOC0968,Dr. Vijay Mane,Neurology,25,FAC0204,Available
+DOC0969,Dr. Sachin Sharma,Pulmonology,10,FAC0222,Available
+DOC0970,Dr. Santosh Kamble,Endocrinology,20,FAC0043,Available
+DOC0971,Dr. Deepa More,Nephrology,25,FAC0132,Available
+DOC0972,Dr. Ganesh Nair,Anesthesiology,5,FAC0247,Available
+DOC0973,Dr. Sanjay Kulkarni,General Medicine,1,FAC0098,Busy
+DOC0974,Dr. Nilesh Kadam,Emergency Medicine,26,FAC0213,Available
+DOC0975,Dr. Kiran Shah,Cardiology,27,FAC0037,On Leave
+DOC0976,Dr. Ganesh Surve,Dermatology,11,FAC0290,Busy
+DOC0977,Dr. Abhijit Surve,Pulmonology,33,FAC0179,Busy
+DOC0978,Dr. Pawan Desai,ENT,28,FAC0198,Available
+DOC0979,Dr. Dinesh Chavan,Community Medicine,2,FAC0186,Busy
+DOC0980,Dr. Varun Waghmare,ENT,17,FAC0076,Busy
+DOC0981,Dr. Priya Shinde,Surgery,25,FAC0048,Busy
+DOC0982,Dr. Sachin Surve,Neurology,28,FAC0097,Busy
+DOC0983,Dr. Pawan Bhosale,Community Medicine,35,FAC0257,Busy
+DOC0984,Dr. Lata Singh,Pediatrics,6,FAC0211,Busy
+DOC0985,Dr. Omkar Kulkarni,Surgery,14,FAC0138,Busy
+DOC0986,Dr. Ravi Chavan,Pediatrics,1,FAC0252,Available
+DOC0987,Dr. Sachin Lokhande,Neurology,28,FAC0148,Available
+DOC0988,Dr. Manisha Kulkarni,Neurology,32,FAC0102,Available
+DOC0989,Dr. Vikram Shah,Dermatology,12,FAC0109,Available
+DOC0990,Dr. Savita Mishra,Urology,17,FAC0099,Available
+DOC0991,Dr. Anita Kamble,Radiology,6,FAC0086,Available
+DOC0992,Dr. Anil Jadhav,Oncology,2,FAC0176,Available
+DOC0993,Dr. Nitin Mishra,Cardiology,1,FAC0052,Available
+DOC0994,Dr. Nitin Shah,Dermatology,7,FAC0022,Available
+DOC0995,Dr. Ganesh Sharma,Pulmonology,18,FAC0267,Available
+DOC0996,Dr. Varun Lokhande,Community Medicine,24,FAC0173,Busy
+DOC0997,Dr. Omkar Gaikwad,Surgery,26,FAC0185,Busy
+DOC0998,Dr. Swapnil Sawant,Nephrology,1,FAC0052,Busy
+DOC0999,Dr. Vishal Chavan,Endocrinology,2,FAC0072,Available
+DOC1000,Dr. Meena Kumar,Nephrology,24,FAC0128,Busy
+DOC1001,Dr. Sachin Lokhande,Geriatrics,1,FAC0097,On Leave
+DOC1002,Dr. Rahul Yadav,Anesthesiology,3,FAC0185,Busy
+DOC1003,Dr. Smita Deshpande,Emergency Medicine,6,FAC0205,Available
+DOC1004,Dr. Nitin Kamble,Radiology,25,FAC0052,Busy
+DOC1005,Dr. Shweta Joshi,Cardiology,33,FAC0293,Available
+DOC1006,Dr. Deepak Chavan,Neurology,30,FAC0281,Busy
+DOC1007,Dr. Nilesh Gupta,ENT,16,FAC0277,Available
+DOC1008,Dr. Suresh Lokhande,Anesthesiology,11,FAC0015,On Leave
+DOC1009,Dr. Ajay Singh,Community Medicine,31,FAC0132,Available
+DOC1010,Dr. Madhuri Nair,Anesthesiology,6,FAC0252,Busy
+DOC1011,Dr. Reshma Surve,Surgery,22,FAC0034,On Leave
+DOC1012,Dr. Kiran Yadav,ENT,28,FAC0288,Available
+DOC1013,Dr. Deepak Jadhav,Anesthesiology,6,FAC0058,Busy
+DOC1014,Dr. Deepa Shinde,Gynecology,24,FAC0294,Busy
+DOC1015,Dr. Akash Singh,Cardiology,20,FAC0001,Busy
+DOC1016,Dr. Shweta Kadam,Emergency Medicine,21,FAC0217,Busy
+DOC1017,Dr. Nisha Gupta,Surgery,7,FAC0114,Available
+DOC1018,Dr. Prakash Kulkarni,Pulmonology,15,FAC0152,Busy
+DOC1019,Dr. Smita Bhosale,Endocrinology,3,FAC0075,Available
+DOC1020,Dr. Manisha Shinde,Geriatrics,31,FAC0141,Busy
+DOC1021,Dr. Deepak Kumar,Anesthesiology,4,FAC0193,Available
+DOC1022,Dr. Shweta Singh,Neurology,4,FAC0116,Busy
+DOC1023,Dr. Deepak Chavan,Psychiatry,2,FAC0082,Available
+DOC1024,Dr. Nitin Deshpande,Surgery,26,FAC0179,Available
+DOC1025,Dr. Deepak Kumar,Pediatrics,26,FAC0100,Available
+DOC1026,Dr. Shweta Tiwari,Nephrology,20,FAC0028,Busy
+DOC1027,Dr. Rekha Waghmare,Gynecology,19,FAC0248,Available
+DOC1028,Dr. Deepa Yadav,Oncology,24,FAC0005,Available
+DOC1029,Dr. Sneha Lokhande,Pediatrics,4,FAC0087,Available
+DOC1030,Dr. Ravi Desai,Geriatrics,33,FAC0061,Available
+DOC1031,Dr. Manoj Yadav,Cardiology,16,FAC0207,Available
+DOC1032,Dr. Nilesh Bhosale,Community Medicine,25,FAC0089,Busy
+DOC1033,Dr. Swapnil Chavan,Geriatrics,18,FAC0196,Busy
+DOC1034,Dr. Rahul Shinde,Pediatrics,6,FAC0060,Available
+DOC1035,Dr. Sonal Patil,Ophthalmology,31,FAC0294,Busy
+DOC1036,Dr. Tushar Shah,Pulmonology,25,FAC0093,On Leave
+DOC1037,Dr. Deepak Shah,Anesthesiology,7,FAC0065,Available
+DOC1038,Dr. Pooja Kadam,Psychiatry,26,FAC0011,Busy
+DOC1039,Dr. Gauri Jadhav,Geriatrics,35,FAC0266,Available
+DOC1040,Dr. Aarti Raut,Endocrinology,12,FAC0061,Busy
+DOC1041,Dr. Rohit Waghmare,Cardiology,8,FAC0161,Available
+DOC1042,Dr. Vaishali More,Cardiology,17,FAC0045,Available
+DOC1043,Dr. Sachin Bhosale,Neurology,35,FAC0187,Available
+DOC1044,Dr. Ajay Bhosale,Radiology,34,FAC0024,Busy
+DOC1045,Dr. Manoj Shah,Gastroenterology,21,FAC0252,On Leave
+DOC1046,Dr. Varun Nair,Pediatrics,14,FAC0262,Busy
+DOC1047,Dr. Ajay Desai,Radiology,10,FAC0097,Busy
+DOC1048,Dr. Rekha Sharma,Oncology,14,FAC0283,Available
+DOC1049,Dr. Deepa Sharma,Psychiatry,5,FAC0217,Available
+DOC1050,Dr. Kiran Raut,Nephrology,26,FAC0084,Available
+DOC1051,Dr. Nitin Lokhande,Dermatology,35,FAC0074,Available
+DOC1052,Dr. Kiran Kumar,Oncology,24,FAC0099,Busy
+DOC1053,Dr. Smita More,Anesthesiology,10,FAC0215,On Leave
+DOC1054,Dr. Ganesh Patil,Ophthalmology,5,FAC0127,Available
+DOC1055,Dr. Nitin Nair,Anesthesiology,5,FAC0209,Busy
+DOC1056,Dr. Dinesh Sawant,ENT,10,FAC0140,Available
+DOC1057,Dr. Ganesh Gaikwad,Pediatrics,7,FAC0194,Available
+DOC1058,Dr. Akash Chavan,Gastroenterology,7,FAC0251,Available
+DOC1059,Dr. Shweta Bhosale,Endocrinology,18,FAC0283,Available
+DOC1060,Dr. Ravi Sawant,Emergency Medicine,12,FAC0200,Busy
+DOC1061,Dr. Komal Sharma,Oncology,31,FAC0207,Available
+DOC1062,Dr. Nitin Joshi,Gynecology,9,FAC0080,Available
+DOC1063,Dr. Amit Surve,Community Medicine,16,FAC0190,Busy
+DOC1064,Dr. Ravi Waghmare,Gastroenterology,30,FAC0182,Available
+DOC1065,Dr. Sachin Kumar,Geriatrics,20,FAC0118,Busy
+DOC1066,Dr. Santosh Mishra,Geriatrics,6,FAC0161,Available
+DOC1067,Dr. Kavita More,Orthopedics,4,FAC0295,Busy
+DOC1068,Dr. Madhuri Deshpande,Community Medicine,28,FAC0006,Available
+DOC1069,Dr. Gauri Deshpande,Pediatrics,35,FAC0264,Available
+DOC1070,Dr. Neha Surve,Psychiatry,28,FAC0004,Busy
+DOC1071,Dr. Deepa Gupta,Endocrinology,3,FAC0271,Available
+DOC1072,Dr. Aarti Surve,Neurology,15,FAC0269,Available
+DOC1073,Dr. Nisha Mane,Pulmonology,28,FAC0027,Available
+DOC1074,Dr. Suresh Sawant,Pediatrics,35,FAC0128,Available
+DOC1075,Dr. Deepak Salve,Geriatrics,1,FAC0110,Busy
+DOC1076,Dr. Madhuri Bhosale,Nephrology,3,FAC0264,Busy
+DOC1077,Dr. Amit Mane,Anesthesiology,30,FAC0004,Available
+DOC1078,Dr. Rahul Mane,Emergency Medicine,26,FAC0096,Available
+DOC1079,Dr. Nilesh Pawar,Gastroenterology,34,FAC0044,Busy
+DOC1080,Dr. Suresh Surve,Gynecology,1,FAC0250,Busy
+DOC1081,Dr. Ajay Deshpande,Radiology,24,FAC0203,Available
+DOC1082,Dr. Komal Tiwari,Nephrology,7,FAC0138,Busy
+DOC1083,Dr. Ravi Kulkarni,General Medicine,28,FAC0182,Available
+DOC1084,Dr. Anita Pawar,Gynecology,3,FAC0146,Available
+DOC1085,Dr. Yogesh Desai,Pulmonology,13,FAC0083,On Leave
+DOC1086,Dr. Suresh Lokhande,Community Medicine,32,FAC0251,Busy
+DOC1087,Dr. Abhijit Mishra,Surgery,33,FAC0205,Available
+DOC1088,Dr. Tushar Patil,Emergency Medicine,10,FAC0065,Available
+DOC1089,Dr. Sunita Gupta,Endocrinology,28,FAC0176,Busy
+DOC1090,Dr. Nilesh Bhosale,Orthopedics,32,FAC0145,Busy
+DOC1091,Dr. Smita Kulkarni,ENT,12,FAC0262,Available
+DOC1092,Dr. Swapnil Salve,Dermatology,28,FAC0127,Available
+DOC1093,Dr. Pawan Singh,Dermatology,12,FAC0258,On Leave
+DOC1094,Dr. Vaishali Yadav,Pediatrics,15,FAC0077,Available
+DOC1095,Dr. Anil Pawar,General Medicine,28,FAC0075,Busy
+DOC1096,Dr. Swapnil Desai,Gastroenterology,27,FAC0195,Available
+DOC1097,Dr. Sonal Sawant,Cardiology,31,FAC0219,Available
+DOC1098,Dr. Deepak Shinde,Ophthalmology,24,FAC0138,On Leave
+DOC1099,Dr. Ajay Sawant,Cardiology,12,FAC0025,Available
+DOC1100,Dr. Sanjay Bhosale,Endocrinology,18,FAC0242,Available
+DOC1101,Dr. Meena Deshpande,Radiology,22,FAC0187,Available
+DOC1102,Dr. Nitin Nair,Emergency Medicine,22,FAC0067,Busy
+DOC1103,Dr. Vishal Mishra,ENT,24,FAC0271,Busy
+DOC1104,Dr. Rupali Kadam,Gynecology,7,FAC0045,Busy
+DOC1105,Dr. Anita Desai,Nephrology,13,FAC0098,On Leave
+DOC1106,Dr. Rohit Sharma,Pulmonology,20,FAC0176,On Leave
+DOC1107,Dr. Komal Singh,Gynecology,3,FAC0079,Available
+DOC1108,Dr. Manisha Salve,Emergency Medicine,23,FAC0287,Available
+DOC1109,Dr. Dinesh Lokhande,Urology,31,FAC0035,Available
+DOC1110,Dr. Savita Patil,Gynecology,18,FAC0086,Available
+DOC1111,Dr. Sunita Tiwari,Pulmonology,26,FAC0098,Busy
+DOC1112,Dr. Kavita More,Surgery,33,FAC0225,Busy
+DOC1113,Dr. Ganesh Sharma,Neurology,14,FAC0140,Available
+DOC1114,Dr. Neha Shah,Nephrology,33,FAC0005,Available
+DOC1115,Dr. Meena Bhosale,Ophthalmology,19,FAC0113,Busy
+DOC1116,Dr. Sonal Desai,Radiology,16,FAC0274,Available
+DOC1117,Dr. Ujwala Salve,Cardiology,18,FAC0069,Busy
+DOC1118,Dr. Mamta Pawar,General Medicine,8,FAC0274,Busy
+DOC1119,Dr. Pallavi Sawant,Gynecology,17,FAC0043,Available
+DOC1120,Dr. Lata Sawant,Emergency Medicine,1,FAC0030,Available
+DOC1121,Dr. Ravi Salve,Community Medicine,35,FAC0009,On Leave
+DOC1122,Dr. Anita Singh,Geriatrics,17,FAC0196,Busy
+DOC1123,Dr. Neha Chavan,Anesthesiology,15,FAC0227,Available
+DOC1124,Dr. Vaishali Tiwari,Nephrology,10,FAC0203,Available
+DOC1125,Dr. Rajesh Kulkarni,Pulmonology,6,FAC0246,Available
+DOC1126,Dr. Mamta Kamble,Oncology,13,FAC0091,Available
+DOC1127,Dr. Vaishali Bhosale,Neurology,20,FAC0011,Busy
+DOC1128,Dr. Nitin Sharma,Gynecology,5,FAC0097,Available
+DOC1129,Dr. Swati Surve,Gastroenterology,7,FAC0207,Available
+DOC1130,Dr. Varun Shinde,General Medicine,25,FAC0194,Available
+DOC1131,Dr. Abhijit Chavan,ENT,9,FAC0023,Busy
+DOC1132,Dr. Manoj Yadav,Pediatrics,1,FAC0007,Available
+DOC1133,Dr. Swapnil Kumar,Gynecology,13,FAC0044,Available
+DOC1134,Dr. Ujwala Waghmare,Anesthesiology,20,FAC0084,Available
+DOC1135,Dr. Sunita Nair,Pediatrics,35,FAC0137,Available
+DOC1136,Dr. Suresh Nair,Gastroenterology,7,FAC0152,Busy
+DOC1137,Dr. Manoj Patil,ENT,2,FAC0115,Available
+DOC1138,Dr. Pallavi Yadav,Community Medicine,15,FAC0147,Available
+DOC1139,Dr. Nilesh More,Pediatrics,15,FAC0057,On Leave
+DOC1140,Dr. Rajesh Jadhav,Emergency Medicine,8,FAC0171,On Leave
+DOC1141,Dr. Yogesh Desai,Urology,12,FAC0078,Available
+DOC1142,Dr. Pooja Gupta,Community Medicine,10,FAC0218,Busy
+DOC1143,Dr. Mamta Bhosale,Ophthalmology,7,FAC0179,On Leave
+DOC1144,Dr. Dinesh Salve,Gynecology,1,FAC0040,Busy
+DOC1145,Dr. Ashwini Kulkarni,Pulmonology,29,FAC0200,Busy
+DOC1146,Dr. Akash Lokhande,Orthopedics,10,FAC0143,Available
+DOC1147,Dr. Pooja Mishra,Anesthesiology,23,FAC0198,Available
+DOC1148,Dr. Pawan Lokhande,Geriatrics,9,FAC0171,On Leave
+DOC1149,Dr. Santosh Nair,Psychiatry,35,FAC0255,Available
+DOC1150,Dr. Mamta Gaikwad,Oncology,6,FAC0197,Busy
+DOC1151,Dr. Rupali Mishra,ENT,6,FAC0113,Available
+DOC1152,Dr. Shweta Patil,Gynecology,31,FAC0186,On Leave
+DOC1153,Dr. Dinesh Mane,Radiology,9,FAC0185,Available
+DOC1154,Dr. Madhuri Surve,Dermatology,16,FAC0216,Busy
+DOC1155,Dr. Vishal Kulkarni,Surgery,10,FAC0061,Busy
+DOC1156,Dr. Rajesh Desai,Pulmonology,5,FAC0055,Busy
+DOC1157,Dr. Priya Kulkarni,Orthopedics,10,FAC0188,Available
+DOC1158,Dr. Akash Chavan,Neurology,10,FAC0214,Available
+DOC1159,Dr. Deepa Joshi,Urology,31,FAC0154,Busy
+DOC1160,Dr. Tushar Yadav,Pediatrics,19,FAC0007,Available
+DOC1161,Dr. Varun Mishra,Neurology,33,FAC0089,Available
+DOC1162,Dr. Nitin Raut,Oncology,17,FAC0233,Available
+DOC1163,Dr. Archana Surve,Orthopedics,18,FAC0081,Available
+DOC1164,Dr. Deepa Pawar,ENT,4,FAC0206,Available
+DOC1165,Dr. Smita Chavan,Pulmonology,30,FAC0040,Available
+DOC1166,Dr. Omkar Kadam,Emergency Medicine,4,FAC0085,Busy
+DOC1167,Dr. Meena Shinde,Emergency Medicine,5,FAC0054,Busy
+DOC1168,Dr. Rahul Gaikwad,Psychiatry,11,FAC0145,Available
+DOC1169,Dr. Smita Patil,Psychiatry,13,FAC0159,Available
+DOC1170,Dr. Ajay Salve,Oncology,3,FAC0044,On Leave
+DOC1171,Dr. Amit Desai,Radiology,6,FAC0162,Available
+DOC1172,Dr. Abhijit Bhosale,Dermatology,33,FAC0204,Available
+DOC1173,Dr. Vishal Mane,Anesthesiology,7,FAC0067,Available
+DOC1174,Dr. Anita Joshi,Oncology,2,FAC0077,Busy
+DOC1175,Dr. Akash Kamble,Neurology,19,FAC0020,Available
+DOC1176,Dr. Vijay Raut,Dermatology,15,FAC0048,Busy
+DOC1177,Dr. Reshma Kumar,Gastroenterology,33,FAC0083,On Leave
+DOC1178,Dr. Vaishali Joshi,Gynecology,29,FAC0175,Available
+DOC1179,Dr. Varun Kamble,Community Medicine,3,FAC0221,Available
+DOC1180,Dr. Smita Sharma,Oncology,10,FAC0039,Busy
+DOC1181,Dr. Suresh Tiwari,Radiology,10,FAC0008,Available
+DOC1182,Dr. Nilesh Shinde,Neurology,21,FAC0233,On Leave
+DOC1183,Dr. Kavita Salve,Emergency Medicine,24,FAC0296,Available
+DOC1184,Dr. Manisha Mishra,Pulmonology,17,FAC0236,On Leave
+DOC1185,Dr. Kiran Surve,Oncology,8,FAC0072,Available
+DOC1186,Dr. Swapnil Bhosale,Endocrinology,27,FAC0206,On Leave
+DOC1187,Dr. Swati Mane,Emergency Medicine,21,FAC0263,Available
+DOC1188,Dr. Sachin Waghmare,Endocrinology,3,FAC0135,On Leave
+DOC1189,Dr. Vishal Tiwari,Gynecology,1,FAC0126,Busy
+DOC1190,Dr. Ganesh More,Orthopedics,26,FAC0292,Available
+DOC1191,Dr. Nitin Jadhav,Nephrology,30,FAC0179,Busy
+DOC1192,Dr. Suresh Jadhav,Surgery,7,FAC0093,Busy
+DOC1193,Dr. Sneha Sawant,Anesthesiology,21,FAC0034,On Leave
+DOC1194,Dr. Sanjay Kumar,Ophthalmology,8,FAC0244,Available
+DOC1195,Dr. Rekha Deshpande,Anesthesiology,14,FAC0075,Busy
+DOC1196,Dr. Reshma Kadam,Urology,24,FAC0032,On Leave
+DOC1197,Dr. Sunita Pawar,Ophthalmology,28,FAC0012,Available
+DOC1198,Dr. Kavita Kulkarni,Surgery,18,FAC0036,Available
+DOC1199,Dr. Swapnil Lokhande,Community Medicine,14,FAC0269,Busy
+DOC1200,Dr. Mamta Desai,Anesthesiology,28,FAC0048,On Leave
+DOC1201,Dr. Ravi Pawar,Pulmonology,27,FAC0179,Available
+DOC1202,Dr. Manisha Lokhande,General Medicine,25,FAC0182,Busy
+DOC1203,Dr. Neha Jadhav,Anesthesiology,10,FAC0297,Busy
+DOC1204,Dr. Rahul Kulkarni,Pulmonology,10,FAC0235,Busy
+DOC1205,Dr. Tushar Gupta,Gastroenterology,17,FAC0209,Busy
+DOC1206,Dr. Omkar Kamble,Geriatrics,29,FAC0065,On Leave
+DOC1207,Dr. Amit Pawar,Psychiatry,27,FAC0097,Busy
+DOC1208,Dr. Sneha Pawar,Dermatology,14,FAC0179,On Leave
+DOC1209,Dr. Priya Mane,Radiology,2,FAC0187,Busy
+DOC1210,Dr. Mamta Kamble,Geriatrics,32,FAC0064,On Leave
+DOC1211,Dr. Santosh Mane,Urology,35,FAC0181,Available
+DOC1212,Dr. Suresh Surve,Urology,30,FAC0091,Available
+DOC1213,Dr. Smita More,Surgery,28,FAC0278,Available
+DOC1214,Dr. Kiran Bhosale,Pediatrics,6,FAC0051,Available
+DOC1215,Dr. Varun Surve,Pulmonology,7,FAC0211,Busy
+DOC1216,Dr. Madhuri Nair,Gastroenterology,29,FAC0052,Busy
+DOC1217,Dr. Nitin Bhosale,ENT,14,FAC0216,Busy
+DOC1218,Dr. Sneha Shinde,Pediatrics,31,FAC0101,Available
+DOC1219,Dr. Santosh Surve,Emergency Medicine,1,FAC0203,Busy
+DOC1220,Dr. Lata Salve,Urology,20,FAC0136,Busy
+DOC1221,Dr. Yogesh Surve,General Medicine,3,FAC0213,Available
+DOC1222,Dr. Omkar Chavan,Anesthesiology,21,FAC0266,Available
+DOC1223,Dr. Archana Gaikwad,Dermatology,26,FAC0285,Busy
+DOC1224,Dr. Omkar Desai,Gynecology,28,FAC0296,On Leave
+DOC1225,Dr. Vishal More,Gastroenterology,21,FAC0207,Available
+DOC1226,Dr. Anita Kumar,Pediatrics,33,FAC0065,Busy
+DOC1227,Dr. Omkar Mishra,Anesthesiology,11,FAC0134,Available
+DOC1228,Dr. Rahul Lokhande,General Medicine,10,FAC0006,Busy
+DOC1229,Dr. Madhuri Jadhav,General Medicine,25,FAC0293,Busy
+DOC1230,Dr. Swati Yadav,ENT,12,FAC0184,Busy
+DOC1231,Dr. Lata Pawar,Surgery,16,FAC0275,Busy
+DOC1232,Dr. Anil Jadhav,Geriatrics,2,FAC0074,On Leave
+DOC1233,Dr. Suresh Waghmare,Gynecology,7,FAC0063,Available
+DOC1234,Dr. Kavita Jadhav,Dermatology,24,FAC0254,Available
+DOC1235,Dr. Tushar Patil,Pulmonology,5,FAC0212,On Leave
+DOC1236,Dr. Sanjay Gupta,Anesthesiology,25,FAC0215,Busy
+DOC1237,Dr. Tushar More,General Medicine,20,FAC0093,On Leave
+DOC1238,Dr. Vaishali Sharma,Anesthesiology,8,FAC0017,On Leave
+DOC1239,Dr. Varun Sharma,Neurology,1,FAC0280,Available
+DOC1240,Dr. Dinesh Shinde,Psychiatry,2,FAC0099,Available
+DOC1241,Dr. Reshma Kulkarni,Pediatrics,24,FAC0111,Busy
+DOC1242,Dr. Prakash Kulkarni,Gynecology,6,FAC0113,Available
+DOC1243,Dr. Sanjay Jadhav,Nephrology,19,FAC0179,Busy
+DOC1244,Dr. Santosh Joshi,Ophthalmology,13,FAC0205,Available
+DOC1245,Dr. Ganesh Shinde,Neurology,20,FAC0299,Busy
+DOC1246,Dr. Santosh Raut,Endocrinology,28,FAC0229,Busy
+DOC1247,Dr. Varun Shinde,Dermatology,28,FAC0197,Busy
+DOC1248,Dr. Yogesh Yadav,Neurology,29,FAC0033,Busy
+DOC1249,Dr. Meena Shah,Endocrinology,19,FAC0210,Busy
+DOC1250,Dr. Pallavi Kadam,Neurology,8,FAC0016,Busy
+DOC1251,Dr. Tushar More,Orthopedics,16,FAC0184,Available
+DOC1252,Dr. Rajesh Kulkarni,General Medicine,8,FAC0161,Available
+DOC1253,Dr. Pawan Sawant,Oncology,30,FAC0110,Busy
+DOC1254,Dr. Komal Jadhav,Endocrinology,19,FAC0198,Available
+DOC1255,Dr. Anita Nair,Oncology,5,FAC0143,Busy
+DOC1256,Dr. Nitin Mishra,Anesthesiology,21,FAC0223,Available
+DOC1257,Dr. Tushar Deshpande,Ophthalmology,3,FAC0256,Available
+DOC1258,Dr. Vikram More,ENT,25,FAC0168,Busy
+DOC1259,Dr. Rahul Yadav,Nephrology,1,FAC0295,Available
+DOC1260,Dr. Amit Raut,Cardiology,34,FAC0274,Available
+DOC1261,Dr. Vijay Deshpande,Radiology,27,FAC0049,Available
+DOC1262,Dr. Ganesh Jadhav,Pulmonology,21,FAC0285,Busy
+DOC1263,Dr. Deepak Kumar,Geriatrics,32,FAC0233,On Leave
+DOC1264,Dr. Omkar Mane,ENT,2,FAC0053,Available
+DOC1265,Dr. Manoj Shinde,ENT,28,FAC0166,Available
+DOC1266,Dr. Deepa Raut,General Medicine,35,FAC0189,On Leave
+DOC1267,Dr. Anil Raut,Cardiology,8,FAC0023,On Leave
+DOC1268,Dr. Anil Sawant,Neurology,18,FAC0195,On Leave
+DOC1269,Dr. Swati Shinde,Gynecology,21,FAC0065,Busy
+DOC1270,Dr. Kiran Waghmare,Gastroenterology,34,FAC0063,Available
+DOC1271,Dr. Nitin Deshpande,Pulmonology,21,FAC0144,Available
+DOC1272,Dr. Abhijit Bhosale,Psychiatry,23,FAC0043,Busy
+DOC1273,Dr. Aarti Yadav,Orthopedics,5,FAC0106,On Leave
+DOC1274,Dr. Sanjay Patil,Surgery,30,FAC0111,Available
+DOC1275,Dr. Prakash Pawar,Anesthesiology,33,FAC0271,Busy
+DOC1276,Dr. Pawan Waghmare,Pediatrics,33,FAC0079,On Leave
+DOC1277,Dr. Madhuri Mane,Endocrinology,29,FAC0198,Available
+DOC1278,Dr. Sanjay Jadhav,Neurology,28,FAC0143,Busy
+DOC1279,Dr. Vaishali Shinde,Pediatrics,30,FAC0076,Busy
+DOC1280,Dr. Priya Raut,Ophthalmology,12,FAC0236,Available
+DOC1281,Dr. Swati Mane,Psychiatry,8,FAC0136,Available
+DOC1282,Dr. Sanjay Kulkarni,Urology,33,FAC0204,Available
+DOC1283,Dr. Vikram Salve,Cardiology,7,FAC0190,Busy
+DOC1284,Dr. Sanjay Bhosale,Neurology,26,FAC0097,Busy
+DOC1285,Dr. Smita Deshpande,Pediatrics,28,FAC0266,Busy
+DOC1286,Dr. Anita Gaikwad,Cardiology,4,FAC0059,Busy
+DOC1287,Dr. Kavita Nair,ENT,18,FAC0052,Busy
+DOC1288,Dr. Ganesh Kadam,Ophthalmology,15,FAC0052,Available
+DOC1289,Dr. Savita Pawar,Endocrinology,19,FAC0178,Available
+DOC1290,Dr. Suresh More,Radiology,31,FAC0258,Busy
+DOC1291,Dr. Pooja Sawant,Neurology,11,FAC0036,Available
+DOC1292,Dr. Manoj Patil,Anesthesiology,28,FAC0243,Available
+DOC1293,Dr. Yogesh Jadhav,Endocrinology,1,FAC0088,Available
+DOC1294,Dr. Akash Patil,Pulmonology,16,FAC0251,Available
+DOC1295,Dr. Akash Gupta,Gastroenterology,15,FAC0149,Available
+DOC1296,Dr. Reshma Shinde,Anesthesiology,20,FAC0052,Available
+DOC1297,Dr. Rohit Salve,Emergency Medicine,17,FAC0250,Available
+DOC1298,Dr. Deepak Kumar,Community Medicine,34,FAC0171,Busy
+DOC1299,Dr. Gauri Shinde,Geriatrics,34,FAC0139,Available
+DOC1300,Dr. Swapnil Gaikwad,Pulmonology,23,FAC0073,Available
+DOC1301,Dr. Deepa Kumar,Dermatology,24,FAC0221,Busy
+DOC1302,Dr. Madhuri Kadam,Geriatrics,18,FAC0056,Busy
+DOC1303,Dr. Yogesh Joshi,Community Medicine,17,FAC0090,Available
+DOC1304,Dr. Ganesh Shah,Radiology,18,FAC0214,Available
+DOC1305,Dr. Nisha Kumar,Urology,8,FAC0176,Busy
+DOC1306,Dr. Savita Tiwari,Pediatrics,19,FAC0178,On Leave
+DOC1307,Dr. Dinesh Gupta,Community Medicine,30,FAC0076,Available
+DOC1308,Dr. Varun Nair,Pulmonology,20,FAC0084,Available
+DOC1309,Dr. Rahul Waghmare,Radiology,14,FAC0021,Busy
+DOC1310,Dr. Amit Deshpande,Urology,1,FAC0157,Available
+DOC1311,Dr. Amit Salve,Radiology,23,FAC0071,Busy
+DOC1312,Dr. Aarti Mishra,Orthopedics,10,FAC0288,Busy
+DOC1313,Dr. Deepa Pawar,Radiology,6,FAC0222,Available
+DOC1314,Dr. Dinesh Mane,Urology,25,FAC0128,Available
+DOC1315,Dr. Yogesh Salve,Neurology,20,FAC0155,Busy
+DOC1316,Dr. Tushar Shah,Ophthalmology,13,FAC0072,Available
+DOC1317,Dr. Neha Bhosale,Radiology,6,FAC0157,Busy
+DOC1318,Dr. Rohit More,Pediatrics,28,FAC0193,Available
+DOC1319,Dr. Pawan Sawant,Nephrology,23,FAC0258,Available
+DOC1320,Dr. Santosh Lokhande,Psychiatry,2,FAC0237,Available
+DOC1321,Dr. Vijay Mishra,ENT,20,FAC0072,Busy
+DOC1322,Dr. Manoj Sharma,Cardiology,19,FAC0279,Busy
+DOC1323,Dr. Manoj Kadam,Gastroenterology,30,FAC0004,Available
+DOC1324,Dr. Vijay Desai,Anesthesiology,7,FAC0139,Busy
+DOC1325,Dr. Akash Deshpande,Pediatrics,4,FAC0170,Busy
+DOC1326,Dr. Deepa Kumar,Gastroenterology,14,FAC0028,Available
+DOC1327,Dr. Manoj Gaikwad,Geriatrics,20,FAC0080,Available
+DOC1328,Dr. Tushar Deshpande,Orthopedics,8,FAC0103,Available
+DOC1329,Dr. Ujwala Shinde,ENT,7,FAC0267,Available
+DOC1330,Dr. Rahul Chavan,Surgery,29,FAC0259,Available
+DOC1331,Dr. Deepak Kadam,ENT,12,FAC0248,Busy
+DOC1332,Dr. Meena Chavan,Urology,8,FAC0225,Available
+DOC1333,Dr. Ravi Kulkarni,Gastroenterology,11,FAC0124,Busy
+DOC1334,Dr. Neha Deshpande,Radiology,19,FAC0246,Busy
+DOC1335,Dr. Gauri Mane,Surgery,26,FAC0141,Busy
+DOC1336,Dr. Vikram Lokhande,General Medicine,10,FAC0218,Available
+DOC1337,Dr. Akash Kadam,Cardiology,20,FAC0006,Busy
+DOC1338,Dr. Swati Desai,Nephrology,9,FAC0182,Busy
+DOC1339,Dr. Anil Patil,Gastroenterology,23,FAC0082,Busy
+DOC1340,Dr. Neha Mane,Gastroenterology,25,FAC0269,Available
+DOC1341,Dr. Pallavi Yadav,Nephrology,22,FAC0289,Busy
+DOC1342,Dr. Meena Tiwari,Orthopedics,26,FAC0156,On Leave
+DOC1343,Dr. Ganesh Deshpande,Community Medicine,33,FAC0093,Available
+DOC1344,Dr. Manisha Sawant,Oncology,23,FAC0298,Busy
+DOC1345,Dr. Vijay Desai,ENT,11,FAC0016,Available
+DOC1346,Dr. Nilesh Surve,ENT,21,FAC0244,On Leave
+DOC1347,Dr. Anita Raut,Urology,25,FAC0090,On Leave
+DOC1348,Dr. Varun Salve,Orthopedics,3,FAC0059,Available
+DOC1349,Dr. Varun Yadav,Anesthesiology,12,FAC0016,Available
+DOC1350,Dr. Ganesh Kulkarni,Dermatology,13,FAC0294,Available
+DOC1351,Dr. Nitin Bhosale,Neurology,13,FAC0116,Available
+DOC1352,Dr. Savita Tiwari,Oncology,6,FAC0099,Available
+DOC1353,Dr. Sanjay Desai,Emergency Medicine,1,FAC0072,Busy
+DOC1354,Dr. Komal Kamble,Neurology,22,FAC0037,Busy
+DOC1355,Dr. Gauri Pawar,Gastroenterology,31,FAC0107,Available
+DOC1356,Dr. Ujwala Nair,Nephrology,5,FAC0071,Available
+DOC1357,Dr. Swapnil Jadhav,Gynecology,6,FAC0292,Busy
+DOC1358,Dr. Suresh Shinde,Cardiology,15,FAC0256,Busy
+DOC1359,Dr. Rahul Gaikwad,Surgery,17,FAC0149,Busy
+DOC1360,Dr. Swapnil Kamble,Orthopedics,19,FAC0081,Available
+DOC1361,Dr. Shweta Joshi,Surgery,20,FAC0257,Busy
+DOC1362,Dr. Manisha Raut,Ophthalmology,31,FAC0057,Busy
+DOC1363,Dr. Prakash Lokhande,Anesthesiology,13,FAC0134,Busy
+DOC1364,Dr. Manoj Pawar,Community Medicine,22,FAC0281,On Leave
+DOC1365,Dr. Ajay Deshpande,Emergency Medicine,3,FAC0038,On Leave
+DOC1366,Dr. Varun Singh,Gynecology,31,FAC0042,Available
+DOC1367,Dr. Suresh Desai,ENT,33,FAC0255,Busy
+DOC1368,Dr. Nilesh Bhosale,Cardiology,2,FAC0117,Available
+DOC1369,Dr. Komal Sharma,Psychiatry,2,FAC0195,Available
+DOC1370,Dr. Abhijit Kadam,Urology,28,FAC0065,Available
+DOC1371,Dr. Vikram Shinde,Dermatology,23,FAC0189,Available
+DOC1372,Dr. Ajay Gaikwad,ENT,1,FAC0048,Available
+DOC1373,Dr. Rupali Desai,Cardiology,16,FAC0008,Available
+DOC1374,Dr. Swati More,Anesthesiology,3,FAC0145,Available
+DOC1375,Dr. Lata Kulkarni,Community Medicine,31,FAC0204,Available
+DOC1376,Dr. Vijay Salve,Pulmonology,14,FAC0279,Busy
+DOC1377,Dr. Yogesh Surve,Radiology,29,FAC0113,On Leave
+DOC1378,Dr. Lata Kamble,Ophthalmology,34,FAC0126,Available
+DOC1379,Dr. Nisha Shinde,Urology,23,FAC0028,Busy
+DOC1380,Dr. Gauri Salve,Gynecology,14,FAC0041,Busy
+DOC1381,Dr. Sonal Bhosale,Pediatrics,14,FAC0284,Available
+DOC1382,Dr. Sunita Gaikwad,Pediatrics,30,FAC0226,Available
+DOC1383,Dr. Anil Salve,Orthopedics,20,FAC0197,Available
+DOC1384,Dr. Sneha Deshpande,Surgery,25,FAC0010,Available
+DOC1385,Dr. Neha Kadam,Psychiatry,28,FAC0095,Available
+DOC1386,Dr. Amit Nair,Endocrinology,2,FAC0179,Busy
+DOC1387,Dr. Dinesh Chavan,General Medicine,14,FAC0135,Available
+DOC1388,Dr. Archana Kamble,Pediatrics,4,FAC0219,Busy
+DOC1389,Dr. Swapnil Nair,Oncology,28,FAC0238,Busy
+DOC1390,Dr. Meena More,ENT,30,FAC0196,Available
+DOC1391,Dr. Anil Tiwari,ENT,6,FAC0141,Busy
+DOC1392,Dr. Prakash Shah,Endocrinology,3,FAC0203,Available
+DOC1393,Dr. Nitin Salve,Radiology,8,FAC0007,Busy
+DOC1394,Dr. Omkar Salve,Nephrology,29,FAC0092,Available
+DOC1395,Dr. Vikram Desai,Geriatrics,31,FAC0184,Busy
+DOC1396,Dr. Archana Desai,Ophthalmology,6,FAC0297,Busy
+DOC1397,Dr. Ashwini Jadhav,Ophthalmology,12,FAC0226,Busy
+DOC1398,Dr. Anil Kamble,ENT,9,FAC0254,Busy
+DOC1399,Dr. Shweta Sharma,Pediatrics,15,FAC0026,Busy
+DOC1400,Dr. Aarti Joshi,Cardiology,21,FAC0226,Busy
+DOC1401,Dr. Sunita Kumar,General Medicine,17,FAC0133,Busy
+DOC1402,Dr. Rohit Kumar,Emergency Medicine,16,FAC0023,Available
+DOC1403,Dr. Swati Shinde,ENT,5,FAC0262,Available
+DOC1404,Dr. Pallavi Chavan,Geriatrics,5,FAC0213,Available
+DOC1405,Dr. Manoj Patil,Anesthesiology,24,FAC0168,On Leave
+DOC1406,Dr. Nilesh Bhosale,Emergency Medicine,11,FAC0016,Available
+DOC1407,Dr. Madhuri Shah,Endocrinology,7,FAC0014,Available
+DOC1408,Dr. Sachin Kumar,Dermatology,23,FAC0261,Available
+DOC1409,Dr. Sunita Gupta,Geriatrics,25,FAC0077,Available
+DOC1410,Dr. Dinesh Gaikwad,Oncology,33,FAC0290,Busy
+DOC1411,Dr. Rohit Singh,Cardiology,34,FAC0063,Busy
+DOC1412,Dr. Nisha Waghmare,Dermatology,18,FAC0163,Busy
+DOC1413,Dr. Dinesh Gaikwad,Emergency Medicine,16,FAC0169,Available
+DOC1414,Dr. Vishal Shinde,Urology,29,FAC0124,Available
+DOC1415,Dr. Rohit Joshi,Geriatrics,24,FAC0040,Available
+DOC1416,Dr. Swati Tiwari,Oncology,15,FAC0215,Busy
+DOC1417,Dr. Madhuri Nair,Community Medicine,27,FAC0126,Busy
+DOC1418,Dr. Smita Salve,Anesthesiology,22,FAC0147,Available
+DOC1419,Dr. Santosh Joshi,Geriatrics,32,FAC0076,Busy
+DOC1420,Dr. Ujwala More,Neurology,1,FAC0233,Available
+DOC1421,Dr. Abhijit Nair,Gynecology,7,FAC0241,Busy
+DOC1422,Dr. Rahul Kumar,Gynecology,5,FAC0086,Available
+DOC1423,Dr. Madhuri Kadam,Gynecology,23,FAC0217,Available
+DOC1424,Dr. Sonal Kumar,Anesthesiology,8,FAC0151,Busy
+DOC1425,Dr. Akash Sharma,Orthopedics,3,FAC0056,Busy
+DOC1426,Dr. Vikram Surve,Urology,29,FAC0210,Available
+DOC1427,Dr. Pawan Kulkarni,Orthopedics,33,FAC0094,Available
+DOC1428,Dr. Akash Shah,Surgery,30,FAC0190,Available
+DOC1429,Dr. Nisha Singh,ENT,7,FAC0144,Available
+DOC1430,Dr. Amit Shah,Oncology,34,FAC0266,Available
+DOC1431,Dr. Deepak Sawant,Neurology,21,FAC0197,On Leave
+DOC1432,Dr. Omkar Singh,Gastroenterology,28,FAC0108,Available
+DOC1433,Dr. Ashwini Shinde,Neurology,19,FAC0178,Available
+DOC1434,Dr. Nilesh Waghmare,Radiology,11,FAC0115,On Leave
+DOC1435,Dr. Varun Mishra,Community Medicine,15,FAC0055,Available
+DOC1436,Dr. Sanjay Nair,General Medicine,11,FAC0261,Busy
+DOC1437,Dr. Yogesh Nair,General Medicine,13,FAC0276,Available
+DOC1438,Dr. Rajesh Pawar,Nephrology,28,FAC0145,Available
+DOC1439,Dr. Deepak Surve,Nephrology,8,FAC0057,Busy
+DOC1440,Dr. Anil Jadhav,Community Medicine,18,FAC0071,Available
+DOC1441,Dr. Tushar Jadhav,Anesthesiology,5,FAC0114,Available
+DOC1442,Dr. Anil Waghmare,Anesthesiology,5,FAC0263,Busy
+DOC1443,Dr. Santosh Shinde,Dermatology,21,FAC0267,Busy
+DOC1444,Dr. Kiran Yadav,Gynecology,16,FAC0005,Busy
+DOC1445,Dr. Aarti Pawar,Gynecology,31,FAC0136,Available
+DOC1446,Dr. Deepa Deshpande,Dermatology,9,FAC0145,Busy
+DOC1447,Dr. Sachin Kamble,Urology,1,FAC0110,Available
+DOC1448,Dr. Smita Pawar,Urology,3,FAC0092,Busy
+DOC1449,Dr. Sneha Yadav,Geriatrics,16,FAC0299,Available
+DOC1450,Dr. Aarti More,Radiology,15,FAC0154,Busy
+DOC1451,Dr. Tushar Yadav,Psychiatry,23,FAC0201,Available
+DOC1452,Dr. Ajay Shinde,Nephrology,27,FAC0148,Available
+DOC1453,Dr. Suresh More,Community Medicine,21,FAC0238,Available
+DOC1454,Dr. Pawan Kulkarni,Endocrinology,32,FAC0248,Available
+DOC1455,Dr. Priya Bhosale,Dermatology,33,FAC0138,Busy
+DOC1456,Dr. Amit Nair,Community Medicine,17,FAC0166,Available
+DOC1457,Dr. Tushar Waghmare,Ophthalmology,26,FAC0218,On Leave
+DOC1458,Dr. Nilesh Singh,Geriatrics,22,FAC0113,Busy
+DOC1459,Dr. Vikram Lokhande,Psychiatry,11,FAC0114,Available
+DOC1460,Dr. Varun Sharma,Endocrinology,9,FAC0169,Available
+DOC1461,Dr. Tushar Kadam,Emergency Medicine,22,FAC0047,Busy
+DOC1462,Dr. Kavita Yadav,Dermatology,34,FAC0026,Available
+DOC1463,Dr. Pooja Chavan,ENT,26,FAC0275,Available
+DOC1464,Dr. Madhuri Mane,Dermatology,27,FAC0170,Busy
+DOC1465,Dr. Priya Desai,Pediatrics,34,FAC0011,Available
+DOC1466,Dr. Amit More,General Medicine,20,FAC0145,Available
+DOC1467,Dr. Sunita Salve,Geriatrics,25,FAC0064,Available
+DOC1468,Dr. Swapnil Jadhav,Gastroenterology,5,FAC0040,Busy
+DOC1469,Dr. Rahul Patil,Pediatrics,10,FAC0278,Busy
+DOC1470,Dr. Sanjay Chavan,Urology,21,FAC0160,Available
+DOC1471,Dr. Deepak Salve,Pediatrics,13,FAC0235,Available
+DOC1472,Dr. Gauri Kadam,Orthopedics,28,FAC0150,Available
+DOC1473,Dr. Rohit Salve,Psychiatry,19,FAC0248,Available
+DOC1474,Dr. Rahul Deshpande,Psychiatry,24,FAC0202,Busy
+DOC1475,Dr. Ajay Shah,ENT,26,FAC0013,Available
+DOC1476,Dr. Akash Shinde,Gynecology,22,FAC0160,Busy
+DOC1477,Dr. Suresh Nair,Pulmonology,14,FAC0087,Busy
+DOC1478,Dr. Manoj Kadam,Oncology,34,FAC0243,Busy
+DOC1479,Dr. Abhijit Deshpande,Radiology,27,FAC0130,Busy
+DOC1480,Dr. Sunita Sawant,General Medicine,27,FAC0290,Available
+DOC1481,Dr. Reshma Nair,Pulmonology,35,FAC0251,Available
+DOC1482,Dr. Ashwini Waghmare,Psychiatry,33,FAC0248,Busy
+DOC1483,Dr. Dinesh Shinde,Surgery,5,FAC0218,Available
+DOC1484,Dr. Ravi Joshi,Dermatology,11,FAC0063,Available
+DOC1485,Dr. Amit Raut,Neurology,32,FAC0218,Busy
+DOC1486,Dr. Gauri Kulkarni,Surgery,27,FAC0281,Available
+DOC1487,Dr. Santosh Bhosale,Anesthesiology,34,FAC0139,Busy
+DOC1488,Dr. Akash Yadav,Radiology,10,FAC0085,Available
+DOC1489,Dr. Savita Sharma,Endocrinology,34,FAC0191,Available
+DOC1490,Dr. Sanjay Surve,Neurology,9,FAC0170,Available
+DOC1491,Dr. Rahul Sawant,Gynecology,12,FAC0214,Available
+DOC1492,Dr. Deepak Kumar,Pediatrics,13,FAC0097,Available
+DOC1493,Dr. Suresh Desai,Orthopedics,11,FAC0240,Available
+DOC1494,Dr. Ujwala Gaikwad,Dermatology,1,FAC0177,Available
+DOC1495,Dr. Akash Singh,Endocrinology,24,FAC0157,Busy
+DOC1496,Dr. Rohit Nair,Oncology,5,FAC0104,Available
+DOC1497,Dr. Meena More,Gynecology,7,FAC0135,Busy
+DOC1498,Dr. Vaishali Mishra,Oncology,22,FAC0197,Busy
+DOC1499,Dr. Smita Salve,Neurology,14,FAC0243,Available
+DOC1500,Dr. Neha Jadhav,Neurology,10,FAC0076,Available
+DOC1501,Dr. Prakash Jadhav,Gastroenterology,9,FAC0027,Busy
+DOC1502,Dr. Nitin Deshpande,Gastroenterology,20,FAC0168,Busy
+DOC1503,Dr. Komal Kadam,Pulmonology,25,FAC0194,Available
+DOC1504,Dr. Ashwini Joshi,Neurology,14,FAC0041,On Leave
+DOC1505,Dr. Pawan Kulkarni,Pulmonology,29,FAC0224,Busy
+DOC1506,Dr. Nitin Shinde,Geriatrics,28,FAC0286,Available
+DOC1507,Dr. Swapnil Mane,Urology,23,FAC0239,Available
+DOC1508,Dr. Ujwala Surve,Emergency Medicine,25,FAC0098,Available
+DOC1509,Dr. Sanjay Waghmare,Dermatology,34,FAC0185,Available
+DOC1510,Dr. Prakash Shinde,Gastroenterology,17,FAC0189,On Leave
+DOC1511,Dr. Meena Desai,Surgery,31,FAC0141,Available
+DOC1512,Dr. Anil Yadav,Pulmonology,2,FAC0030,On Leave
+DOC1513,Dr. Nilesh More,Pediatrics,35,FAC0243,Available
+DOC1514,Dr. Varun Raut,Gynecology,12,FAC0079,Available
+DOC1515,Dr. Amit Waghmare,Pediatrics,21,FAC0032,Busy
+DOC1516,Dr. Swapnil Pawar,Community Medicine,22,FAC0009,Busy
+DOC1517,Dr. Yogesh Kumar,Gastroenterology,24,FAC0087,Available
+DOC1518,Dr. Santosh Chavan,Dermatology,5,FAC0032,Busy
+DOC1519,Dr. Rekha Singh,Neurology,6,FAC0137,Available
+DOC1520,Dr. Varun Pawar,Neurology,27,FAC0259,Busy
+DOC1521,Dr. Deepak Salve,Pediatrics,23,FAC0288,Available
+DOC1522,Dr. Mamta Kumar,Orthopedics,30,FAC0045,Available
+DOC1523,Dr. Ravi Singh,Anesthesiology,12,FAC0045,Busy
+DOC1524,Dr. Abhijit More,Geriatrics,14,FAC0006,Available
+DOC1525,Dr. Yogesh Singh,Community Medicine,20,FAC0127,Busy
+DOC1526,Dr. Deepa Mishra,Cardiology,20,FAC0068,Available
+DOC1527,Dr. Ravi Salve,Urology,21,FAC0072,Available
+DOC1528,Dr. Meena Raut,Radiology,12,FAC0103,Available
+DOC1529,Dr. Anil Jadhav,Oncology,23,FAC0251,Available
+DOC1530,Dr. Swati Chavan,Oncology,3,FAC0088,Available
+DOC1531,Dr. Rupali Pawar,Geriatrics,23,FAC0223,Busy
+DOC1532,Dr. Sanjay Sawant,Orthopedics,18,FAC0258,Available
+DOC1533,Dr. Meena Pawar,Cardiology,17,FAC0240,On Leave
+DOC1534,Dr. Aarti Yadav,Gynecology,31,FAC0096,Available
+DOC1535,Dr. Rajesh Shah,Anesthesiology,3,FAC0194,Busy
+DOC1536,Dr. Swapnil Raut,Urology,11,FAC0005,Available
+DOC1537,Dr. Kiran Raut,Emergency Medicine,12,FAC0052,Available
+DOC1538,Dr. Rohit More,Endocrinology,29,FAC0012,Available
+DOC1539,Dr. Manisha Lokhande,ENT,31,FAC0205,Available
+DOC1540,Dr. Varun Sawant,Radiology,26,FAC0248,Available
+DOC1541,Dr. Reshma Surve,Urology,7,FAC0260,Available
+DOC1542,Dr. Akash Kadam,Gastroenterology,11,FAC0015,Available
+DOC1543,Dr. Yogesh Sharma,Oncology,13,FAC0269,Busy
+DOC1544,Dr. Aarti Sawant,Radiology,6,FAC0028,Busy
+DOC1545,Dr. Savita Mane,Neurology,26,FAC0235,Available
+DOC1546,Dr. Neha Raut,Radiology,20,FAC0089,Available
+DOC1547,Dr. Shweta Pawar,ENT,6,FAC0224,Available
+DOC1548,Dr. Shweta Mishra,Pulmonology,1,FAC0192,Available
+DOC1549,Dr. Nilesh Nair,Pulmonology,14,FAC0202,Busy
+DOC1550,Dr. Pawan Gaikwad,Gynecology,25,FAC0050,Available
+DOC1551,Dr. Sneha Mishra,Community Medicine,19,FAC0168,Busy
+DOC1552,Dr. Varun Kadam,Emergency Medicine,5,FAC0274,Available
+DOC1553,Dr. Priya Gaikwad,Emergency Medicine,16,FAC0092,Available
+DOC1554,Dr. Mamta Patil,Geriatrics,5,FAC0204,Available
+DOC1555,Dr. Sanjay Desai,Urology,20,FAC0109,Available
+DOC1556,Dr. Kiran More,Radiology,10,FAC0218,Available
+DOC1557,Dr. Amit Salve,Neurology,12,FAC0216,Available
+DOC1558,Dr. Mamta Shinde,Emergency Medicine,6,FAC0239,Busy
+DOC1559,Dr. Kiran Kamble,Neurology,1,FAC0208,Available
+DOC1560,Dr. Nisha Kadam,Pulmonology,1,FAC0233,Busy
+DOC1561,Dr. Santosh Mishra,Urology,20,FAC0028,Available
+DOC1562,Dr. Varun Tiwari,Emergency Medicine,33,FAC0231,Busy
+DOC1563,Dr. Swapnil Nair,Neurology,8,FAC0187,On Leave
+DOC1564,Dr. Reshma Kadam,General Medicine,10,FAC0041,Available
+DOC1565,Dr. Meena Pawar,Urology,30,FAC0264,Available
+DOC1566,Dr. Amit Shinde,Emergency Medicine,30,FAC0251,Available
+DOC1567,Dr. Aarti Mane,Anesthesiology,28,FAC0130,Busy
+DOC1568,Dr. Rohit Salve,Emergency Medicine,19,FAC0092,Available
+DOC1569,Dr. Prakash Bhosale,Emergency Medicine,8,FAC0019,Busy
+DOC1570,Dr. Deepa Kadam,Orthopedics,12,FAC0128,Available
+DOC1571,Dr. Deepa Kulkarni,Ophthalmology,28,FAC0253,Available
+DOC1572,Dr. Pawan Sharma,Oncology,34,FAC0125,Available
+DOC1573,Dr. Prakash Mane,Endocrinology,10,FAC0020,On Leave
+DOC1574,Dr. Ganesh Joshi,Geriatrics,22,FAC0041,Busy
+DOC1575,Dr. Ganesh Patil,Geriatrics,17,FAC0095,Busy
+DOC1576,Dr. Omkar Surve,Dermatology,8,FAC0222,Busy
+DOC1577,Dr. Varun Joshi,Cardiology,16,FAC0277,Available
+DOC1578,Dr. Sanjay Mishra,Neurology,18,FAC0224,Available
+DOC1579,Dr. Varun Kadam,Ophthalmology,19,FAC0093,Available
+DOC1580,Dr. Priya Tiwari,Ophthalmology,9,FAC0213,Available
+DOC1581,Dr. Savita Yadav,ENT,7,FAC0163,Available
+DOC1582,Dr. Ajay Jadhav,Oncology,30,FAC0148,Available
+DOC1583,Dr. Ashwini Nair,Psychiatry,31,FAC0200,Available
+DOC1584,Dr. Prakash Mane,Nephrology,10,FAC0228,Busy
+DOC1585,Dr. Sanjay Nair,Ophthalmology,25,FAC0088,Available
+DOC1586,Dr. Kavita Yadav,Orthopedics,23,FAC0250,Available
+DOC1587,Dr. Pallavi Bhosale,Nephrology,21,FAC0150,Busy
+DOC1588,Dr. Manoj Sharma,Endocrinology,11,FAC0300,Available
+DOC1589,Dr. Santosh Mishra,Psychiatry,19,FAC0012,Busy
+DOC1590,Dr. Sneha Surve,Surgery,9,FAC0276,Busy
+DOC1591,Dr. Suresh Kadam,Pediatrics,14,FAC0112,Busy
+DOC1592,Dr. Shweta More,Emergency Medicine,27,FAC0206,Busy
+DOC1593,Dr. Yogesh Sharma,Emergency Medicine,21,FAC0143,Busy
+DOC1594,Dr. Sachin Nair,ENT,26,FAC0273,Busy
+DOC1595,Dr. Abhijit Waghmare,Neurology,29,FAC0147,On Leave
+DOC1596,Dr. Sneha Bhosale,Anesthesiology,35,FAC0002,Busy
+DOC1597,Dr. Aarti Surve,Oncology,25,FAC0051,Busy
+DOC1598,Dr. Santosh Pawar,Gynecology,15,FAC0015,Busy
+DOC1599,Dr. Kavita Sharma,General Medicine,27,FAC0293,Available
+DOC1600,Dr. Pooja Shah,Emergency Medicine,6,FAC0242,Available
+DOC1601,Dr. Ujwala Tiwari,Dermatology,33,FAC0200,Busy
+DOC1602,Dr. Swati Mane,Pulmonology,12,FAC0123,On Leave
+DOC1603,Dr. Ashwini Kulkarni,General Medicine,5,FAC0151,Available
+DOC1604,Dr. Vikram Gaikwad,Neurology,16,FAC0228,On Leave
+DOC1605,Dr. Vaishali Shinde,ENT,11,FAC0170,Available
+DOC1606,Dr. Rahul Singh,Gastroenterology,27,FAC0017,On Leave
+DOC1607,Dr. Vijay Tiwari,Psychiatry,17,FAC0214,Available
+DOC1608,Dr. Vaishali Nair,Pulmonology,29,FAC0013,Busy
+DOC1609,Dr. Deepak Tiwari,Emergency Medicine,3,FAC0204,Available
+DOC1610,Dr. Vaishali Yadav,Pediatrics,28,FAC0226,Available
+DOC1611,Dr. Abhijit Chavan,Neurology,8,FAC0297,Available
+DOC1612,Dr. Manoj Surve,Dermatology,31,FAC0125,Available
+DOC1613,Dr. Kiran Kumar,Pulmonology,30,FAC0038,Busy
+DOC1614,Dr. Prakash Bhosale,Nephrology,22,FAC0228,Busy
+DOC1615,Dr. Meena Sharma,Gynecology,9,FAC0019,Available
+DOC1616,Dr. Ajay Raut,Radiology,24,FAC0190,Available
+DOC1617,Dr. Rupali Yadav,Nephrology,31,FAC0157,Busy
+DOC1618,Dr. Deepa Tiwari,Endocrinology,10,FAC0066,Available
+DOC1619,Dr. Anil Yadav,Dermatology,2,FAC0117,Busy
+DOC1620,Dr. Rupali Patil,Gastroenterology,24,FAC0133,Busy
+DOC1621,Dr. Sneha Deshpande,Geriatrics,23,FAC0088,Available
+DOC1622,Dr. Ashwini Joshi,Pulmonology,25,FAC0192,Busy
+DOC1623,Dr. Gauri More,General Medicine,25,FAC0248,Busy
+DOC1624,Dr. Prakash Gaikwad,ENT,14,FAC0159,Available
+DOC1625,Dr. Reshma Singh,Emergency Medicine,13,FAC0062,Available
+DOC1626,Dr. Madhuri Yadav,ENT,34,FAC0007,Busy
+DOC1627,Dr. Nitin Desai,Anesthesiology,7,FAC0205,Available
+DOC1628,Dr. Rohit Nair,Cardiology,6,FAC0276,Available
+DOC1629,Dr. Sonal Gaikwad,Geriatrics,12,FAC0132,Busy
+DOC1630,Dr. Manisha Kumar,Cardiology,12,FAC0234,On Leave
+DOC1631,Dr. Rohit Salve,Orthopedics,13,FAC0047,On Leave
+DOC1632,Dr. Nisha Bhosale,ENT,14,FAC0032,Available
+DOC1633,Dr. Gauri Waghmare,Cardiology,35,FAC0051,Available
+DOC1634,Dr. Sanjay Deshpande,Orthopedics,29,FAC0060,Available
+DOC1635,Dr. Rohit Shah,Radiology,32,FAC0111,Busy
+DOC1636,Dr. Archana Kamble,Geriatrics,29,FAC0058,Available
+DOC1637,Dr. Reshma Waghmare,Urology,17,FAC0001,Busy
+DOC1638,Dr. Kiran More,Pulmonology,33,FAC0169,Available
+DOC1639,Dr. Anil Kamble,Anesthesiology,16,FAC0273,Available
+DOC1640,Dr. Nisha Bhosale,Neurology,8,FAC0226,Available
+DOC1641,Dr. Yogesh Joshi,Neurology,32,FAC0241,Available
+DOC1642,Dr. Nitin Bhosale,Anesthesiology,29,FAC0049,Busy
+DOC1643,Dr. Mamta More,ENT,7,FAC0100,Available
+DOC1644,Dr. Lata Sawant,Pediatrics,31,FAC0272,Busy
+DOC1645,Dr. Neha Shah,Neurology,21,FAC0080,Available
+DOC1646,Dr. Tushar More,Anesthesiology,11,FAC0081,On Leave
+DOC1647,Dr. Kiran Sharma,ENT,18,FAC0214,On Leave
+DOC1648,Dr. Dinesh Kamble,Gynecology,24,FAC0156,Available
+DOC1649,Dr. Omkar Singh,Radiology,29,FAC0162,Available
+DOC1650,Dr. Abhijit Lokhande,Cardiology,26,FAC0003,On Leave
+DOC1651,Dr. Kiran Tiwari,Ophthalmology,30,FAC0072,Available
+DOC1652,Dr. Neha Gupta,Emergency Medicine,19,FAC0132,Available
+DOC1653,Dr. Tushar Kadam,Dermatology,13,FAC0167,Busy
+DOC1654,Dr. Swapnil Salve,ENT,5,FAC0055,Available
+DOC1655,Dr. Vishal Shah,Community Medicine,3,FAC0241,Available
+DOC1656,Dr. Ajay Salve,Pediatrics,4,FAC0193,Available
+DOC1657,Dr. Anil Nair,Radiology,29,FAC0190,Available
+DOC1658,Dr. Ujwala Singh,Urology,21,FAC0038,Busy
+DOC1659,Dr. Rupali Bhosale,Psychiatry,13,FAC0294,Available
+DOC1660,Dr. Ashwini Shah,Psychiatry,17,FAC0280,Available
+DOC1661,Dr. Pawan Patil,Anesthesiology,5,FAC0072,On Leave
+DOC1662,Dr. Yogesh Mishra,Neurology,14,FAC0229,Available
+DOC1663,Dr. Swati Mane,Community Medicine,13,FAC0171,On Leave
+DOC1664,Dr. Anil Sharma,Pediatrics,9,FAC0012,Busy
+DOC1665,Dr. Ganesh Tiwari,Gastroenterology,4,FAC0250,Available
+DOC1666,Dr. Pallavi Patil,Cardiology,28,FAC0290,On Leave
+DOC1667,Dr. Tushar Nair,Oncology,19,FAC0252,Available
+DOC1668,Dr. Vishal Jadhav,Psychiatry,6,FAC0290,Busy
+DOC1669,Dr. Pooja Tiwari,Oncology,6,FAC0263,On Leave
+DOC1670,Dr. Vaishali Pawar,Ophthalmology,28,FAC0038,Available
+DOC1671,Dr. Vaishali Sawant,Geriatrics,12,FAC0038,Busy
+DOC1672,Dr. Sachin Mishra,Surgery,2,FAC0222,Busy
+DOC1673,Dr. Varun Chavan,General Medicine,2,FAC0200,Available
+DOC1674,Dr. Manoj Salve,Psychiatry,21,FAC0115,Available
+DOC1675,Dr. Reshma Chavan,Oncology,23,FAC0295,Available
+DOC1676,Dr. Neha Bhosale,General Medicine,7,FAC0093,Available
+DOC1677,Dr. Abhijit Kulkarni,Orthopedics,23,FAC0277,Available
+DOC1678,Dr. Dinesh Gaikwad,Radiology,13,FAC0107,Available
+DOC1679,Dr. Ajay Surve,General Medicine,23,FAC0112,Available
+DOC1680,Dr. Suresh Chavan,Nephrology,2,FAC0193,Busy
+DOC1681,Dr. Sneha Desai,Surgery,29,FAC0229,Available
+DOC1682,Dr. Akash Chavan,Neurology,6,FAC0064,Available
+DOC1683,Dr. Deepa Joshi,Dermatology,11,FAC0063,Available
+DOC1684,Dr. Vishal Sharma,Urology,21,FAC0184,Available
+DOC1685,Dr. Tushar Joshi,Ophthalmology,31,FAC0185,Available
+DOC1686,Dr. Rahul Patil,Surgery,27,FAC0195,On Leave
+DOC1687,Dr. Rajesh Mane,Urology,5,FAC0159,On Leave
+DOC1688,Dr. Ajay Kumar,Pulmonology,25,FAC0044,Available
+DOC1689,Dr. Vishal Yadav,Gynecology,3,FAC0166,Busy
+DOC1690,Dr. Rupali Patil,Gynecology,34,FAC0066,Available
+DOC1691,Dr. Abhijit Desai,Community Medicine,14,FAC0032,Available
+DOC1692,Dr. Archana Chavan,Neurology,27,FAC0081,Available
+DOC1693,Dr. Rekha Singh,Pediatrics,24,FAC0093,Busy
+DOC1694,Dr. Nilesh Pawar,Geriatrics,26,FAC0157,Available
+DOC1695,Dr. Varun Sawant,Anesthesiology,2,FAC0015,Available
+DOC1696,Dr. Amit Singh,Cardiology,27,FAC0074,Available
+DOC1697,Dr. Deepa Joshi,Pediatrics,11,FAC0087,Available
+DOC1698,Dr. Kavita Lokhande,Pulmonology,8,FAC0034,Available
+DOC1699,Dr. Swapnil Raut,Gynecology,29,FAC0275,Busy
+DOC1700,Dr. Deepak Deshpande,Gynecology,17,FAC0241,Available
+DOC1701,Dr. Pallavi Sharma,Pulmonology,31,FAC0050,Busy
+DOC1702,Dr. Neha Kulkarni,Gynecology,33,FAC0113,Busy
+DOC1703,Dr. Sonal Gupta,Surgery,7,FAC0043,Available
+DOC1704,Dr. Anita Gaikwad,Neurology,17,FAC0116,Busy
+DOC1705,Dr. Prakash Kumar,Gastroenterology,34,FAC0237,Busy
+DOC1706,Dr. Abhijit Raut,Urology,21,FAC0068,Available
+DOC1707,Dr. Rupali Singh,Geriatrics,25,FAC0018,Available
+DOC1708,Dr. Pooja Patil,ENT,3,FAC0074,Available
+DOC1709,Dr. Rahul Shah,Emergency Medicine,31,FAC0247,Available
+DOC1710,Dr. Sneha Waghmare,Endocrinology,30,FAC0110,Available
+DOC1711,Dr. Suresh Singh,Anesthesiology,33,FAC0144,Available
+DOC1712,Dr. Meena Sawant,Community Medicine,30,FAC0250,Available
+DOC1713,Dr. Abhijit Joshi,Emergency Medicine,5,FAC0135,Available
+DOC1714,Dr. Rohit Kulkarni,Nephrology,15,FAC0049,Busy
+DOC1715,Dr. Rohit Kumar,Emergency Medicine,9,FAC0152,Available
+DOC1716,Dr. Rohit Jadhav,Surgery,12,FAC0259,Busy
+DOC1717,Dr. Neha Kulkarni,Dermatology,2,FAC0114,Busy
+DOC1718,Dr. Sachin Sharma,Gastroenterology,34,FAC0078,Available
+DOC1719,Dr. Pallavi Nair,Neurology,34,FAC0118,Available
+DOC1720,Dr. Nitin More,Psychiatry,10,FAC0116,On Leave
+DOC1721,Dr. Archana Kamble,Cardiology,18,FAC0104,On Leave
+DOC1722,Dr. Deepak Kadam,Pulmonology,27,FAC0268,Available
+DOC1723,Dr. Deepa Bhosale,Ophthalmology,5,FAC0001,Busy
+DOC1724,Dr. Sanjay Surve,Urology,4,FAC0035,Available
+DOC1725,Dr. Omkar More,Neurology,26,FAC0125,Busy
+DOC1726,Dr. Akash Pawar,Orthopedics,23,FAC0128,Available
+DOC1727,Dr. Manoj Raut,Oncology,8,FAC0206,On Leave
+DOC1728,Dr. Neha Waghmare,Anesthesiology,18,FAC0073,Available
+DOC1729,Dr. Sachin Bhosale,Geriatrics,7,FAC0269,Busy
+DOC1730,Dr. Aarti Waghmare,Psychiatry,8,FAC0153,Busy
+DOC1731,Dr. Manoj Jadhav,Cardiology,18,FAC0175,Available
+DOC1732,Dr. Suresh Yadav,Oncology,28,FAC0239,Available
+DOC1733,Dr. Abhijit Bhosale,Pediatrics,34,FAC0116,Available
+DOC1734,Dr. Smita Kamble,Community Medicine,16,FAC0186,Available
+DOC1735,Dr. Santosh Desai,Ophthalmology,18,FAC0054,On Leave
+DOC1736,Dr. Ashwini Lokhande,Orthopedics,23,FAC0129,Available
+DOC1737,Dr. Ajay Shah,Oncology,15,FAC0254,Available
+DOC1738,Dr. Suresh Mishra,Endocrinology,25,FAC0250,Available
+DOC1739,Dr. Amit Sharma,Oncology,7,FAC0056,Available
+DOC1740,Dr. Pallavi Shah,Cardiology,26,FAC0216,Available
+DOC1741,Dr. Swapnil Waghmare,Cardiology,34,FAC0294,On Leave
+DOC1742,Dr. Nitin Surve,Oncology,14,FAC0014,Available
+DOC1743,Dr. Suresh Bhosale,Nephrology,2,FAC0212,Busy
+DOC1744,Dr. Rajesh Chavan,ENT,23,FAC0177,Available
+DOC1745,Dr. Prakash Waghmare,Dermatology,11,FAC0135,Busy
+DOC1746,Dr. Vaishali Sawant,Neurology,23,FAC0206,Busy
+DOC1747,Dr. Prakash Mane,Anesthesiology,15,FAC0276,Busy
+DOC1748,Dr. Dinesh Singh,Anesthesiology,26,FAC0047,Busy
+DOC1749,Dr. Reshma Kadam,Pulmonology,17,FAC0104,Available
+DOC1750,Dr. Yogesh Mane,Anesthesiology,11,FAC0082,Available
+DOC1751,Dr. Rupali Bhosale,Psychiatry,19,FAC0260,Available
+DOC1752,Dr. Varun Kumar,Orthopedics,13,FAC0039,Available
+DOC1753,Dr. Madhuri Raut,Gynecology,17,FAC0208,Busy
+DOC1754,Dr. Pallavi Kadam,Pediatrics,25,FAC0069,Busy
+DOC1755,Dr. Varun Shah,ENT,21,FAC0043,Available
+DOC1756,Dr. Ajay Nair,General Medicine,18,FAC0080,Available
+DOC1757,Dr. Sonal Raut,Geriatrics,29,FAC0116,Busy
+DOC1758,Dr. Priya Bhosale,Endocrinology,2,FAC0125,Available
+DOC1759,Dr. Santosh Nair,Urology,13,FAC0283,Available
+DOC1760,Dr. Rupali Kadam,Ophthalmology,25,FAC0295,Busy
+DOC1761,Dr. Tushar Tiwari,Emergency Medicine,28,FAC0135,Available
+DOC1762,Dr. Ashwini Nair,Gynecology,5,FAC0183,Available
+DOC1763,Dr. Savita Nair,Pediatrics,9,FAC0297,On Leave
+DOC1764,Dr. Manisha Deshpande,Pediatrics,21,FAC0275,Busy
+DOC1765,Dr. Sonal Singh,Nephrology,15,FAC0179,Available
+DOC1766,Dr. Vikram Sharma,Oncology,32,FAC0225,Available
+DOC1767,Dr. Priya Nair,Emergency Medicine,4,FAC0230,Available
+DOC1768,Dr. Kavita Gupta,Ophthalmology,5,FAC0182,Busy
+DOC1769,Dr. Pawan Sharma,Gynecology,28,FAC0252,On Leave
+DOC1770,Dr. Aarti Waghmare,Community Medicine,35,FAC0159,Available
+DOC1771,Dr. Rupali Tiwari,Gynecology,27,FAC0261,Busy
+DOC1772,Dr. Ashwini Kamble,Emergency Medicine,4,FAC0004,Busy
+DOC1773,Dr. Varun Jadhav,Neurology,27,FAC0272,Busy
+DOC1774,Dr. Smita Mishra,General Medicine,12,FAC0092,Busy
+DOC1775,Dr. Vishal Shinde,Pediatrics,6,FAC0170,On Leave
+DOC1776,Dr. Manisha Gupta,Surgery,27,FAC0199,Busy
+DOC1777,Dr. Shweta Sawant,Radiology,7,FAC0094,Available
+DOC1778,Dr. Yogesh Salve,Neurology,6,FAC0256,Available
+DOC1779,Dr. Sonal Mane,Nephrology,22,FAC0042,Busy
+DOC1780,Dr. Meena Patil,Community Medicine,4,FAC0032,Available
+DOC1781,Dr. Priya Joshi,Anesthesiology,1,FAC0007,Available
+DOC1782,Dr. Tushar Raut,Orthopedics,24,FAC0291,On Leave
+DOC1783,Dr. Vaishali Sharma,Psychiatry,12,FAC0256,Available
+DOC1784,Dr. Suresh Kamble,Oncology,24,FAC0080,Available
+DOC1785,Dr. Pawan Kamble,Gynecology,33,FAC0091,Busy
+DOC1786,Dr. Rahul Sharma,Pediatrics,35,FAC0020,Busy
+DOC1787,Dr. Dinesh Bhosale,Community Medicine,23,FAC0056,Available
+DOC1788,Dr. Pooja Raut,Dermatology,32,FAC0052,Busy
+DOC1789,Dr. Madhuri Sawant,Nephrology,25,FAC0233,On Leave
+DOC1790,Dr. Kavita Sawant,Gynecology,24,FAC0127,Available
+DOC1791,Dr. Sanjay Tiwari,Emergency Medicine,3,FAC0207,Available
+DOC1792,Dr. Tushar Chavan,Orthopedics,34,FAC0051,Busy
+DOC1793,Dr. Dinesh Joshi,Gastroenterology,35,FAC0289,Available
+DOC1794,Dr. Vaishali Pawar,Gynecology,21,FAC0145,Available
+DOC1795,Dr. Lata Yadav,Urology,26,FAC0219,Available
+DOC1796,Dr. Rahul Deshpande,Psychiatry,21,FAC0054,Available
+DOC1797,Dr. Deepak Deshpande,Gastroenterology,4,FAC0148,Busy
+DOC1798,Dr. Kavita Bhosale,Neurology,35,FAC0293,Busy
+DOC1799,Dr. Rohit Patil,Surgery,20,FAC0025,Available
+DOC1800,Dr. Sunita Chavan,Gastroenterology,33,FAC0223,Busy
+DOC1801,Dr. Pallavi Gupta,Pediatrics,14,FAC0023,Available
+DOC1802,Dr. Ujwala Gaikwad,Dermatology,5,FAC0164,Available
+DOC1803,Dr. Vaishali Sharma,Surgery,3,FAC0008,Available
+DOC1804,Dr. Dinesh Bhosale,Community Medicine,16,FAC0003,Busy
+DOC1805,Dr. Ravi Kadam,Surgery,24,FAC0117,Available
+DOC1806,Dr. Smita Gaikwad,Community Medicine,28,FAC0133,Busy
+DOC1807,Dr. Sanjay Raut,General Medicine,27,FAC0140,Available
+DOC1808,Dr. Ganesh Salve,Ophthalmology,32,FAC0098,Busy
+DOC1809,Dr. Amit Kumar,Community Medicine,9,FAC0230,Busy
+DOC1810,Dr. Kiran Shinde,Pulmonology,11,FAC0060,Available
+DOC1811,Dr. Ashwini More,Radiology,26,FAC0132,Available
+DOC1812,Dr. Swapnil Shah,Pediatrics,7,FAC0134,Available
+DOC1813,Dr. Kavita Nair,Gynecology,13,FAC0255,Available
+DOC1814,Dr. Nilesh Deshpande,ENT,8,FAC0056,Available
+DOC1815,Dr. Ravi Jadhav,Urology,16,FAC0035,Busy
+DOC1816,Dr. Vishal Kulkarni,Community Medicine,3,FAC0227,On Leave
+DOC1817,Dr. Reshma Pawar,Oncology,3,FAC0163,Available
+DOC1818,Dr. Ashwini Kamble,Emergency Medicine,12,FAC0129,Available
+DOC1819,Dr. Ganesh Kadam,Gastroenterology,19,FAC0079,Available
+DOC1820,Dr. Vaishali Pawar,General Medicine,29,FAC0172,Busy
+DOC1821,Dr. Omkar Gaikwad,Psychiatry,19,FAC0271,Available
+DOC1822,Dr. Ashwini Desai,Urology,5,FAC0058,Available
+DOC1823,Dr. Varun Singh,Emergency Medicine,21,FAC0087,Available
+DOC1824,Dr. Nitin Gaikwad,General Medicine,25,FAC0004,Busy
+DOC1825,Dr. Abhijit Shah,Geriatrics,15,FAC0062,Available
+DOC1826,Dr. Kavita Patil,Radiology,25,FAC0244,Busy
+DOC1827,Dr. Vikram Surve,Endocrinology,32,FAC0122,Available
+DOC1828,Dr. Nilesh Surve,Psychiatry,30,FAC0079,Busy
+DOC1829,Dr. Rekha Bhosale,Ophthalmology,25,FAC0090,Busy
+DOC1830,Dr. Vishal Patil,Gynecology,20,FAC0222,Available
+DOC1831,Dr. Pawan Raut,Surgery,15,FAC0278,Available
+DOC1832,Dr. Sanjay Kadam,Nephrology,27,FAC0216,Busy
+DOC1833,Dr. Ganesh Waghmare,Anesthesiology,22,FAC0187,Busy
+DOC1834,Dr. Deepa Joshi,Dermatology,16,FAC0106,Busy
+DOC1835,Dr. Neha Kamble,Psychiatry,30,FAC0187,Busy
+DOC1836,Dr. Rajesh Yadav,Surgery,14,FAC0158,Available
+DOC1837,Dr. Rohit Yadav,Endocrinology,20,FAC0232,Available
+DOC1838,Dr. Neha Sawant,Community Medicine,11,FAC0283,Available
+DOC1839,Dr. Archana More,Dermatology,2,FAC0227,Available
+DOC1840,Dr. Meena Singh,Geriatrics,10,FAC0289,Available
+DOC1841,Dr. Rekha Lokhande,ENT,30,FAC0163,Busy
+DOC1842,Dr. Reshma Surve,Endocrinology,21,FAC0250,On Leave
+DOC1843,Dr. Nisha Singh,Orthopedics,7,FAC0019,Available
+DOC1844,Dr. Dinesh Kamble,Orthopedics,22,FAC0028,Available
+DOC1845,Dr. Sanjay Singh,Radiology,14,FAC0078,Busy
+DOC1846,Dr. Varun Surve,Pulmonology,29,FAC0162,Available
+DOC1847,Dr. Lata Bhosale,Gynecology,11,FAC0052,Available
+DOC1848,Dr. Rohit Surve,Psychiatry,11,FAC0210,Busy
+DOC1849,Dr. Pawan Salve,Community Medicine,8,FAC0128,On Leave
+DOC1850,Dr. Suresh Mishra,Surgery,9,FAC0021,Available
+DOC1851,Dr. Ravi Mishra,Nephrology,24,FAC0011,Busy
+DOC1852,Dr. Swati Raut,Community Medicine,32,FAC0011,Busy
+DOC1853,Dr. Vijay Raut,Neurology,5,FAC0190,Available
+DOC1854,Dr. Nitin Kadam,Community Medicine,8,FAC0077,Available
+DOC1855,Dr. Deepak Kumar,Endocrinology,23,FAC0043,On Leave
+DOC1856,Dr. Rahul Sharma,Emergency Medicine,11,FAC0214,Busy
+DOC1857,Dr. Nisha Salve,Pulmonology,2,FAC0267,Available
+DOC1858,Dr. Sunita Yadav,Ophthalmology,20,FAC0123,Available
+DOC1859,Dr. Prakash Desai,Community Medicine,30,FAC0140,Available
+DOC1860,Dr. Sunita Kulkarni,Radiology,2,FAC0006,Available
+DOC1861,Dr. Ganesh Kadam,Surgery,18,FAC0019,Available
+DOC1862,Dr. Shweta Tiwari,Anesthesiology,27,FAC0218,Available
+DOC1863,Dr. Vishal Salve,Pulmonology,13,FAC0283,Available
+DOC1864,Dr. Dinesh Waghmare,Gastroenterology,21,FAC0044,Busy
+DOC1865,Dr. Tushar Kulkarni,Orthopedics,16,FAC0055,Available
+DOC1866,Dr. Manoj Shah,Orthopedics,6,FAC0122,Available
+DOC1867,Dr. Vishal Tiwari,Gynecology,5,FAC0175,Busy
+DOC1868,Dr. Kiran Kamble,Endocrinology,7,FAC0170,Available
+DOC1869,Dr. Neha Surve,Orthopedics,12,FAC0042,Busy
+DOC1870,Dr. Rahul Lokhande,Cardiology,14,FAC0120,Busy
+DOC1871,Dr. Prakash Yadav,Pulmonology,13,FAC0272,Busy
+DOC1872,Dr. Varun Kumar,Radiology,31,FAC0096,Busy
+DOC1873,Dr. Shweta Kamble,Neurology,29,FAC0032,Available
+DOC1874,Dr. Ravi Pawar,Psychiatry,10,FAC0135,Busy
+DOC1875,Dr. Manisha Shinde,Neurology,13,FAC0039,Busy
+DOC1876,Dr. Pooja Kadam,Gastroenterology,27,FAC0152,Busy
+DOC1877,Dr. Archana Salve,Gastroenterology,16,FAC0177,Available
+DOC1878,Dr. Deepak Mishra,Cardiology,5,FAC0083,Available
+DOC1879,Dr. Yogesh Singh,Orthopedics,28,FAC0031,Busy
+DOC1880,Dr. Rahul Singh,Oncology,21,FAC0046,Busy
+DOC1881,Dr. Pawan Gupta,Anesthesiology,17,FAC0034,Available
+DOC1882,Dr. Rajesh Deshpande,Anesthesiology,32,FAC0154,Available
+DOC1883,Dr. Sonal Shah,Emergency Medicine,3,FAC0088,Available
+DOC1884,Dr. Prakash Surve,Nephrology,30,FAC0207,Available
+DOC1885,Dr. Deepa Mishra,General Medicine,27,FAC0198,Busy
+DOC1886,Dr. Ganesh Kamble,Emergency Medicine,26,FAC0077,Available
+DOC1887,Dr. Rekha Shah,Pediatrics,14,FAC0095,Available
+DOC1888,Dr. Manoj Salve,General Medicine,13,FAC0173,Available
+DOC1889,Dr. Lata Chavan,ENT,18,FAC0282,Available
+DOC1890,Dr. Deepa Deshpande,Neurology,28,FAC0222,Available
+DOC1891,Dr. Rajesh Shinde,Pulmonology,21,FAC0035,Busy
+DOC1892,Dr. Sonal Joshi,Urology,14,FAC0254,Available
+DOC1893,Dr. Kiran More,Community Medicine,20,FAC0174,Busy
+DOC1894,Dr. Anita Sharma,Radiology,34,FAC0067,Available
+DOC1895,Dr. Tushar Kumar,Oncology,24,FAC0066,On Leave
+DOC1896,Dr. Rahul Waghmare,ENT,27,FAC0190,Available
+DOC1897,Dr. Pawan Gaikwad,Ophthalmology,31,FAC0161,Busy
+DOC1898,Dr. Savita Sawant,Anesthesiology,9,FAC0100,Busy
+DOC1899,Dr. Madhuri Gaikwad,Pulmonology,16,FAC0122,Busy
+DOC1900,Dr. Prakash Joshi,Gynecology,25,FAC0049,Busy
+DOC1901,Dr. Sachin Deshpande,Orthopedics,18,FAC0237,Available
+DOC1902,Dr. Savita Mishra,Emergency Medicine,10,FAC0142,Busy
+DOC1903,Dr. Nilesh Gaikwad,Anesthesiology,1,FAC0115,Available
+DOC1904,Dr. Gauri Nair,Anesthesiology,18,FAC0075,Available
+DOC1905,Dr. Varun Raut,Geriatrics,13,FAC0275,Available
+DOC1906,Dr. Smita Shinde,Dermatology,4,FAC0152,Available
+DOC1907,Dr. Lata Gaikwad,General Medicine,28,FAC0193,Available
+DOC1908,Dr. Rekha Bhosale,Geriatrics,2,FAC0013,Busy
+DOC1909,Dr. Vijay Mane,Nephrology,10,FAC0239,Busy
+DOC1910,Dr. Pooja Sharma,Pediatrics,21,FAC0228,On Leave
+DOC1911,Dr. Anil Pawar,Neurology,19,FAC0233,Busy
+DOC1912,Dr. Rahul Shinde,Psychiatry,21,FAC0027,Available
+DOC1913,Dr. Ashwini Chavan,Geriatrics,2,FAC0193,Available
+DOC1914,Dr. Ganesh More,Geriatrics,3,FAC0168,Available
+DOC1915,Dr. Reshma Shah,Cardiology,33,FAC0021,Busy
+DOC1916,Dr. Gauri Jadhav,Gynecology,9,FAC0035,Available
+DOC1917,Dr. Manisha Gaikwad,Emergency Medicine,24,FAC0048,Available
+DOC1918,Dr. Prakash Mishra,Surgery,32,FAC0036,Available
+DOC1919,Dr. Archana Yadav,Psychiatry,10,FAC0203,Busy
+DOC1920,Dr. Swati More,ENT,17,FAC0060,Available
+DOC1921,Dr. Priya Desai,Cardiology,31,FAC0116,Available
+DOC1922,Dr. Rekha Kamble,Anesthesiology,33,FAC0071,Available
+DOC1923,Dr. Rahul Joshi,General Medicine,32,FAC0149,Busy
+DOC1924,Dr. Rohit Jadhav,Oncology,13,FAC0021,Available
+DOC1925,Dr. Rupali Deshpande,Orthopedics,23,FAC0004,Busy
+DOC1926,Dr. Sachin Raut,Dermatology,26,FAC0085,Available
+DOC1927,Dr. Dinesh Yadav,Psychiatry,18,FAC0145,Available
+DOC1928,Dr. Ravi Chavan,Anesthesiology,17,FAC0104,Available
+DOC1929,Dr. Ganesh Shinde,General Medicine,29,FAC0147,Available
+DOC1930,Dr. Reshma Kadam,Pediatrics,12,FAC0105,Available
+DOC1931,Dr. Vishal Surve,Oncology,13,FAC0106,Busy
+DOC1932,Dr. Omkar Kumar,Emergency Medicine,20,FAC0110,Available
+DOC1933,Dr. Rupali Raut,Gastroenterology,14,FAC0130,Available
+DOC1934,Dr. Sanjay Chavan,Dermatology,22,FAC0093,Available
+DOC1935,Dr. Vishal Sawant,Endocrinology,26,FAC0235,Busy
+DOC1936,Dr. Nilesh Nair,Orthopedics,16,FAC0147,Busy
+DOC1937,Dr. Swapnil Patil,Ophthalmology,1,FAC0026,On Leave
+DOC1938,Dr. Vikram Kadam,Pediatrics,11,FAC0291,Available
+DOC1939,Dr. Vaishali Pawar,Orthopedics,24,FAC0217,Available
+DOC1940,Dr. Deepak Mishra,Radiology,8,FAC0018,Available
+DOC1941,Dr. Dinesh Surve,Geriatrics,8,FAC0105,Busy
+DOC1942,Dr. Yogesh Surve,General Medicine,12,FAC0244,Available
+DOC1943,Dr. Swati Kamble,Ophthalmology,18,FAC0297,Available
+DOC1944,Dr. Gauri Jadhav,Orthopedics,14,FAC0079,Available
+DOC1945,Dr. Rahul Desai,Nephrology,28,FAC0255,Available
+DOC1946,Dr. Akash Raut,Ophthalmology,5,FAC0023,Busy
+DOC1947,Dr. Sanjay Tiwari,Community Medicine,2,FAC0137,Available
+DOC1948,Dr. Sonal Kumar,Geriatrics,1,FAC0230,Available
+DOC1949,Dr. Mamta Kamble,ENT,32,FAC0223,Busy
+DOC1950,Dr. Deepak Mane,Nephrology,24,FAC0046,Busy
+DOC1951,Dr. Pooja Mane,Gynecology,35,FAC0191,Available
+DOC1952,Dr. Santosh More,Emergency Medicine,26,FAC0298,Available
+DOC1953,Dr. Abhijit Bhosale,Community Medicine,32,FAC0076,Available
+DOC1954,Dr. Santosh Jadhav,Anesthesiology,9,FAC0130,On Leave
+DOC1955,Dr. Vikram Mishra,Cardiology,11,FAC0277,Available
+DOC1956,Dr. Smita Sawant,Oncology,11,FAC0277,Available
+DOC1957,Dr. Mamta Kumar,Urology,6,FAC0203,Busy
+DOC1958,Dr. Komal Desai,Oncology,7,FAC0267,Available
+DOC1959,Dr. Aarti More,Pulmonology,22,FAC0117,Available
+DOC1960,Dr. Rohit Surve,Community Medicine,34,FAC0203,Busy
+DOC1961,Dr. Rupali Mane,ENT,7,FAC0209,Busy
+DOC1962,Dr. Manoj Chavan,Gastroenterology,1,FAC0097,Busy
+DOC1963,Dr. Manoj Surve,ENT,20,FAC0037,Busy
+DOC1964,Dr. Omkar Pawar,Dermatology,7,FAC0278,Available
+DOC1965,Dr. Deepak Shinde,Community Medicine,12,FAC0107,Available
+DOC1966,Dr. Vikram Shinde,Community Medicine,23,FAC0217,Available
+DOC1967,Dr. Lata Sawant,Dermatology,24,FAC0199,Available
+DOC1968,Dr. Rupali Surve,Community Medicine,3,FAC0245,Available
+DOC1969,Dr. Nilesh Sawant,Ophthalmology,2,FAC0180,Busy
+DOC1970,Dr. Abhijit Nair,Oncology,28,FAC0051,Busy
+DOC1971,Dr. Nitin Deshpande,Cardiology,25,FAC0014,On Leave
+DOC1972,Dr. Nilesh Salve,Orthopedics,6,FAC0279,Available
+DOC1973,Dr. Vikram Kadam,Endocrinology,16,FAC0173,On Leave
+DOC1974,Dr. Prakash Bhosale,Dermatology,29,FAC0283,Busy
+DOC1975,Dr. Rahul Gupta,Gastroenterology,2,FAC0066,Available
+DOC1976,Dr. Pooja Waghmare,Psychiatry,25,FAC0141,Busy
+DOC1977,Dr. Anil Shah,Pulmonology,34,FAC0061,Available
+DOC1978,Dr. Deepak Kamble,Radiology,3,FAC0084,Busy
+DOC1979,Dr. Suresh Gupta,Dermatology,5,FAC0080,Available
+DOC1980,Dr. Priya Kadam,Cardiology,25,FAC0091,Available
+DOC1981,Dr. Ashwini Kamble,ENT,32,FAC0299,Busy
+DOC1982,Dr. Suresh More,Endocrinology,9,FAC0072,Busy
+DOC1983,Dr. Nilesh Mane,Gastroenterology,2,FAC0221,Busy
+DOC1984,Dr. Kiran Nair,Pulmonology,27,FAC0055,Available
+DOC1985,Dr. Rohit Kumar,Orthopedics,5,FAC0217,Available
+DOC1986,Dr. Nilesh Kadam,Gynecology,16,FAC0260,Available
+DOC1987,Dr. Kavita Shah,Nephrology,13,FAC0096,Busy
+DOC1988,Dr. Pallavi Nair,Orthopedics,31,FAC0135,On Leave
+DOC1989,Dr. Rupali Lokhande,ENT,3,FAC0060,Available
+DOC1990,Dr. Manoj Singh,Emergency Medicine,1,FAC0201,Available
+DOC1991,Dr. Suresh Joshi,General Medicine,34,FAC0137,Available
+DOC1992,Dr. Ashwini Surve,Dermatology,31,FAC0125,Available
+DOC1993,Dr. Nilesh Deshpande,Neurology,7,FAC0110,Available
+DOC1994,Dr. Shweta Tiwari,Community Medicine,10,FAC0037,Available
+DOC1995,Dr. Rekha Kamble,Gastroenterology,31,FAC0035,On Leave
+DOC1996,Dr. Akash More,Geriatrics,27,FAC0127,Available
+DOC1997,Dr. Mamta Salve,Urology,4,FAC0209,Available
+DOC1998,Dr. Abhijit Kadam,Community Medicine,13,FAC0015,Busy
+DOC1999,Dr. Ganesh Waghmare,Pulmonology,9,FAC0116,Busy
+DOC2000,Dr. Ujwala Lokhande,Endocrinology,16,FAC0081,Available

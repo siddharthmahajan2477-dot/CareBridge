@@ -1,0 +1,301 @@
+facility_id,facility_name,facility_type,ownership,district,city,beds_total,beds_available,icu_beds,ambulance_count,pharmacy_available
+FAC0001,Paithan Civil Healthcare,PHC,Government,Aurangabad,Paithan,24,23,0,1,No
+FAC0002,Kamptee Regional Health Centre,PHC,Government,Nagpur,Kamptee,42,39,2,1,Yes
+FAC0003,Dhule Primary Medical Centre,PHC,Government,Dhule,Dhule,20,12,2,2,Yes
+FAC0004,Mangalvedhe Civil Clinic,Clinic,Government,Solapur,Mangalvedhe,24,3,0,1,No
+FAC0005,Deoni Primary Medical Centre,Clinic,Government,Latur,Deoni,16,3,0,0,Yes
+FAC0006,Dhule Rural Medical Centre,Hospital,Private,Dhule,Dhule,244,186,22,9,No
+FAC0007,Jalgaon Rural Clinic,PHC,Private,Jalgaon,Jalgaon,48,38,2,1,No
+FAC0008,Deoni District Medical Centre,PHC,Private,Latur,Deoni,24,3,2,2,Yes
+FAC0009,Karjat Central Health Centre,PHC,Government,Raigad,Karjat,30,15,0,2,No
+FAC0010,Khanapur Primary Health Centre,Clinic,Government,Sangli,Khanapur,13,10,0,1,Yes
+FAC0011,Pune Regional Clinic,PHC,Government,Pune,Pune,19,14,2,1,Yes
+FAC0012,Sillod General Hospital,PHC,Government,Aurangabad,Sillod,10,9,2,1,No
+FAC0013,Talegaon Community Polyclinic,Clinic,Government,Pune,Talegaon,21,18,0,0,No
+FAC0014,Pandharpur District Hospital,PHC,Government,Solapur,Pandharpur,44,42,2,1,Yes
+FAC0015,Sakri Civil Polyclinic,Hospital,Private,Dhule,Sakri,172,162,8,5,No
+FAC0016,Rahuri Regional Health Centre,PHC,Government,Ahmednagar,Rahuri,18,18,0,2,Yes
+FAC0017,Bhusawal Central Healthcare,Hospital,Private,Jalgaon,Bhusawal,415,384,24,8,Yes
+FAC0018,Andheri Civil Polyclinic,PHC,Government,Mumbai,Andheri,11,10,2,1,Yes
+FAC0019,Alibag Primary Healthcare,PHC,Government,Raigad,Alibag,31,11,0,1,Yes
+FAC0020,Warud Primary Hospital,Clinic,Private,Amravati,Warud,20,17,0,0,No
+FAC0021,Radhanagari General Hospital,Clinic,Government,Kolhapur,Radhanagari,19,4,0,0,Yes
+FAC0022,Karad Civil Clinic,Clinic,Government,Satara,Karad,18,9,0,0,Yes
+FAC0023,Mumbai Primary Health Centre,CHC,Private,Mumbai,Mumbai,99,20,8,1,No
+FAC0024,Sindkhede Community Clinic,PHC,Government,Dhule,Sindkhede,13,1,0,2,No
+FAC0025,Chopda Primary Hospital,Clinic,Private,Jalgaon,Chopda,26,6,0,1,Yes
+FAC0026,Pachora Rural Hospital,PHC,Government,Jalgaon,Pachora,13,9,0,2,No
+FAC0027,Nashik Primary Healthcare,Hospital,Government,Nashik,Nashik,354,241,9,5,Yes
+FAC0028,Hatkanangle General Health Centre,PHC,Private,Kolhapur,Hatkanangle,46,20,2,2,Yes
+FAC0029,Ausa Civil Hospital,Clinic,Government,Latur,Ausa,19,3,0,1,Yes
+FAC0030,Igatpuri Community Healthcare,PHC,Government,Nashik,Igatpuri,14,5,0,2,Yes
+FAC0031,Sangli Rural Medical Centre,Hospital,Private,Sangli,Sangli,391,378,40,6,Yes
+FAC0032,Miraj General Health Centre,Clinic,Government,Sangli,Miraj,13,10,0,1,Yes
+FAC0033,Tasgaon Community Hospital,CHC,Private,Sangli,Tasgaon,62,11,8,1,Yes
+FAC0034,Ausa District Hospital,Clinic,Private,Latur,Ausa,10,9,0,1,No
+FAC0035,Panvel Rural Clinic,Clinic,Private,Raigad,Panvel,22,13,0,0,Yes
+FAC0036,Alibag General Healthcare,Clinic,Government,Raigad,Alibag,16,8,0,0,Yes
+FAC0037,Achalpur General Clinic,Hospital,Government,Amravati,Achalpur,171,122,15,4,Yes
+FAC0038,Shrirampur Central Health Centre,CHC,Private,Ahmednagar,Shrirampur,64,30,3,1,No
+FAC0039,Mangalvedhe Primary Clinic,Clinic,Private,Solapur,Mangalvedhe,30,10,0,0,Yes
+FAC0040,Kopargaon Civil Medical Centre,Clinic,Private,Ahmednagar,Kopargaon,16,11,0,1,No
+FAC0041,Aurangabad General Clinic,Clinic,Private,Aurangabad,Aurangabad,8,5,0,1,No
+FAC0042,Hatkanangle Primary Medical Centre,PHC,Government,Kolhapur,Hatkanangle,22,15,1,1,Yes
+FAC0043,Pen Regional Medical Centre,PHC,Private,Raigad,Pen,49,23,1,1,Yes
+FAC0044,Malegaon Community Clinic,PHC,Government,Nashik,Malegaon,36,14,2,2,Yes
+FAC0045,Paithan Primary Healthcare,PHC,Government,Aurangabad,Paithan,37,32,2,2,Yes
+FAC0046,Shrirampur Primary Polyclinic,PHC,Private,Ahmednagar,Shrirampur,15,2,1,2,No
+FAC0047,Nashik Civil Clinic,Clinic,Private,Nashik,Nashik,6,3,0,0,Yes
+FAC0048,Butibori District Hospital,PHC,Private,Nagpur,Butibori,41,13,1,1,Yes
+FAC0049,Rahuri Central Polyclinic,CHC,Government,Ahmednagar,Rahuri,89,23,2,2,Yes
+FAC0050,Barshi Rural Polyclinic,PHC,Private,Solapur,Barshi,49,39,2,2,Yes
+FAC0051,Shrirampur Community Clinic,Hospital,Government,Ahmednagar,Shrirampur,480,296,22,10,Yes
+FAC0052,Gangapur Regional Polyclinic,Clinic,Government,Aurangabad,Gangapur,15,3,0,0,Yes
+FAC0053,Radhanagari Regional Clinic,Clinic,Government,Kolhapur,Radhanagari,15,7,0,1,Yes
+FAC0054,Jalgaon Community Clinic,Hospital,Private,Jalgaon,Jalgaon,488,51,29,9,No
+FAC0055,Hatkanangle Regional Clinic,Hospital,Private,Kolhapur,Hatkanangle,432,292,39,5,Yes
+FAC0056,Nilanga Rural Healthcare,Clinic,Government,Latur,Nilanga,28,28,0,0,Yes
+FAC0057,Warud Rural Hospital,PHC,Private,Amravati,Warud,11,3,0,2,No
+FAC0058,Phaltan Regional Medical Centre,Clinic,Government,Satara,Phaltan,15,5,0,1,No
+FAC0059,Chopda District Hospital,CHC,Government,Jalgaon,Chopda,36,7,4,2,No
+FAC0060,Shirur Primary Clinic,Hospital,Government,Pune,Shirur,128,72,20,4,Yes
+FAC0061,Sinnar District Medical Centre,CHC,Private,Nashik,Sinnar,44,23,8,2,Yes
+FAC0062,Radhanagari Community Polyclinic,PHC,Private,Kolhapur,Radhanagari,22,5,0,1,Yes
+FAC0063,Amravati General Hospital,PHC,Government,Amravati,Amravati,32,24,2,2,Yes
+FAC0064,Dadar Community Healthcare,CHC,Private,Mumbai,Dadar,76,26,7,4,Yes
+FAC0065,Wai Civil Medical Centre,CHC,Government,Satara,Wai,85,49,8,3,No
+FAC0066,Mahabaleshwar General Health Centre,Hospital,Government,Satara,Mahabaleshwar,362,50,29,7,Yes
+FAC0067,Gangapur Primary Hospital,PHC,Government,Aurangabad,Gangapur,27,19,2,2,Yes
+FAC0068,Miraj Central Hospital,Clinic,Government,Sangli,Miraj,27,22,0,1,No
+FAC0069,Bhusawal General Clinic,Clinic,Government,Jalgaon,Bhusawal,14,8,0,1,Yes
+FAC0070,Barshi Primary Medical Centre,Hospital,Private,Solapur,Barshi,188,77,24,6,Yes
+FAC0071,Shrirampur Community Hospital,Clinic,Government,Ahmednagar,Shrirampur,11,8,0,0,Yes
+FAC0072,Pandharpur District Healthcare,CHC,Government,Solapur,Pandharpur,68,23,2,2,Yes
+FAC0073,Nilanga Central Medical Centre,Clinic,Private,Latur,Nilanga,8,4,0,0,Yes
+FAC0074,Sindkhede District Health Centre,Clinic,Government,Dhule,Sindkhede,8,6,0,0,Yes
+FAC0075,Aurangabad Primary Healthcare,Clinic,Private,Aurangabad,Aurangabad,12,9,0,0,No
+FAC0076,Sillod Primary Polyclinic,PHC,Private,Aurangabad,Sillod,37,9,1,1,No
+FAC0077,Malegaon Central Polyclinic,Clinic,Private,Nashik,Malegaon,10,3,0,0,Yes
+FAC0078,Hingna Community Polyclinic,PHC,Government,Nagpur,Hingna,28,4,2,2,Yes
+FAC0079,Butibori Rural Hospital,PHC,Private,Nagpur,Butibori,17,5,2,1,No
+FAC0080,Warud Community Polyclinic,Clinic,Private,Amravati,Warud,14,2,0,1,Yes
+FAC0081,Tasgaon Community Hospital,PHC,Government,Sangli,Tasgaon,38,30,0,1,No
+FAC0082,Nandurbar District Health Centre,Clinic,Private,Dhule,Nandurbar,23,23,0,0,No
+FAC0083,Pen Central Medical Centre,PHC,Private,Raigad,Pen,21,17,2,2,No
+FAC0084,Borivali Regional Healthcare,PHC,Government,Mumbai,Borivali,31,12,1,2,Yes
+FAC0085,Gangapur District Polyclinic,Clinic,Government,Aurangabad,Gangapur,8,8,0,1,No
+FAC0086,Pimpri-Chinchwad Primary Medical Centre,Hospital,Government,Pune,Pimpri-Chinchwad,315,257,28,9,No
+FAC0087,Wai District Healthcare,PHC,Private,Satara,Wai,17,6,0,1,Yes
+FAC0088,Dhule Community Healthcare,PHC,Government,Dhule,Dhule,39,34,0,1,No
+FAC0089,Wai Rural Hospital,CHC,Government,Satara,Wai,61,30,5,2,Yes
+FAC0090,Kagal Community Healthcare,Clinic,Private,Kolhapur,Kagal,30,29,0,1,Yes
+FAC0091,Shirpur Regional Clinic,PHC,Private,Dhule,Shirpur,38,25,2,2,Yes
+FAC0092,Bhusawal Central Polyclinic,Hospital,Private,Jalgaon,Bhusawal,342,244,29,5,Yes
+FAC0093,Udgir General Hospital,Hospital,Government,Latur,Udgir,303,287,7,4,No
+FAC0094,Tasgaon Civil Clinic,Hospital,Government,Sangli,Tasgaon,57,46,14,8,No
+FAC0095,Morshi General Polyclinic,CHC,Government,Amravati,Morshi,40,38,8,3,Yes
+FAC0096,Nandurbar Community Health Centre,CHC,Private,Dhule,Nandurbar,34,18,6,1,Yes
+FAC0097,Mumbai District Medical Centre,CHC,Government,Mumbai,Mumbai,86,11,3,3,Yes
+FAC0098,Katol Regional Healthcare,PHC,Government,Nagpur,Katol,36,13,2,1,Yes
+FAC0099,Achalpur District Clinic,CHC,Government,Amravati,Achalpur,59,34,5,3,Yes
+FAC0100,Nashik Community Clinic,Hospital,Private,Nashik,Nashik,276,190,27,6,No
+FAC0101,Radhanagari Community Polyclinic,CHC,Government,Kolhapur,Radhanagari,43,40,3,4,Yes
+FAC0102,Nilanga District Healthcare,Clinic,Private,Latur,Nilanga,13,10,0,0,No
+FAC0103,Pen Community Polyclinic,CHC,Private,Raigad,Pen,59,19,6,3,Yes
+FAC0104,Udgir District Healthcare,CHC,Private,Latur,Udgir,42,23,7,1,No
+FAC0105,Pen General Healthcare,PHC,Government,Raigad,Pen,30,8,2,2,Yes
+FAC0106,Igatpuri Civil Health Centre,PHC,Government,Nashik,Igatpuri,40,11,1,2,Yes
+FAC0107,Nilanga Civil Clinic,CHC,Government,Latur,Nilanga,76,8,2,4,Yes
+FAC0108,Sillod Central Hospital,PHC,Private,Aurangabad,Sillod,34,9,2,2,Yes
+FAC0109,Mohol Community Polyclinic,PHC,Private,Solapur,Mohol,24,22,2,1,No
+FAC0110,Talegaon Rural Clinic,PHC,Government,Pune,Talegaon,41,19,0,1,No
+FAC0111,Chopda Central Healthcare,PHC,Private,Jalgaon,Chopda,36,29,2,1,Yes
+FAC0112,Talegaon Civil Polyclinic,PHC,Private,Pune,Talegaon,23,9,1,2,No
+FAC0113,Ausa Central Hospital,PHC,Private,Latur,Ausa,13,4,1,2,No
+FAC0114,Amravati Primary Hospital,CHC,Private,Amravati,Amravati,36,18,8,3,No
+FAC0115,Achalpur District Medical Centre,CHC,Private,Amravati,Achalpur,59,55,4,2,No
+FAC0116,Sinnar General Health Centre,Hospital,Government,Nashik,Sinnar,178,23,16,3,Yes
+FAC0117,Aurangabad Civil Clinic,PHC,Government,Aurangabad,Aurangabad,18,17,2,2,Yes
+FAC0118,Amravati Community Clinic,PHC,Government,Amravati,Amravati,38,5,2,1,No
+FAC0119,Wai Central Hospital,PHC,Government,Satara,Wai,37,34,2,1,No
+FAC0120,Nashik Community Clinic,Hospital,Government,Nashik,Nashik,114,102,22,10,Yes
+FAC0121,Ahmednagar Primary Clinic,PHC,Government,Ahmednagar,Ahmednagar,45,31,2,1,Yes
+FAC0122,Kolhapur General Health Centre,Clinic,Government,Kolhapur,Kolhapur,15,6,0,1,Yes
+FAC0123,Mumbai District Healthcare,CHC,Government,Mumbai,Mumbai,41,27,5,1,No
+FAC0124,Latur District Medical Centre,Hospital,Private,Latur,Latur,260,248,27,8,No
+FAC0125,Warud General Healthcare,PHC,Government,Amravati,Warud,23,9,0,2,No
+FAC0126,Achalpur Community Polyclinic,PHC,Private,Amravati,Achalpur,37,20,2,1,Yes
+FAC0127,Solapur Civil Health Centre,CHC,Private,Solapur,Solapur,53,41,8,2,Yes
+FAC0128,Kurla General Medical Centre,CHC,Private,Mumbai,Kurla,57,34,5,4,Yes
+FAC0129,Warud District Polyclinic,CHC,Private,Amravati,Warud,40,14,2,2,No
+FAC0130,Radhanagari Civil Medical Centre,Clinic,Government,Kolhapur,Radhanagari,24,15,0,1,Yes
+FAC0131,Deoni District Hospital,PHC,Government,Latur,Deoni,41,6,2,2,Yes
+FAC0132,Shrirampur District Clinic,Clinic,Private,Ahmednagar,Shrirampur,29,11,0,1,Yes
+FAC0133,Hatkanangle District Clinic,CHC,Government,Kolhapur,Hatkanangle,59,9,6,3,Yes
+FAC0134,Sakri Regional Medical Centre,Clinic,Private,Dhule,Sakri,23,20,0,1,Yes
+FAC0135,Pandharpur General Hospital,Clinic,Government,Solapur,Pandharpur,30,29,0,1,Yes
+FAC0136,Hatkanangle General Health Centre,PHC,Government,Kolhapur,Hatkanangle,35,28,2,1,No
+FAC0137,Sangli Rural Health Centre,Clinic,Government,Sangli,Sangli,21,13,0,0,Yes
+FAC0138,Sinnar Central Clinic,Clinic,Government,Nashik,Sinnar,9,2,0,0,No
+FAC0139,Mahabaleshwar Central Clinic,CHC,Private,Satara,Mahabaleshwar,71,26,8,3,Yes
+FAC0140,Amravati District Hospital,PHC,Private,Amravati,Amravati,32,12,2,1,Yes
+FAC0141,Latur District Clinic,PHC,Government,Latur,Latur,49,33,2,2,Yes
+FAC0142,Hingna Central Hospital,Hospital,Private,Nagpur,Hingna,359,112,35,10,No
+FAC0143,Jalgaon Central Clinic,CHC,Private,Jalgaon,Jalgaon,94,14,7,2,Yes
+FAC0144,Mangalvedhe District Polyclinic,PHC,Private,Solapur,Mangalvedhe,28,26,1,2,Yes
+FAC0145,Kurla Rural Medical Centre,PHC,Government,Mumbai,Kurla,34,12,1,2,Yes
+FAC0146,Nilanga General Health Centre,Clinic,Private,Latur,Nilanga,9,4,0,0,Yes
+FAC0147,Chopda General Medical Centre,CHC,Private,Jalgaon,Chopda,41,36,7,4,Yes
+FAC0148,Sangamner Community Hospital,Clinic,Government,Ahmednagar,Sangamner,11,3,0,0,Yes
+FAC0149,Chopda Regional Health Centre,PHC,Government,Jalgaon,Chopda,12,10,2,2,Yes
+FAC0150,Rahuri Regional Medical Centre,Clinic,Private,Ahmednagar,Rahuri,30,26,0,0,Yes
+FAC0151,Mahabaleshwar Community Clinic,CHC,Government,Satara,Mahabaleshwar,66,20,8,4,Yes
+FAC0152,Deoni Regional Health Centre,Hospital,Government,Latur,Deoni,275,226,34,6,Yes
+FAC0153,Igatpuri Civil Polyclinic,CHC,Private,Nashik,Igatpuri,36,26,7,4,Yes
+FAC0154,Aurangabad Regional Hospital,CHC,Private,Aurangabad,Aurangabad,50,37,4,4,Yes
+FAC0155,Phaltan Primary Clinic,Hospital,Government,Satara,Phaltan,63,31,31,2,Yes
+FAC0156,Talegaon Central Polyclinic,Hospital,Government,Pune,Talegaon,100,27,26,4,Yes
+FAC0157,Wai Rural Healthcare,CHC,Private,Satara,Wai,30,11,2,1,Yes
+FAC0158,Kolhapur Primary Clinic,Hospital,Private,Kolhapur,Kolhapur,447,198,23,5,Yes
+FAC0159,Mumbai Rural Medical Centre,PHC,Private,Mumbai,Mumbai,41,36,2,1,Yes
+FAC0160,Katol Civil Healthcare,PHC,Private,Nagpur,Katol,36,36,0,1,No
+FAC0161,Khanapur General Medical Centre,PHC,Private,Sangli,Khanapur,11,1,1,2,Yes
+FAC0162,Andheri General Health Centre,CHC,Government,Mumbai,Andheri,60,55,7,1,Yes
+FAC0163,Shirpur Rural Health Centre,Clinic,Government,Dhule,Shirpur,29,24,0,1,Yes
+FAC0164,Satara District Medical Centre,Clinic,Private,Satara,Satara,14,1,0,0,No
+FAC0165,Nandurbar District Polyclinic,Hospital,Government,Dhule,Nandurbar,292,126,21,2,Yes
+FAC0166,Barshi Rural Clinic,Clinic,Government,Solapur,Barshi,17,13,0,1,Yes
+FAC0167,Rahuri Regional Healthcare,CHC,Government,Ahmednagar,Rahuri,64,52,8,1,Yes
+FAC0168,Gangapur Central Healthcare,Hospital,Government,Aurangabad,Gangapur,102,94,10,7,Yes
+FAC0169,Phaltan Community Polyclinic,CHC,Government,Satara,Phaltan,87,86,2,3,No
+FAC0170,Dadar Central Hospital,Hospital,Private,Mumbai,Dadar,236,30,37,4,Yes
+FAC0171,Ausa Central Medical Centre,Clinic,Government,Latur,Ausa,16,2,0,1,Yes
+FAC0172,Achalpur Primary Hospital,PHC,Private,Amravati,Achalpur,43,24,1,2,Yes
+FAC0173,Tasgaon Central Health Centre,Clinic,Government,Sangli,Tasgaon,22,10,0,0,No
+FAC0174,Uran Central Hospital,Hospital,Government,Raigad,Uran,152,33,12,4,Yes
+FAC0175,Mangalvedhe Rural Medical Centre,CHC,Private,Solapur,Mangalvedhe,38,22,6,3,No
+FAC0176,Kamptee General Clinic,PHC,Government,Nagpur,Kamptee,25,13,1,1,Yes
+FAC0177,Amravati Regional Healthcare,CHC,Private,Amravati,Amravati,38,33,4,4,Yes
+FAC0178,Latur Rural Health Centre,Clinic,Private,Latur,Latur,19,17,0,1,Yes
+FAC0179,Pune Primary Medical Centre,PHC,Private,Pune,Pune,43,14,0,2,Yes
+FAC0180,Aurangabad Community Healthcare,Hospital,Government,Aurangabad,Aurangabad,178,87,17,10,Yes
+FAC0181,Sinnar General Healthcare,PHC,Government,Nashik,Sinnar,47,46,0,1,Yes
+FAC0182,Mumbai Regional Healthcare,Clinic,Private,Mumbai,Mumbai,25,22,0,1,Yes
+FAC0183,Deoni Regional Medical Centre,PHC,Government,Latur,Deoni,28,17,2,2,Yes
+FAC0184,Niphad Rural Medical Centre,PHC,Private,Nashik,Niphad,36,16,1,2,Yes
+FAC0185,Sakri General Health Centre,Hospital,Government,Dhule,Sakri,254,156,13,7,Yes
+FAC0186,Kamptee Regional Health Centre,PHC,Government,Nagpur,Kamptee,16,13,0,2,No
+FAC0187,Sakri Central Clinic,Hospital,Private,Dhule,Sakri,345,115,25,5,Yes
+FAC0188,Dadar District Hospital,Hospital,Government,Mumbai,Dadar,308,140,34,5,Yes
+FAC0189,Sindkhede Rural Medical Centre,Clinic,Private,Dhule,Sindkhede,14,14,0,0,Yes
+FAC0190,Solapur Civil Clinic,CHC,Private,Solapur,Solapur,81,54,2,2,Yes
+FAC0191,Sillod General Healthcare,PHC,Private,Aurangabad,Sillod,49,10,0,1,Yes
+FAC0192,Katol Rural Polyclinic,Hospital,Private,Nagpur,Katol,310,51,30,10,Yes
+FAC0193,Karad General Health Centre,Clinic,Government,Satara,Karad,24,12,0,0,No
+FAC0194,Sakri District Medical Centre,PHC,Private,Dhule,Sakri,47,40,1,2,Yes
+FAC0195,Hatkanangle Primary Polyclinic,Clinic,Government,Kolhapur,Hatkanangle,14,10,0,0,Yes
+FAC0196,Khanapur Primary Hospital,Clinic,Government,Sangli,Khanapur,29,6,0,1,No
+FAC0197,Nagpur Primary Clinic,PHC,Private,Nagpur,Nagpur,38,12,1,2,Yes
+FAC0198,Satara Central Healthcare,PHC,Private,Satara,Satara,18,18,2,1,Yes
+FAC0199,Mahabaleshwar Community Healthcare,PHC,Private,Satara,Mahabaleshwar,31,24,2,2,No
+FAC0200,Sillod Primary Polyclinic,PHC,Private,Aurangabad,Sillod,29,26,0,2,Yes
+FAC0201,Mohol Regional Clinic,CHC,Government,Solapur,Mohol,65,42,4,1,Yes
+FAC0202,Shrirampur General Clinic,CHC,Private,Ahmednagar,Shrirampur,67,67,2,3,No
+FAC0203,Kamptee Primary Health Centre,CHC,Private,Nagpur,Kamptee,98,26,4,3,Yes
+FAC0204,Kamptee Central Hospital,Clinic,Private,Nagpur,Kamptee,6,3,0,0,Yes
+FAC0205,Miraj Community Medical Centre,CHC,Government,Sangli,Miraj,82,69,7,4,Yes
+FAC0206,Ahmednagar District Health Centre,Clinic,Government,Ahmednagar,Ahmednagar,25,19,0,0,No
+FAC0207,Alibag District Medical Centre,PHC,Private,Raigad,Alibag,35,21,1,1,No
+FAC0208,Mangalvedhe Central Medical Centre,PHC,Government,Solapur,Mangalvedhe,39,11,2,2,No
+FAC0209,Niphad General Medical Centre,Clinic,Government,Nashik,Niphad,25,24,0,1,Yes
+FAC0210,Sinnar Regional Polyclinic,PHC,Private,Nashik,Sinnar,50,37,1,2,Yes
+FAC0211,Phaltan Central Medical Centre,Clinic,Private,Satara,Phaltan,12,5,0,0,Yes
+FAC0212,Chopda Civil Clinic,Hospital,Government,Jalgaon,Chopda,55,49,21,7,Yes
+FAC0213,Kupwad Community Medical Centre,Clinic,Government,Sangli,Kupwad,27,22,0,0,No
+FAC0214,Niphad Central Healthcare,PHC,Government,Nashik,Niphad,19,14,1,2,No
+FAC0215,Shrirampur Civil Healthcare,CHC,Private,Ahmednagar,Shrirampur,40,37,6,4,No
+FAC0216,Karjat Central Hospital,Clinic,Private,Raigad,Karjat,11,3,0,0,Yes
+FAC0217,Satara Regional Clinic,CHC,Private,Satara,Satara,95,67,5,1,Yes
+FAC0218,Ausa Civil Hospital,PHC,Private,Latur,Ausa,11,1,1,2,No
+FAC0219,Sangli Rural Polyclinic,PHC,Private,Sangli,Sangli,14,5,1,1,Yes
+FAC0220,Kagal Rural Polyclinic,Hospital,Private,Kolhapur,Kagal,245,120,33,8,Yes
+FAC0221,Tasgaon Community Clinic,Hospital,Government,Sangli,Tasgaon,320,33,13,5,No
+FAC0222,Tasgaon Primary Polyclinic,CHC,Government,Sangli,Tasgaon,59,27,3,4,Yes
+FAC0223,Nilanga District Clinic,CHC,Government,Latur,Nilanga,32,5,3,2,Yes
+FAC0224,Pimpri-Chinchwad District Health Centre,PHC,Private,Pune,Pimpri-Chinchwad,12,4,1,2,Yes
+FAC0225,Nandurbar Rural Polyclinic,PHC,Government,Dhule,Nandurbar,30,10,2,2,Yes
+FAC0226,Aurangabad Central Hospital,PHC,Government,Aurangabad,Aurangabad,45,44,2,1,Yes
+FAC0227,Nilanga Rural Medical Centre,Hospital,Private,Latur,Nilanga,452,401,38,7,Yes
+FAC0228,Karad Regional Clinic,PHC,Private,Satara,Karad,24,16,1,1,No
+FAC0229,Hingna Civil Healthcare,PHC,Government,Nagpur,Hingna,23,16,1,1,No
+FAC0230,Vaijapur Primary Clinic,CHC,Government,Aurangabad,Vaijapur,35,15,8,1,No
+FAC0231,Aurangabad Central Health Centre,Clinic,Private,Aurangabad,Aurangabad,11,2,0,0,No
+FAC0232,Ichalkaranji General Medical Centre,CHC,Private,Kolhapur,Ichalkaranji,100,58,4,3,Yes
+FAC0233,Wai General Medical Centre,Clinic,Government,Satara,Wai,8,5,0,1,No
+FAC0234,Kamptee General Health Centre,PHC,Private,Nagpur,Kamptee,11,5,1,2,Yes
+FAC0235,Mahabaleshwar Central Clinic,PHC,Private,Satara,Mahabaleshwar,31,26,1,2,Yes
+FAC0236,Malegaon District Healthcare,Clinic,Private,Nashik,Malegaon,28,7,0,1,No
+FAC0237,Dhule Primary Hospital,Clinic,Private,Dhule,Dhule,29,15,0,0,Yes
+FAC0238,Tasgaon Regional Hospital,CHC,Government,Sangli,Tasgaon,77,69,2,4,Yes
+FAC0239,Kupwad Civil Healthcare,Clinic,Private,Sangli,Kupwad,5,1,0,1,Yes
+FAC0240,Kupwad Regional Clinic,Clinic,Government,Sangli,Kupwad,16,13,0,1,Yes
+FAC0241,Hingna Regional Healthcare,PHC,Private,Nagpur,Hingna,15,2,2,1,Yes
+FAC0242,Bhusawal Civil Healthcare,PHC,Private,Jalgaon,Bhusawal,15,11,1,2,No
+FAC0243,Karjat Community Healthcare,Hospital,Government,Raigad,Karjat,293,67,22,2,Yes
+FAC0244,Pen Community Health Centre,PHC,Government,Raigad,Pen,11,7,0,1,No
+FAC0245,Sindkhede Civil Healthcare,PHC,Private,Dhule,Sindkhede,44,12,1,2,No
+FAC0246,Dadar Regional Medical Centre,CHC,Government,Mumbai,Dadar,59,26,8,1,Yes
+FAC0247,Wai Regional Health Centre,Clinic,Government,Satara,Wai,12,9,0,1,No
+FAC0248,Kurla Community Health Centre,CHC,Private,Mumbai,Kurla,67,51,8,2,Yes
+FAC0249,Niphad Community Clinic,PHC,Private,Nashik,Niphad,30,5,1,1,Yes
+FAC0250,Nashik Regional Hospital,PHC,Government,Nashik,Nashik,21,19,1,2,Yes
+FAC0251,Kurla Regional Clinic,Clinic,Government,Mumbai,Kurla,24,14,0,1,Yes
+FAC0252,Miraj Community Medical Centre,CHC,Private,Sangli,Miraj,96,30,3,4,Yes
+FAC0253,Kagal Primary Polyclinic,PHC,Government,Kolhapur,Kagal,36,7,1,2,Yes
+FAC0254,Butibori General Healthcare,PHC,Private,Nagpur,Butibori,16,1,0,2,No
+FAC0255,Phaltan Primary Clinic,PHC,Private,Satara,Phaltan,37,22,2,1,Yes
+FAC0256,Mangalvedhe General Clinic,Clinic,Private,Solapur,Mangalvedhe,28,20,0,1,No
+FAC0257,Solapur Rural Polyclinic,Clinic,Private,Solapur,Solapur,23,20,0,0,No
+FAC0258,Amalner Regional Polyclinic,CHC,Government,Jalgaon,Amalner,56,49,5,3,Yes
+FAC0259,Hingna Central Healthcare,PHC,Private,Nagpur,Hingna,19,13,2,2,Yes
+FAC0260,Uran Civil Hospital,PHC,Government,Raigad,Uran,44,38,0,2,Yes
+FAC0261,Pandharpur Regional Hospital,CHC,Private,Solapur,Pandharpur,35,24,6,4,No
+FAC0262,Khanapur Central Polyclinic,Clinic,Government,Sangli,Khanapur,22,16,0,0,Yes
+FAC0263,Solapur Civil Hospital,PHC,Government,Solapur,Solapur,40,30,0,2,No
+FAC0264,Mangalvedhe Central Hospital,CHC,Private,Solapur,Mangalvedhe,73,73,5,2,Yes
+FAC0265,Solapur Civil Polyclinic,PHC,Private,Solapur,Solapur,29,2,0,1,No
+FAC0266,Bhusawal Central Health Centre,CHC,Private,Jalgaon,Bhusawal,96,51,3,2,Yes
+FAC0267,Niphad Regional Hospital,CHC,Private,Nashik,Niphad,80,65,2,2,Yes
+FAC0268,Ahmednagar Central Hospital,CHC,Government,Ahmednagar,Ahmednagar,43,27,8,2,Yes
+FAC0269,Kupwad Civil Medical Centre,Clinic,Private,Sangli,Kupwad,24,21,0,1,Yes
+FAC0270,Igatpuri Civil Health Centre,PHC,Government,Nashik,Igatpuri,49,47,2,1,Yes
+FAC0271,Bhusawal Regional Clinic,Clinic,Government,Jalgaon,Bhusawal,21,15,0,1,Yes
+FAC0272,Bhusawal Rural Medical Centre,Clinic,Private,Jalgaon,Bhusawal,22,17,0,0,Yes
+FAC0273,Sakri Central Clinic,CHC,Private,Dhule,Sakri,31,9,5,2,No
+FAC0274,Sindkhede Primary Medical Centre,CHC,Government,Dhule,Sindkhede,92,81,3,1,Yes
+FAC0275,Paithan Central Healthcare,Clinic,Government,Aurangabad,Paithan,29,20,0,1,No
+FAC0276,Sillod Primary Clinic,PHC,Private,Aurangabad,Sillod,33,27,2,1,No
+FAC0277,Shrirampur Civil Clinic,Clinic,Private,Ahmednagar,Shrirampur,14,8,0,0,Yes
+FAC0278,Shrirampur Primary Health Centre,Hospital,Government,Ahmednagar,Shrirampur,157,57,27,8,Yes
+FAC0279,Kupwad Community Healthcare,CHC,Private,Sangli,Kupwad,98,46,3,3,Yes
+FAC0280,Borivali Rural Polyclinic,Hospital,Private,Mumbai,Borivali,434,184,31,2,No
+FAC0281,Pachora Community Polyclinic,Hospital,Government,Jalgaon,Pachora,474,297,20,8,Yes
+FAC0282,Latur Central Medical Centre,PHC,Government,Latur,Latur,35,26,2,2,Yes
+FAC0283,Dhule Regional Health Centre,PHC,Private,Dhule,Dhule,39,7,2,2,No
+FAC0284,Phaltan Central Medical Centre,Hospital,Private,Satara,Phaltan,215,161,23,7,Yes
+FAC0285,Pune Rural Clinic,Hospital,Private,Pune,Pune,370,100,34,2,No
+FAC0286,Ichalkaranji Community Hospital,PHC,Private,Kolhapur,Ichalkaranji,18,6,2,2,No
+FAC0287,Pandharpur Civil Polyclinic,CHC,Government,Solapur,Pandharpur,36,17,5,3,Yes
+FAC0288,Borivali District Hospital,Clinic,Government,Mumbai,Borivali,23,18,0,0,Yes
+FAC0289,Sindkhede Civil Hospital,CHC,Private,Dhule,Sindkhede,46,18,5,1,Yes
+FAC0290,Niphad Rural Hospital,Clinic,Private,Nashik,Niphad,29,22,0,0,No
+FAC0291,Udgir Central Health Centre,PHC,Government,Latur,Udgir,38,12,1,1,No
+FAC0292,Ahmednagar General Health Centre,Clinic,Government,Ahmednagar,Ahmednagar,23,13,0,1,No
+FAC0293,Katol Community Health Centre,Clinic,Private,Nagpur,Katol,24,24,0,1,Yes
+FAC0294,Amalner Primary Clinic,PHC,Government,Jalgaon,Amalner,28,27,2,1,No
+FAC0295,Deoni Rural Clinic,PHC,Government,Latur,Deoni,14,6,2,1,No
+FAC0296,Mohol Civil Hospital,Hospital,Private,Solapur,Mohol,399,76,16,9,Yes
+FAC0297,Baramati Regional Polyclinic,Clinic,Government,Pune,Baramati,21,18,0,1,No
+FAC0298,Khanapur Primary Health Centre,PHC,Private,Sangli,Khanapur,19,10,1,1,Yes
+FAC0299,Latur Primary Hospital,PHC,Government,Latur,Latur,29,25,2,2,No
+FAC0300,Dadar Rural Hospital,Clinic,Private,Mumbai,Dadar,24,11,0,0,Yes
