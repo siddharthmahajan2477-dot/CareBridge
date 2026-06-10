@@ -19,7 +19,13 @@ gemini_model = genai.GenerativeModel(
 )
 
 # ---------------- ML MODEL ----------------
-model = joblib.load("resource_prediction.pkl")
+MODEL_URL = "https://github.com/siddharthmahajan2477-dot/CareBridge/releases/download/v1.0/resource_prediction.pkl"
+MODEL_PATH = "resource_prediction.pkl"
+
+if not os.path.exists(MODEL_PATH):
+    urllib.request.urlretrieve(MODEL_URL, MODEL_PATH)
+
+model = joblib.load(MODEL_PATH)
 
 # ---------------- DB ----------------
 conn = sqlite3.connect("carebridge.db")
