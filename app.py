@@ -2,6 +2,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import joblib
+import urllib.request
 import plotly.express as px
 import google.generativeai as genai
 from dotenv import load_dotenv
